@@ -1,0 +1,42 @@
+2025-06-20 | NV008 | CN03 | ca=DEM | vao=12:08 | ra=17:00
+2025-06-07|NV003|CN02|ca=CHIEU|vao=12:03|ra=17:00
+2025-06-30 | NV014 | CN01 | ca=DEM | vao=06:59 | ra=11:00
+2025-06-13 | NV012 | CN02 | ca=DEM | vao=17:09 | ra=22:00
+2025-06-13 | NV014 | CN03 | ca=chieu | vao=12:06 | ra=17:00
+2025-06-14|NV007|CN04|ca=TOI|vao=17:04|ra=22:00
+2025-06-13 | NV10 | CN01 | ca=SANG | vao=06:58 | ra=11:00
+2025-06-11 | NV012 | CN04 | ca=toi | vao=16:59 | ra=22:00
+2025-06-17 | NV007 | CN03 | ca=chieu | vao=12:09 | ra=17:00
+2025-06-18 | NV013 | CN01 | ca=SANG | vao=07h13 | ra=11:00
+2025-06-19 | NV006 | CN03 | ca=sang | vao=07:13 | ra=11:00
+2025-06-02 | NV005 | CN04 | ca=DEM | vao=17:13 | ra=22:00
+2025-06-07 | NV13 | CN04 | ca=CHIEU | vao=12:06 | ra=17:00
+2025-06-17 | NV014 | CN02 | ca=TOI | vao=17:13
+2025-06-01|NV002|CN03|ca=CHIEU|vao=12:12|ra=17:00
+2025-06-05 | NV003 | CN02 | ca=TOI | vao=16:51
+2025-06-22 | NV007 | CN03 | ca=SANG | vao=07h02 | ra=11:00
+2025-06-24 | NV006 | CN03 | ca=sang | vao=07:08 | ra=11:00
+2025-06-06 | NV003 | CN02 | ca=TOI | vao=17h08 | ra=22:00
+2025-06-30 | NV007 | CN02 | ca=SANG | vao=06h55 | ra=11:00
+2025-06-03 | NV008 | CN03 | ca=TOI | vao=17:11
+2025-06-05 | NV007 | CN04 | ca=SANG | vao=06:53
+2025-06-17 | NV04 | CN02 | ca=CHIEU | vao=12:05 | ra=17:00
+2025-06-19 | NV14 | CN01 | ca=TOI | vao=16:51 | ra=22:00
+2025-06-01 | NV010 | CN01 | ca=DEM | vao=12:09 | ra=17:00
+2025-06-29 | NV10 | CN01 | ca=SANG | vao=07:00 | ra=11:00
+2025-06-08 | NV010 | CN02 | ca=toi | vao=16:58 | ra=22:00
+2025-06-03 | NV004 | CN02 | ca=sang | vao=07:14 | ra=11:00
+2025-06-27|NV007|CN04|ca=TOI|vao=16:50|ra=22:00
+2025-06-08 | NV001 | CN02 | ca=SANG | vao=06h57 | ra=11:00
+2025-06-18 | NV005 | CN03 | ca=SANG | vao=07h04 | ra=11:00
+2025-06-23 | NV12 | CN03 | ca=SANG | vao=07:06 | ra=11:00
+2025-06-02 | NV001 | CN04 | ca=CHIEU | vao=11:59
+2025-06-27 | NV003 | CN01 | ca=TOI | vao=17:08
+2025-06-12 | NV002 | CN01 | ca=DEM | vao=12:03 | ra=17:00
+2025-06-24|NV006|CN02|ca=CHIEU|vao=12:10|ra=17:00
+2025-06-20 | NV011 | CN03 | ca=TOI | vao=16:56
+2025-06-05 | NV005 | CN03 | ca=TOI | vao=16h50 | ra=22:00
+2025-06-28 | NV08 | CN02 | ca=CHIEU | vao=12:06 | ra=17:00
+2025-06-09|NV005|CN03|ca=TOI|vao=17:03|ra=22:00
+2025-06-26|NV005|CN02|ca=CHIEU|vao=11:55|ra=17:00
+2025-06-24 | NV014 | CN04 | ca=DEM | vao=11:55 | ra=17:00

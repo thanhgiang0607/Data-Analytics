@@ -1,0 +1,2437 @@
+ma_don,ngay_dat,ma_kh,thanh_pho,danh_muc,don_gia,so_luong,phuong_thuc_tt,danh_gia
+DH00001,01/01/2025,KH0375,Cần Thơ,Thực phẩm,22000,2,Tiền mặt,3
+DH00002,01/01/2025,KH0277,Hà Nội,Gia dụng,402000,1,Chuyển khoản,5
+DH00003,01/01/2025,KH0374,Hà Nội,Văn phòng phẩm,16000,5,Chuyển khoản,
+DH00004,01/01/2025,KH0104,Hà Nội,Mỹ phẩm,261000,2,Tiền mặt,5
+DH00005,01/01/2025,KH0338,Hồ Chí Minh,Gia dụng,560000,2,Chuyển khoản,3
+DH00006,01/01/2025,KH0435,Hồ Chí Minh,Gia dụng,427000,2,Chuyển khoản,3
+DH00007,01/01/2025,KH0201,Huế,Thực phẩm,112000,3,Tiền mặt,5
+DH00008,01/01/2025,KH0136,Hà Nội,Đồ uống,22000,4,Chuyển khoản,3
+DH00009,01/01/2025,KH0372,Hồ Chí Minh,Văn phòng phẩm,32000,4,Chuyển khoản,
+DH00010,01/01/2025,KH0323,Cần Thơ,Gia dụng,434000,4,Ví điện tử,
+DH00011,01/01/2025,KH0282,Hà Nội,Mỹ phẩm,382000,2,Tiền mặt,5
+DH00012,01/01/2025,KH0366,Hà Nội,Văn phòng phẩm,19000,1,Chuyển khoản,5
+DH00013,01/01/2025,KH0237,Huế,Đồ uống,13000,4,Ví điện tử,
+DH00014,01/01/2025,KH0246,Hà Nội,Thực phẩm,100000,3,Tiền mặt,5
+DH00015,01/01/2025,KH0536,Hà Nội,Gia dụng,235000,1,Ví điện tử,
+DH00016,01/01/2025,KH0007,Hà Nội ,Văn phòng phẩm,39000,5,Tiền mặt,4
+DH00017,01/01/2025,KH0305, hà nội  ,Mỹ phẩm,434000,2,Ví điện tử,
+DH00018,02/01/2025,KH0372,hà nội,Thực phẩm,46000,4,Tiền mặt,3
+DH00019,02/01/2025,KH0020, hà nội  ,Văn phòng phẩm,34000,7,Ví điện tử,3
+DH00020,02/01/2025,KH0151,hà nội,Văn phòng phẩm,27000,1,Chuyển khoản,1
+DH00021,02/01/2025,KH0380,Đà Nẵng,Thực phẩm,31000,7,Tiền mặt,5
+DH00022,02/01/2025,KH0149,Hà Nội ,Mỹ phẩm,174000,2,Tiền mặt,
+DH00023,02/01/2025,KH0076,Đà Nẵng,Thực phẩm,22000,1,Chuyển khoản,3
+DH00024,02/01/2025,KH0248,Cần Thơ,Văn phòng phẩm,14000,1,Chuyển khoản,4
+DH00025,02/01/2025,KH0236,Hồ Chí Minh,Đồ uống,14000,6,Tiền mặt,5
+DH00026,02/01/2025,KH0155,Hà Nội,Đồ uống,27000,5,Chuyển khoản,5
+DH00027,02/01/2025,KH0248,Hà Nội ,Đồ uống,13000,4,Tiền mặt,3
+DH00028,02/01/2025,,Hồ Chí Minh,Gia dụng,419000,1,Ví điện tử,4
+DH00029,02/01/2025,KH0268,Đà Nẵng,Thực phẩm,44000,3,Tiền mặt,
+DH00030,02/01/2025,KH0449,Cần Thơ,Thực phẩm,88000,1,Chuyển khoản,4
+DH00031,02/01/2025,KH0192,Hồ Chí Minh,Văn phòng phẩm,15000,4,Chuyển khoản,1
+DH00032,03/01/2025,KH0310,Hồ Chí Minh,Thực phẩm,60000,2,Chuyển khoản,3
+DH00033,03/01/2025,KH0239,Cần Thơ,Đồ uống,14000,4,Ví điện tử,
+DH00034,03/01/2025,KH0180,Hồ Chí Minh,Thực phẩm,126000,3,Tiền mặt,3
+DH00035,03/01/2025,KH0058,Hà Nội,Đồ uống,13000,3,Chuyển khoản,5
+DH00036,03/01/2025,KH0367,Hà Nội,Thực phẩm,142000,3,Chuyển khoản,5
+DH00037,03/01/2025,KH0052,Hà Nội,Đồ uống,45000,4,Tiền mặt,3
+DH00038,03/01/2025,KH0415,Hồ Chí Minh,Văn phòng phẩm,51000,4,Ví điện tử,5
+DH00039,03/01/2025,KH0060,Huế,Thực phẩm,64000,2,Ví điện tử,2
+DH00040,03/01/2025,KH0253,Đà Nẵng,Mỹ phẩm,101000,5,Tiền mặt,5
+DH00041,03/01/2025,KH0198,Hồ Chí Minh,Thực phẩm,147000,3,Chuyển khoản,3
+DH00042,03/01/2025,KH0487,Hà Nội,Mỹ phẩm,406000,4,Chuyển khoản,5
+DH00043,04/01/2025,KH0059,Hà Nội,Đồ uống,36000,3,Chuyển khoản,
+DH00044,04/01/2025,KH0025,Hà Nội,Đồ uống,37000,8,Ví điện tử,
+DH00045,04/01/2025,KH0105,Đà Nẵng,Văn phòng phẩm,16000,4,Tiền mặt,5
+DH00046,04/01/2025,KH0276,Đà Nẵng,Đồ uống,27000,1,Ví điện tử,4
+DH00047,04/01/2025,KH0258,Hồ Chí Minh,Văn phòng phẩm,48000,4,Chuyển khoản,3
+DH00048,04/01/2025,KH0195,Hà Nội,Văn phòng phẩm,11000,4,Ví điện tử,
+DH00049,04/01/2025,KH0279,Hà Nội,Đồ uống,41000,3,Tiền mặt,3
+DH00050,04/01/2025,,Hà Nội,Mỹ phẩm,210000,2,Ví điện tử,2
+DH00051,04/01/2025,,Hồ Chí Minh,Gia dụng,499000,2,Chuyển khoản,3
+DH00052,04/01/2025,KH0187,Hà Nội,Mỹ phẩm,224000,4,Ví điện tử,4
+DH00053,04/01/2025,KH0406,Hồ Chí Minh,Đồ uống,20000,3,Ví điện tử,5
+DH00054,04/01/2025,,Cần Thơ,Thực phẩm,58000,1,Tiền mặt,4
+DH00055,04/01/2025,KH0228,Hà Nội,Thực phẩm,117000,1,Ví điện tử,5
+DH00056,04/01/2025,KH0368,Hồ Chí Minh,Văn phòng phẩm,13000,3,Chuyển khoản,4
+DH00057,04/01/2025,KH0374,Hà Nội,Gia dụng,95000,3,Tiền mặt,3
+DH00058,04/01/2025,KH0202,HUẾ,Mỹ phẩm,142000,2,Ví điện tử,
+DH00059,05/01/2025,KH0139,Cần Thơ,Đồ uống,40000,1,Tiền mặt,2
+DH00060,05/01/2025,KH0437,Hà Nội,Thực phẩm,30000,,Chuyển khoản,4
+DH00061,05/01/2025,KH0054,Đà Nẵng,Thực phẩm,112000,2,Ví điện tử,
+DH00062,05/01/2025,,Hồ Chí Minh,Văn phòng phẩm,22000,4,Chuyển khoản,3
+DH00063,05/01/2025,KH0507,hồ chí minh,Mỹ phẩm,395000,2,Ví điện tử,2
+DH00064,05/01/2025,KH0384,Đà Nẵng,Thực phẩm,63000,3,Tiền mặt,
+DH00065,05/01/2025,KH0428,Đà Nẵng,Thực phẩm,120000,2,Tiền mặt,4
+DH00066,05/01/2025,KH0488,Cần Thơ,Văn phòng phẩm,14000,5,Chuyển khoản,3
+DH00067,05/01/2025,KH0445,Hồ Chí Minh ,Gia dụng,310000,2,Tiền mặt,3
+DH00068,05/01/2025,KH0041,Hà Nội,Đồ uống,37000,4,Ví điện tử,2
+DH00069,05/01/2025,KH0358, hà nội  ,Văn phòng phẩm,46000,3,Chuyển khoản,4
+DH00070,05/01/2025,KH0299,Hồ Chí Minh,Văn phòng phẩm,13000,,Chuyển khoản,3
+DH00071,05/01/2025,KH0003,Hồ Chí Minh,Gia dụng,169000,2,Ví điện tử,
+DH00072,05/01/2025,KH0110, hà nội  ,Đồ uống,19000,3,Tiền mặt,4
+DH00073,05/01/2025,KH0190,Cần Thơ,Mỹ phẩm,310000,2,Chuyển khoản,3
+DH00074,05/01/2025,KH0144,Hà Nội,Văn phòng phẩm,28000,3,Chuyển khoản,5
+DH00075,05/01/2025,KH0110,Huế,Thực phẩm,79000,3,Tiền mặt,5
+DH00076,05/01/2025,KH0417,Đà Nẵng,Thực phẩm,39000,6,Tiền mặt,1
+DH00077,06/01/2025,KH0056,Đà Nẵng,Đồ uống,34000,4,Ví điện tử,4
+DH00078,06/01/2025,KH0267,Huế,Đồ uống,17000,4,Tiền mặt,5
+DH00079,06/01/2025,KH0337, cần thơ  ,Thực phẩm,63000,4,Tiền mặt,2
+DH00080,06/01/2025,KH0144,Hà Nội,Thực phẩm,77000,4,Tiền mặt,4
+DH00081,06/01/2025,KH0094,Hồ Chí Minh,Đồ uống,35000,2,Chuyển khoản,5
+DH00082,06/01/2025,KH0461,Đà Nẵng ,Đồ uống,41000,7,Chuyển khoản,4
+DH00083,06/01/2025,KH0473,HỒ CHÍ MINH,Gia dụng,114000,2,Ví điện tử,3
+DH00084,06/01/2025,KH0136,Hồ Chí Minh,Văn phòng phẩm,10000,3,Chuyển khoản,5
+DH00085,06/01/2025,KH0102,HỒ CHÍ MINH,Đồ uống,33000,2,Ví điện tử,3
+DH00086,06/01/2025,KH0193,Đà Nẵng,Thực phẩm,38000,2,Chuyển khoản,3
+DH00087,06/01/2025,KH0477,Cần Thơ ,Văn phòng phẩm,56000,4,Chuyển khoản,2
+DH00088,06/01/2025,,Hà Nội,Mỹ phẩm,436000,1,Chuyển khoản,4
+DH00089,06/01/2025,KH0168,Huế,Thực phẩm,149000,2,Chuyển khoản,4
+DH00090,06/01/2025,,Hồ Chí Minh,Đồ uống,23000,2,Chuyển khoản,
+DH00091,06/01/2025,KH0253,Huế,Thực phẩm,79000,5,Chuyển khoản,2
+DH00092,06/01/2025,KH0267,Huế,Mỹ phẩm,406000,,Tiền mặt,2
+DH00093,06/01/2025,KH0033,Hà Nội,Thực phẩm,99000,3,Ví điện tử,4
+DH00094,07/01/2025,KH0438,Hà Nội,Mỹ phẩm,143000,1,Chuyển khoản,4
+DH00095,07/01/2025,KH0155,Huế,Văn phòng phẩm,11000,3,Chuyển khoản,5
+DH00096,07/01/2025,KH0180,Hà Nội,Đồ uống,17000,6,Ví điện tử,
+DH00097,07/01/2025,KH0436,Hồ Chí Minh,Đồ uống,21000,5,Tiền mặt,4
+DH00098,07/01/2025,KH0370,Hồ Chí Minh,Đồ uống,41000,7,Ví điện tử,
+DH00099,07/01/2025,KH0172,Hà Nội,Mỹ phẩm,96000,1,Ví điện tử,2
+DH00100,07/01/2025,KH0032,Hà Nội,Thực phẩm,102000,2,Tiền mặt,
+DH00101,07/01/2025,KH0235,Hà Nội,Gia dụng,262000,5,Chuyển khoản,
+DH00102,07/01/2025,KH0178,Hà Nội,Thực phẩm,33000,3,Chuyển khoản,4
+DH00103,07/01/2025,KH0131,Đà Nẵng,Thực phẩm,43000,5,Ví điện tử,3
+DH00104,07/01/2025,KH0023,Huế,Văn phòng phẩm,57000,7,Chuyển khoản,4
+DH00105,07/01/2025,KH0386,Hà Nội,Thực phẩm,68000,4,Chuyển khoản,4
+DH00106,07/01/2025,KH0210,Hồ Chí Minh,Mỹ phẩm,266000,6,Ví điện tử,4
+DH00107,08/01/2025,KH0210,Hà Nội,Thực phẩm,78000,4,Chuyển khoản,3
+DH00108,08/01/2025,KH0272,hà nội,Đồ uống,42000,2,Tiền mặt,4
+DH00109,08/01/2025,KH0201,Cần Thơ ,Thực phẩm,82000,2,Tiền mặt,3
+DH00110,08/01/2025,KH0161,Hà Nội,Đồ uống,24000,4,Ví điện tử,4
+DH00111,08/01/2025,KH0026,Hà Nội,Đồ uống,34000,4,Chuyển khoản,
+DH00112,08/01/2025,KH0039,Huế,Thực phẩm,107000,2,Chuyển khoản,4
+DH00113,08/01/2025,KH0053,Đà Nẵng,Văn phòng phẩm,41000,2,Chuyển khoản,2
+DH00113,08/01/2025,KH0053,Đà Nẵng,Văn phòng phẩm,41000,2,Chuyển khoản,2
+DH00114,08/01/2025,KH0024,Hồ Chí Minh,Thực phẩm,50000,4,Tiền mặt,3
+DH00115,08/01/2025,KH0153,Cần Thơ,Văn phòng phẩm,41000,1,Chuyển khoản,3
+DH00116,08/01/2025,KH0170,HÀ NỘI,Gia dụng,382000,3,Tiền mặt,
+DH00117,08/01/2025,KH0415,Hà Nội,Văn phòng phẩm,51000,6,Chuyển khoản,2
+DH00118,09/01/2025,,Cần Thơ,Đồ uống,44000,2,Ví điện tử,1
+DH00119,09/01/2025,KH0153,Hồ Chí Minh,Mỹ phẩm,173000,1,Chuyển khoản,5
+DH00120,09/01/2025,KH0217,Đà Nẵng,Mỹ phẩm,410000,1,Chuyển khoản,4
+DH00121,09/01/2025,KH0092,Huế,Thực phẩm,93000,3,Chuyển khoản,4
+DH00122,09/01/2025,KH0102,Hồ Chí Minh,Đồ uống,26000,3,Ví điện tử,4
+DH00123,09/01/2025,KH0396,Cần Thơ,Đồ uống,34000,4,Tiền mặt,3
+DH00124,09/01/2025,KH0210,Hà Nội,Đồ uống,45000,7,Ví điện tử,2
+DH00125,09/01/2025,KH0263,Hồ Chí Minh,Mỹ phẩm,319000,1,Ví điện tử,5
+DH00126,09/01/2025,KH0412,Hồ Chí Minh,Mỹ phẩm,243000,3,Chuyển khoản,4
+DH00127,09/01/2025,KH0436,Hồ Chí Minh,Mỹ phẩm,110000,4,Ví điện tử,
+DH00128,09/01/2025,KH0451,Cần Thơ,Thực phẩm,147000,4,Tiền mặt,5
+DH00129,09/01/2025,KH0336,  Cần Thơ,Đồ uống,42000,6,Chuyển khoản,5
+DH00130,10/01/2025,KH0473,Hà Nội,Đồ uống,15000,11,Tiền mặt,4
+DH00131,10/01/2025,KH0235,Hồ Chí Minh,Mỹ phẩm,182000,3,Chuyển khoản,
+DH00132,10/01/2025,KH0141,Hà Nội ,Đồ uống,34000,5,Ví điện tử,
+DH00133,10/01/2025,KH0261,Hồ Chí Minh,Mỹ phẩm,329000,2,Ví điện tử,3
+DH00134,10/01/2025,KH0210,Đà Nẵng,Thực phẩm,125000,5,Tiền mặt,5
+DH00135,10/01/2025,KH0170,  Đà Nẵng,Thực phẩm,52000,4,Tiền mặt,4
+DH00136,10/01/2025,KH0105,Đà Nẵng,Gia dụng,127000,4,Tiền mặt,4
+DH00137,10/01/2025,KH0126,Hồ Chí Minh,Mỹ phẩm,434000,4,Tiền mặt,4
+DH00138,10/01/2025,KH0232,Hà Nội,Đồ uống,31000,3,Ví điện tử,4
+DH00139,10/01/2025,KH0412,Hồ Chí Minh,Văn phòng phẩm,7000,5,Chuyển khoản,1
+DH00140,10/01/2025,KH0095,Hà Nội,Thực phẩm,120000,2,Ví điện tử,3
+DH00141,10/01/2025,KH0135,Hồ Chí Minh,Mỹ phẩm,99000,3,Chuyển khoản,1
+DH00142,10/01/2025,KH0369,Hà Nội,Thực phẩm,102000,3,Ví điện tử,4
+DH00143,10/01/2025,KH0162,Hồ Chí Minh,Văn phòng phẩm,15000,1,Ví điện tử,5
+DH00144,11/01/2025,KH0147,Đà Nẵng,Đồ uống,35000,4,Tiền mặt,4
+DH00145,11/01/2025,KH0139,Hồ Chí Minh,Thực phẩm,76000,6,Ví điện tử,5
+DH00145,11/01/2025,KH0139,Hồ Chí Minh,Thực phẩm,76000,6,Ví điện tử,5
+DH00146,11/01/2025,KH0147,Hồ Chí Minh,Thực phẩm,22000,2,Tiền mặt,
+DH00147,11/01/2025,KH0351,Hà Nội,Văn phòng phẩm,44000,6,Chuyển khoản,5
+DH00148,11/01/2025,KH0435,Hà Nội,Đồ uống,37000,8,Ví điện tử,5
+DH00149,11/01/2025,,Huế,Đồ uống,26000,,Ví điện tử,
+DH00150,11/01/2025,,Hà Nội,Mỹ phẩm,309000,2,Chuyển khoản,4
+DH00151,11/01/2025,KH0301,Hồ Chí Minh,Mỹ phẩm,232000,1,Ví điện tử,4
+DH00152,11/01/2025,KH0127,HỒ CHÍ MINH,Mỹ phẩm,188000,2,Ví điện tử,
+DH00153,11/01/2025,KH0033,Hồ Chí Minh,Đồ uống,30000,12,Ví điện tử,4
+DH00154,11/01/2025,KH0112,HỒ CHÍ MINH,Mỹ phẩm,140000,3,Ví điện tử,4
+DH00155,11/01/2025,KH0297,Huế,Mỹ phẩm,184000,2,Chuyển khoản,3
+DH00156,11/01/2025,KH0012,Cần Thơ,Thực phẩm,36000,6,Ví điện tử,4
+DH00157,11/01/2025,KH0063,Hồ Chí Minh,Thực phẩm,97000,,Chuyển khoản,3
+DH00158,11/01/2025,KH0418,Hà Nội,Mỹ phẩm,394000,,Ví điện tử,
+DH00159,11/01/2025,KH0025,huế,Văn phòng phẩm,32000,2,Chuyển khoản,3
+DH00160,11/01/2025,KH0253,Cần Thơ ,Mỹ phẩm,305000,6,Tiền mặt,4
+DH00161,12/01/2025,KH0233,Cần Thơ,Thực phẩm,133000,1,Chuyển khoản,4
+DH00162,12/01/2025,,Huế,Thực phẩm,61000,2,Ví điện tử,1
+DH00163,12/01/2025,KH0251,Đà Nẵng,Thực phẩm,47000,5,Tiền mặt,5
+DH00164,12/01/2025,KH0285,Hồ Chí Minh,Văn phòng phẩm,11000,3,Ví điện tử,4
+DH00165,12/01/2025,KH0417,HÀ NỘI,Văn phòng phẩm,15000,4,Ví điện tử,
+DH00166,12/01/2025,KH0006,Hà Nội,Văn phòng phẩm,32000,2,Ví điện tử,3
+DH00167,12/01/2025,KH0272,Hà Nội,Mỹ phẩm,341000,2,Chuyển khoản,4
+DH00168,12/01/2025,KH0047,Hồ Chí Minh,Đồ uống,31000,2,Chuyển khoản,3
+DH00169,12/01/2025,KH0258,Hà Nội,Đồ uống,39000,9,Chuyển khoản,2
+DH00170,12/01/2025,KH0218,Hồ Chí Minh ,Thực phẩm,57000,4,Ví điện tử,
+DH00171,12/01/2025,,Hồ Chí Minh,Thực phẩm,148000,1,Chuyển khoản,3
+DH00172,12/01/2025,KH0164,Hà Nội,Mỹ phẩm,273000,1,Chuyển khoản,2
+DH00173,12/01/2025,KH0434,Đà Nẵng,Mỹ phẩm,237000,2,Chuyển khoản,4
+DH00174,12/01/2025,KH0097,Đà Nẵng,Đồ uống,15000,5,Ví điện tử,5
+DH00175,13/01/2025,KH0224,Hà Nội,Thực phẩm,63000,6,Ví điện tử,4
+DH00176,13/01/2025,,Hà Nội,Thực phẩm,68000,3,Tiền mặt,4
+DH00177,13/01/2025,KH0400,Hà Nội,Mỹ phẩm,267000,4,Chuyển khoản,
+DH00178,13/01/2025,KH0363,đà nẵng,Gia dụng,377000,2,Tiền mặt,1
+DH00179,13/01/2025,,Hồ Chí Minh,Thực phẩm,30000,3,Ví điện tử,2
+DH00180,13/01/2025,KH0353,Cần Thơ,Thực phẩm,80000,5,Tiền mặt,
+DH00181,13/01/2025,KH0421,Hồ Chí Minh,Thực phẩm,62000,1,Chuyển khoản,
+DH00182,13/01/2025,KH0421,Hồ Chí Minh,Thực phẩm,72000,4,Ví điện tử,4
+DH00183,13/01/2025,KH0301,Huế,Thực phẩm,39000,1,Tiền mặt,5
+DH00184,13/01/2025,KH0215,Hà Nội,Đồ uống,24000,2,Ví điện tử,3
+DH00185,13/01/2025,KH0193,Hồ Chí Minh,Thực phẩm,93000,4,Ví điện tử,1
+DH00186,13/01/2025,KH0249,Cần Thơ,Gia dụng,149000,2,Chuyển khoản,3
+DH00187,13/01/2025,KH0451,Hà Nội,Văn phòng phẩm,46000,3,Ví điện tử,4
+DH00188,13/01/2025,KH0469,Cần Thơ,Đồ uống,27000,4,Ví điện tử,3
+DH00189,14/01/2025,,Đà Nẵng,Thực phẩm,65000,3,Chuyển khoản,5
+DH00189,14/01/2025,,Đà Nẵng,Thực phẩm,65000,3,Chuyển khoản,5
+DH00190,14/01/2025,KH0448,Hà Nội,Đồ uống,18000,3,Ví điện tử,
+DH00191,14/01/2025,,HUẾ,Thực phẩm,63000,3,Tiền mặt,5
+DH00192,14/01/2025,,Đà Nẵng,Văn phòng phẩm,15000,4,Chuyển khoản,5
+DH00193,14/01/2025,KH0403,CẦN THƠ,Thực phẩm,121000,2,Ví điện tử,4
+DH00194,14/01/2025,KH0479,Hồ Chí Minh,Thực phẩm,87000,4,Ví điện tử,4
+DH00195,14/01/2025,KH0011,Hồ Chí Minh,Thực phẩm,68000,6,Tiền mặt,4
+DH00196,14/01/2025,KH0287,Hồ Chí Minh ,Đồ uống,36000,,Ví điện tử,4
+DH00197,14/01/2025,KH0236,  Hà Nội,Gia dụng,487000,2,Chuyển khoản,4
+DH00198,14/01/2025,KH0006,Huế,Đồ uống,22000,3,Chuyển khoản,5
+DH00199,14/01/2025,KH0428,Hồ Chí Minh,Gia dụng,241000,6,Chuyển khoản,3
+DH00200,14/01/2025,KH0120,Huế,Thực phẩm,105000,,Tiền mặt,5
+DH00201,14/01/2025,KH0083,Đà Nẵng,Gia dụng,88000,,Tiền mặt,2
+DH00202,14/01/2025,KH0489,Đà Nẵng,Văn phòng phẩm,15000,3,Tiền mặt,4
+DH00203,14/01/2025,KH0452, cần thơ  ,Đồ uống,29000,6,Tiền mặt,3
+DH00204,15/01/2025,KH0431,Đà Nẵng,Thực phẩm,114000,4,Tiền mặt,3
+DH00204,15/01/2025,KH0431,Đà Nẵng,Thực phẩm,114000,4,Tiền mặt,3
+DH00205,15/01/2025,KH0118,Hồ Chí Minh,Đồ uống,43000,6,Tiền mặt,4
+DH00206,15/01/2025,KH0413,Hồ Chí Minh,Gia dụng,584000,5,Chuyển khoản,2
+DH00207,15/01/2025,KH0082,Huế,Mỹ phẩm,388000,4,Tiền mặt,4
+DH00208,15/01/2025,KH0034,Huế,Thực phẩm,71000,8,Tiền mặt,4
+DH00209,15/01/2025,KH0047,Hồ Chí Minh,Văn phòng phẩm,7000,2,Tiền mặt,5
+DH00210,15/01/2025,KH0404,Hồ Chí Minh,Thực phẩm,29000,1,Ví điện tử,4
+DH00211,15/01/2025,KH0200,Hà Nội,Đồ uống,27000,3,Chuyển khoản,1
+DH00212,15/01/2025,KH0459,Đà Nẵng,Đồ uống,43000,4,Tiền mặt,3
+DH00213,15/01/2025,KH0053,ĐÀ NẴNG,Đồ uống,26000,2,Chuyển khoản,5
+DH00214,15/01/2025,KH0154,Hồ Chí Minh,Mỹ phẩm,212000,8,Chuyển khoản,
+DH00215,16/01/2025,KH0097,Hồ Chí Minh,Thực phẩm,57000,7,Ví điện tử,3
+DH00216,16/01/2025,KH0395,Hồ Chí Minh,Thực phẩm,46000,6,Chuyển khoản,
+DH00217,16/01/2025,KH0013,Cần Thơ,Thực phẩm,28000,5,Chuyển khoản,5
+DH00218,16/01/2025,KH0132,Hồ Chí Minh,Gia dụng,135000,6,Ví điện tử,5
+DH00219,16/01/2025,KH0494,Đà Nẵng,Thực phẩm,111000,4,Ví điện tử,4
+DH00220,16/01/2025,KH0172,Cần Thơ ,Thực phẩm,140000,,Tiền mặt,3
+DH00221,16/01/2025,KH0402,Hồ Chí Minh,Văn phòng phẩm,11000,5,Tiền mặt,
+DH00222,16/01/2025,KH0438,Cần Thơ,Gia dụng,421000,2,Chuyển khoản,4
+DH00223,16/01/2025,KH0059,hồ chí minh,Mỹ phẩm,200000,3,Ví điện tử,3
+DH00224,16/01/2025,KH0101,Đà Nẵng,Đồ uống,24000,3,Tiền mặt,4
+DH00225,16/01/2025,KH0120,Hà Nội,Đồ uống,27000,4,Ví điện tử,3
+DH00226,16/01/2025,KH0360,Hà Nội ,Văn phòng phẩm,37000,3,Chuyển khoản,5
+DH00227,16/01/2025,KH0152,Cần Thơ,Thực phẩm,143000,3,Ví điện tử,1
+DH00228,17/01/2025,,Hà Nội,Mỹ phẩm,134000,2,Tiền mặt,4
+DH00229,17/01/2025,KH0355,hà nội,Văn phòng phẩm,24000,6,Tiền mặt,
+DH00230,17/01/2025,,Hồ Chí Minh,Thực phẩm,43000,2,Ví điện tử,4
+DH00231,17/01/2025,KH0376,Hà Nội,Thực phẩm,60000,3,Tiền mặt,
+DH00232,17/01/2025,KH0438,Hồ Chí Minh,Mỹ phẩm,197000,2,Tiền mặt,4
+DH00233,17/01/2025,KH0219,Huế,Gia dụng,100000,6,Tiền mặt,5
+DH00234,17/01/2025,KH0218,Huế,Mỹ phẩm,362000,3,Tiền mặt,2
+DH00235,17/01/2025,KH0289,Hồ Chí Minh,Gia dụng,449000,1,Chuyển khoản,
+DH00236,17/01/2025,KH0053,Cần Thơ,Thực phẩm,31000,5,Ví điện tử,4
+DH00237,17/01/2025,KH0349,Cần Thơ,Đồ uống,28000,4,Ví điện tử,2
+DH00238,17/01/2025,KH0344,Hà Nội,Thực phẩm,111000,4,Ví điện tử,5
+DH00239,17/01/2025,KH0085,hồ chí minh,Đồ uống,42000,4,Chuyển khoản,
+DH00240,17/01/2025,KH0414,Hà Nội,Thực phẩm,56000,3,Ví điện tử,5
+DH00241,18/01/2025,,Đà Nẵng,Gia dụng,551000,2,Tiền mặt,4
+DH00242,18/01/2025,KH0036,Hà Nội,Mỹ phẩm,140000,3,Chuyển khoản,3
+DH00243,18/01/2025,,hồ chí minh,Thực phẩm,86000,1,Ví điện tử,5
+DH00244,18/01/2025,KH0089,Đà Nẵng,Gia dụng,470000,3,Ví điện tử,5
+DH00245,18/01/2025,KH0372,Hà Nội,Văn phòng phẩm,32000,4,Ví điện tử,
+DH00246,18/01/2025,,Hồ Chí Minh,Đồ uống,31000,3,Ví điện tử,3
+DH00247,18/01/2025,KH0376,Hà Nội,Đồ uống,30000,2,Chuyển khoản,3
+DH00248,18/01/2025,KH0402,Hồ Chí Minh,Thực phẩm,70000,1,Chuyển khoản,1
+DH00249,18/01/2025,, hồ chí minh  ,Đồ uống,12000,2,Tiền mặt,
+DH00250,18/01/2025,KH0247,Cần Thơ,Gia dụng,357000,3,Chuyển khoản,5
+DH00251,18/01/2025,KH0265,Hà Nội,Mỹ phẩm,417000,1,Tiền mặt,
+DH00252,18/01/2025,KH0283,Đà Nẵng,Đồ uống,15000,5,Chuyển khoản,4
+DH00253,18/01/2025,KH0165,Huế,Thực phẩm,41000,4,Tiền mặt,4
+DH00254,18/01/2025,KH0273,Hồ Chí Minh,Văn phòng phẩm,5000,,Chuyển khoản,2
+DH00255,18/01/2025,KH0080,Đà Nẵng,Văn phòng phẩm,40000,3,Tiền mặt,4
+DH00256,18/01/2025,KH0356,Huế,Thực phẩm,116000,2,Chuyển khoản,3
+DH00257,18/01/2025,KH0112,Cần Thơ,Đồ uống,43000,4,Tiền mặt,4
+DH00258,18/01/2025,KH0163,Đà Nẵng,Gia dụng,519000,2,Ví điện tử,3
+DH00259,19/01/2025,KH0045,Cần Thơ,Thực phẩm,113000,4,Tiền mặt,5
+DH00260,19/01/2025,,Hồ Chí Minh,Văn phòng phẩm,38000,3,Ví điện tử,3
+DH00261,19/01/2025,KH0029,Cần Thơ,Đồ uống,18000,4,Tiền mặt,5
+DH00262,19/01/2025,KH0160,hồ chí minh,Mỹ phẩm,277000,8,Chuyển khoản,4
+DH00263,19/01/2025,KH0050,Hà Nội,Văn phòng phẩm,18000,5,Tiền mặt,5
+DH00264,19/01/2025,KH0265,Hồ Chí Minh,Đồ uống,33000,5,Tiền mặt,3
+DH00265,19/01/2025,KH0341,Cần Thơ,Thực phẩm,65000,2,Chuyển khoản,5
+DH00266,19/01/2025,KH0483,Đà Nẵng,Mỹ phẩm,266000,1,Ví điện tử,
+DH00267,19/01/2025,KH0376,Hà Nội,Mỹ phẩm,281000,4,Ví điện tử,4
+DH00268,19/01/2025,KH0021,đà nẵng,Văn phòng phẩm,5000,4,Tiền mặt,1
+DH00269,19/01/2025,KH0176,Huế,Văn phòng phẩm,43000,2,Chuyển khoản,5
+DH00270,19/01/2025,KH0116,Cần Thơ,Thực phẩm,82000,10,Ví điện tử,2
+DH00271,19/01/2025,KH0312,Huế,Thực phẩm,34000,4,Chuyển khoản,
+DH00272,19/01/2025,KH0415,Đà Nẵng,Đồ uống,30000,6,Ví điện tử,1
+DH00273,19/01/2025,KH0449,Hồ Chí Minh,Mỹ phẩm,311000,3,Tiền mặt,3
+DH00274,19/01/2025,,Hồ Chí Minh,Đồ uống,41000,2,Ví điện tử,1
+DH00275,19/01/2025,KH0227,Đà Nẵng,Đồ uống,38000,3,Tiền mặt,3
+DH00276,19/01/2025,KH0192,  Hà Nội,Đồ uống,29000,4,Chuyển khoản,
+DH00277,19/01/2025,KH0405,Hồ Chí Minh,Gia dụng,248000,2,Ví điện tử,3
+DH00278,20/01/2025,KH0535,Huế,Đồ uống,22000,2,Ví điện tử,3
+DH00279,20/01/2025,KH0390, hà nội  ,Thực phẩm,67000,3,Chuyển khoản,
+DH00280,20/01/2025,KH0417,Huế,Thực phẩm,51000,3,Tiền mặt,3
+DH00281,20/01/2025,KH0466,Hồ Chí Minh ,Văn phòng phẩm,56000,5,Chuyển khoản,4
+DH00282,20/01/2025,KH0298,Hồ Chí Minh,Mỹ phẩm,289000,1,Chuyển khoản,1
+DH00283,20/01/2025,KH0278,Đà Nẵng,Văn phòng phẩm,19000,8,Tiền mặt,5
+DH00284,20/01/2025,KH0267,Hà Nội,Mỹ phẩm,369000,1,Chuyển khoản,3
+DH00285,20/01/2025,KH0079,Đà Nẵng,Thực phẩm,22000,1,Tiền mặt,
+DH00286,20/01/2025,KH0263,Hồ Chí Minh,Mỹ phẩm,343000,3,Chuyển khoản,2
+DH00287,20/01/2025,KH0007,Cần Thơ,Gia dụng,443000,1,Tiền mặt,
+DH00288,20/01/2025,KH0492,Đà Nẵng,Đồ uống,15000,5,Tiền mặt,5
+DH00289,21/01/2025,KH0378,Cần Thơ,Văn phòng phẩm,33000,6,Chuyển khoản,3
+DH00290,21/01/2025,KH0189,Hà Nội,Gia dụng,83000,3,Ví điện tử,5
+DH00291,21/01/2025,KH0288,Cần Thơ,Thực phẩm,33000,3,Ví điện tử,4
+DH00292,21/01/2025,KH0208,Đà Nẵng,Thực phẩm,108000,6,Tiền mặt,3
+DH00293,21/01/2025,KH0493,Huế,Thực phẩm,80000,3,Ví điện tử,3
+DH00294,21/01/2025,KH0513,Hà Nội,Đồ uống,21000,1,Ví điện tử,3
+DH00295,21/01/2025,KH0403,Hồ Chí Minh,Thực phẩm,116000,2,Chuyển khoản,5
+DH00295,21/01/2025,KH0403,Hồ Chí Minh,Thực phẩm,116000,2,Chuyển khoản,5
+DH00296,21/01/2025,,Hồ Chí Minh,Mỹ phẩm,133000,3,Chuyển khoản,4
+DH00297,21/01/2025,KH0339,CẦN THƠ,Thực phẩm,93000,3,Tiền mặt,
+DH00298,21/01/2025,KH0378,Hồ Chí Minh,Đồ uống,25000,4,Tiền mặt,
+DH00299,21/01/2025,KH0232,Đà Nẵng,Văn phòng phẩm,28000,6,Ví điện tử,4
+DH00300,22/01/2025,KH0150,Hồ Chí Minh,Đồ uống,39000,4,Ví điện tử,
+DH00301,22/01/2025,KH0213,Đà Nẵng,Văn phòng phẩm,38000,4,Tiền mặt,5
+DH00302,22/01/2025,,Cần Thơ,Thực phẩm,148000,5,Ví điện tử,
+DH00303,22/01/2025,KH0105, hà nội  ,Đồ uống,25000,5,Chuyển khoản,4
+DH00304,22/01/2025,KH0241,Hà Nội,Văn phòng phẩm,40000,4,Ví điện tử,4
+DH00305,22/01/2025,KH0224,Đà Nẵng,Đồ uống,15000,3,Ví điện tử,5
+DH00306,22/01/2025,KH0196,hà nội,Gia dụng,506000,1,Ví điện tử,3
+DH00307,22/01/2025,KH0147,Đà Nẵng,Văn phòng phẩm,13000,4,Chuyển khoản,3
+DH00308,22/01/2025,KH0100,Hà Nội,Thực phẩm,137000,,Chuyển khoản,5
+DH00309,22/01/2025,KH0432,Hồ Chí Minh,Đồ uống,27000,5,Ví điện tử,4
+DH00310,22/01/2025,KH0353,  Hồ Chí Minh,Thực phẩm,65000,7,Ví điện tử,4
+DH00311,23/01/2025,KH0458,HÀ NỘI,Đồ uống,29000,4,Chuyển khoản,4
+DH00312,23/01/2025,KH0432,Hà Nội,Thực phẩm,97000,2,Chuyển khoản,4
+DH00313,23/01/2025,KH0198,Huế,Thực phẩm,142000,2,Tiền mặt,
+DH00314,23/01/2025,,Hồ Chí Minh,Mỹ phẩm,316000,3,Chuyển khoản,3
+DH00315,23/01/2025,KH0448,Hà Nội,Đồ uống,45000,4,Ví điện tử,3
+DH00316,23/01/2025,KH0483,Hà Nội,Mỹ phẩm,101000,4,Ví điện tử,3
+DH00317,23/01/2025,KH0037,Cần Thơ,Thực phẩm,123000,2,Tiền mặt,4
+DH00318,23/01/2025,KH0150,HUẾ,Đồ uống,44000,3,Tiền mặt,4
+DH00319,23/01/2025,KH0418,CẦN THƠ,Thực phẩm,97000,2,Ví điện tử,3
+DH00320,23/01/2025,KH0209,Cần Thơ,Đồ uống,28000,6,Tiền mặt,
+DH00321,24/01/2025,KH0081,Hà Nội,Mỹ phẩm,370000,4,Ví điện tử,4
+DH00322,24/01/2025,KH0338,huế,Đồ uống,29000,4,Tiền mặt,4
+DH00323,24/01/2025,KH0260,Cần Thơ,Thực phẩm,149000,,Ví điện tử,
+DH00324,24/01/2025,KH0300,Hà Nội,Đồ uống,26000,4,Chuyển khoản,
+DH00325,24/01/2025,KH0198,Huế,Thực phẩm,78000,3,Chuyển khoản,3
+DH00326,24/01/2025,KH0047,Huế,Đồ uống,14000,1,Tiền mặt,
+DH00327,24/01/2025,KH0363, hồ chí minh  ,Mỹ phẩm,200000,2,Ví điện tử,5
+DH00328,24/01/2025,KH0530, hồ chí minh  ,Đồ uống,35000,2,Ví điện tử,3
+DH00329,24/01/2025,KH0462,Cần Thơ,Thực phẩm,115000,3,Tiền mặt,4
+DH00330,24/01/2025,KH0464,Đà Nẵng,Đồ uống,42000,4,Chuyển khoản,4
+DH00331,24/01/2025,KH0440,Hồ Chí Minh,Thực phẩm,126000,5,Chuyển khoản,5
+DH00332,24/01/2025,KH0004, hà nội  ,Văn phòng phẩm,27000,4,Ví điện tử,
+DH00333,24/01/2025,KH0316,Đà Nẵng,Văn phòng phẩm,33000,3,Chuyển khoản,3
+DH00334,24/01/2025,KH0454, đà nẵng  ,Đồ uống,14000,5,Tiền mặt,
+DH00335,24/01/2025,KH0131,Đà Nẵng,Thực phẩm,102000,1,Chuyển khoản,1
+DH00336,25/01/2025,KH0011,Cần Thơ,Đồ uống,25000,6,Tiền mặt,4
+DH00337,25/01/2025,KH0343,Hồ Chí Minh,Mỹ phẩm,264000,2,Ví điện tử,5
+DH00338,25/01/2025,KH0404,đà nẵng,Đồ uống,40000,1,Ví điện tử,
+DH00339,25/01/2025,KH0455,Hà Nội,Thực phẩm,106000,4,Ví điện tử,3
+DH00340,25/01/2025,KH0089,  Hồ Chí Minh,Gia dụng,171000,3,Ví điện tử,
+DH00341,25/01/2025,KH0239,Huế,Thực phẩm,111000,3,Chuyển khoản,5
+DH00342,25/01/2025,KH0365,HỒ CHÍ MINH,Văn phòng phẩm,60000,7,Ví điện tử,5
+DH00343,25/01/2025,KH0208,  Đà Nẵng,Gia dụng,337000,5,Chuyển khoản,4
+DH00344,25/01/2025,KH0136,huế,Đồ uống,41000,6,Chuyển khoản,4
+DH00345,25/01/2025,KH0423,Đà Nẵng,Văn phòng phẩm,50000,6,Tiền mặt,3
+DH00346,25/01/2025,KH0191, cần thơ  ,Thực phẩm,84000,5,Tiền mặt,4
+DH00347,26/01/2025,, hồ chí minh  ,Văn phòng phẩm,59000,1,Chuyển khoản,
+DH00348,26/01/2025,KH0438,Đà Nẵng,Đồ uống,38000,7,Ví điện tử,3
+DH00349,26/01/2025,KH0324,hồ chí minh,Đồ uống,26000,5,Chuyển khoản,2
+DH00350,26/01/2025,KH0097,Đà Nẵng,Thực phẩm,119000,1,Tiền mặt,
+DH00351,26/01/2025,KH0157,Hồ Chí Minh,Đồ uống,45000,,Ví điện tử,4
+DH00352,26/01/2025,KH0137,Hà Nội,Thực phẩm,113000,6,Chuyển khoản,3
+DH00353,26/01/2025,KH0158,Hồ Chí Minh,Đồ uống,27000,7,Chuyển khoản,
+DH00354,26/01/2025,KH0373,HỒ CHÍ MINH,Mỹ phẩm,422000,3,Ví điện tử,
+DH00355,26/01/2025,KH0026, đà nẵng  ,Đồ uống,40000,5,Chuyển khoản,
+DH00356,26/01/2025,KH0274,  Đà Nẵng,Mỹ phẩm,268000,1,Tiền mặt,
+DH00357,27/01/2025,KH0341,hồ chí minh,Mỹ phẩm,202000,3,Tiền mặt,5
+DH00358,27/01/2025,KH0049,Huế,Thực phẩm,33000,3,Ví điện tử,3
+DH00359,27/01/2025,KH0081,Hồ Chí Minh,Đồ uống,13000,,Tiền mặt,3
+DH00360,27/01/2025,KH0190,Đà Nẵng ,Gia dụng,388000,1,Chuyển khoản,3
+DH00361,27/01/2025,KH0153,Hồ Chí Minh,Đồ uống,38000,3,Chuyển khoản,
+DH00362,27/01/2025,,Cần Thơ,Văn phòng phẩm,8000,7,Tiền mặt,4
+DH00363,27/01/2025,KH0232,Hồ Chí Minh,Thực phẩm,135000,2,Chuyển khoản,4
+DH00364,27/01/2025,KH0246,Hà Nội,Đồ uống,33000,3,Ví điện tử,3
+DH00365,27/01/2025,KH0108,  Hồ Chí Minh,Mỹ phẩm,392000,3,Chuyển khoản,1
+DH00366,27/01/2025,KH0113,Hà Nội,Mỹ phẩm,449000,2,Ví điện tử,5
+DH00367,27/01/2025,KH0451,Đà Nẵng,Văn phòng phẩm,21000,5,Chuyển khoản,4
+DH00368,27/01/2025,KH0378,Đà Nẵng,Thực phẩm,82000,8,Tiền mặt,4
+DH00369,28/01/2025,KH0494,Hà Nội,Đồ uống,14000,4,Tiền mặt,5
+DH00370,28/01/2025,KH0114,Hà Nội,Mỹ phẩm,165000,2,Ví điện tử,4
+DH00371,28/01/2025,KH0449,Cần Thơ,Gia dụng,547000,3,Chuyển khoản,
+DH00372,28/01/2025,KH0271,Hà Nội,Đồ uống,40000,5,Ví điện tử,2
+DH00373,28/01/2025,KH0301,Huế,Đồ uống,16000,300,Tiền mặt,3
+DH00374,28/01/2025,KH0012,Đà Nẵng,Mỹ phẩm,401000,4,Tiền mặt,3
+DH00375,28/01/2025,KH0120,Hồ Chí Minh,Gia dụng,92000,2,Ví điện tử,
+DH00376,28/01/2025,KH0470,Hà Nội ,Đồ uống,14000,5,Chuyển khoản,5
+DH00377,28/01/2025,KH0522,Hồ Chí Minh,Gia dụng,125000,1,Ví điện tử,3
+DH00378,28/01/2025,KH0200,Hồ Chí Minh,Thực phẩm,61000,3,Ví điện tử,4
+DH00379,28/01/2025,KH0116,Huế,Thực phẩm,77000,1,Chuyển khoản,4
+DH00380,28/01/2025,KH0141,Hà Nội,Mỹ phẩm,288000,2,Tiền mặt,4
+DH00381,29/01/2025,KH0065,Hà Nội,Văn phòng phẩm,9000,6,Chuyển khoản,5
+DH00381,29/01/2025,KH0065,Hà Nội,Văn phòng phẩm,9000,6,Chuyển khoản,5
+DH00382,29/01/2025,KH0279,Hà Nội,Mỹ phẩm,352000,2,Chuyển khoản,3
+DH00383,29/01/2025,KH0245,Cần Thơ,Thực phẩm,122000,5,Tiền mặt,1
+DH00384,29/01/2025,,Hồ Chí Minh,Đồ uống,34000,3,Chuyển khoản,
+DH00385,29/01/2025,KH0034,Hà Nội,Văn phòng phẩm,57000,6,Ví điện tử,3
+DH00386,29/01/2025,KH0417,Đà Nẵng,Đồ uống,25000,4,Ví điện tử,3
+DH00387,29/01/2025,KH0140, hà nội  ,Đồ uống,45000,4,Tiền mặt,4
+DH00388,29/01/2025,KH0299,Hà Nội,Văn phòng phẩm,49000,2,Chuyển khoản,5
+DH00389,29/01/2025,KH0059,Cần Thơ,Thực phẩm,127000,3,Ví điện tử,1
+DH00390,29/01/2025,KH0461,Hồ Chí Minh,Thực phẩm,36000,5,Chuyển khoản,
+DH00391,29/01/2025,,Hà Nội,Đồ uống,20000,4,Ví điện tử,5
+DH00392,29/01/2025,KH0033,Hồ Chí Minh,Văn phòng phẩm,47000,3,Tiền mặt,3
+DH00393,29/01/2025,KH0129,Hồ Chí Minh,Gia dụng,352000,1,Chuyển khoản,4
+DH00394,29/01/2025,KH0318,hồ chí minh,Văn phòng phẩm,9000,5,Chuyển khoản,1
+DH00395,29/01/2025,KH0154,Đà Nẵng,Gia dụng,128000,6,Chuyển khoản,4
+DH00396,29/01/2025,KH0269,Hà Nội,Gia dụng,125000,1,Ví điện tử,
+DH00397,29/01/2025,KH0165,Huế,Thực phẩm,62000,5,Chuyển khoản,5
+DH00398,30/01/2025,,Huế,Văn phòng phẩm,37000,4,Chuyển khoản,5
+DH00398,30/01/2025,,Huế,Văn phòng phẩm,37000,4,Chuyển khoản,5
+DH00399,30/01/2025,KH0323, hồ chí minh  ,Đồ uống,14000,7,Ví điện tử,5
+DH00400,30/01/2025,KH0312,Hồ Chí Minh,Thực phẩm,147000,6,Ví điện tử,
+DH00401,30/01/2025,KH0370,Hồ Chí Minh,Văn phòng phẩm,27000,3,Chuyển khoản,3
+DH00402,30/01/2025,KH0042,Đà Nẵng,Đồ uống,41000,3,Ví điện tử,5
+DH00403,30/01/2025,KH0157,Hồ Chí Minh,Thực phẩm,96000,3,Chuyển khoản,
+DH00404,30/01/2025,KH0120,Hồ Chí Minh,Mỹ phẩm,360000,4,Tiền mặt,
+DH00405,30/01/2025,KH0377,Hà Nội,Văn phòng phẩm,28000,8,Ví điện tử,4
+DH00406,30/01/2025,KH0086,Hồ Chí Minh,Thực phẩm,101000,3,Ví điện tử,5
+DH00407,31/01/2025,KH0306,Hà Nội,Mỹ phẩm,373000,4,Ví điện tử,5
+DH00408,31/01/2025,KH0025,Hồ Chí Minh,Văn phòng phẩm,45000,4,Chuyển khoản,
+DH00409,31/01/2025,KH0123,Hồ Chí Minh,Văn phòng phẩm,33000,4,Ví điện tử,3
+DH00410,31/01/2025,KH0366,Hồ Chí Minh,Mỹ phẩm,374000,1,Chuyển khoản,3
+DH00411,31/01/2025,KH0170,Hà Nội,Đồ uống,18000,1,Tiền mặt,4
+DH00412,31/01/2025,KH0489,Đà Nẵng,Mỹ phẩm,449000,3,Tiền mặt,3
+DH00413,31/01/2025,KH0353,Hà Nội,Thực phẩm,149000,2,Chuyển khoản,3
+DH00414,31/01/2025,KH0485,ĐÀ NẴNG,Thực phẩm,38000,3,Chuyển khoản,4
+DH00415,31/01/2025,KH0168,Hồ Chí Minh,Thực phẩm,128000,2,Ví điện tử,3
+DH00416,31/01/2025,KH0134,Hà Nội,Đồ uống,36000,5,Chuyển khoản,4
+DH00417,31/01/2025,KH0480,Cần Thơ,Văn phòng phẩm,56000,3,Chuyển khoản,3
+DH00418,31/01/2025,KH0242,Hà Nội,Gia dụng,217000,2,Chuyển khoản,
+DH00419,31/01/2025,KH0268,Huế,Đồ uống,21000,2,Tiền mặt,3
+DH00420,01/02/2025,KH0105,Huế,Đồ uống,18000,1,Ví điện tử,4
+DH00421,01/02/2025,KH0165,Hồ Chí Minh,Đồ uống,33000,5,Ví điện tử,4
+DH00422,01/02/2025,KH0079,Huế,Thực phẩm,121000,2,Tiền mặt,5
+DH00423,01/02/2025,KH0353,Hà Nội,Văn phòng phẩm,18000,3,Ví điện tử,4
+DH00424,01/02/2025,KH0164,Đà Nẵng,Văn phòng phẩm,57000,1,Chuyển khoản,
+DH00425,01/02/2025,KH0352,  Cần Thơ,Thực phẩm,53000,4,Chuyển khoản,4
+DH00426,01/02/2025,KH0105,Hồ Chí Minh,Đồ uống,36000,4,Ví điện tử,1
+DH00427,01/02/2025,KH0345,Hồ Chí Minh,Mỹ phẩm,230000,2,Chuyển khoản,3
+DH00428,01/02/2025,KH0491,Hồ Chí Minh,Thực phẩm,92000,5,Tiền mặt,5
+DH00429,01/02/2025,KH0203,  Hồ Chí Minh,Gia dụng,319000,3,Ví điện tử,3
+DH00430,01/02/2025,,Huế,Đồ uống,16000,2,Ví điện tử,4
+DH00431,01/02/2025,KH0114,Hồ Chí Minh,Đồ uống,27000,4,Chuyển khoản,1
+DH00432,01/02/2025,KH0123,Hà Nội,Văn phòng phẩm,44000,2,Chuyển khoản,5
+DH00433,01/02/2025,KH0140,Hà Nội ,Mỹ phẩm,379000,1,Tiền mặt,4
+DH00434,01/02/2025,KH0166,Hà Nội ,Đồ uống,25000,5,Tiền mặt,3
+DH00435,01/02/2025,KH0042,Hồ Chí Minh,Thực phẩm,34000,4,Chuyển khoản,5
+DH00436,02/02/2025,KH0112, hà nội  ,Văn phòng phẩm,10000,3,Chuyển khoản,3
+DH00437,02/02/2025,KH0353,Cần Thơ,Thực phẩm,150000,6,Tiền mặt,5
+DH00438,02/02/2025,KH0136,Cần Thơ,Thực phẩm,69000,5,Chuyển khoản,4
+DH00439,02/02/2025,KH0272,Huế,Thực phẩm,35000,2,Tiền mặt,4
+DH00440,02/02/2025,KH0280,Hà Nội,Văn phòng phẩm,35000,1,Chuyển khoản,
+DH00441,02/02/2025,KH0076,Hồ Chí Minh,Thực phẩm,78000,1,Tiền mặt,
+DH00442,02/02/2025,KH0094,  Hồ Chí Minh,Đồ uống,26000,5,Ví điện tử,
+DH00443,02/02/2025,KH0475,Cần Thơ,Đồ uống,34000,1,Tiền mặt,2
+DH00444,03/02/2025,KH0478,Hồ Chí Minh,Thực phẩm,35000,2,Ví điện tử,5
+DH00445,03/02/2025,KH0026,hồ chí minh,Đồ uống,34000,4,Chuyển khoản,
+DH00446,03/02/2025,KH0040,Huế,Gia dụng,540000,3,Tiền mặt,
+DH00447,03/02/2025,KH0206,Hà Nội,Đồ uống,37000,4,Tiền mặt,3
+DH00448,03/02/2025,KH0103,Huế,Đồ uống,27000,3,Chuyển khoản,4
+DH00449,03/02/2025,KH0259,Huế,Thực phẩm,93000,3,Chuyển khoản,5
+DH00450,03/02/2025,KH0250,Huế,Mỹ phẩm,392000,2,Chuyển khoản,5
+DH00451,04/02/2025,KH0287,Đà Nẵng,Thực phẩm,37000,4,Tiền mặt,5
+DH00452,04/02/2025,KH0168,Hồ Chí Minh,Thực phẩm,73000,1,Ví điện tử,
+DH00453,04/02/2025,KH0487,Đà Nẵng,Đồ uống,23000,7,Ví điện tử,5
+DH00454,04/02/2025,KH0073,Hà Nội,Văn phòng phẩm,22000,4,Ví điện tử,4
+DH00455,04/02/2025,KH0206,  Hồ Chí Minh,Đồ uống,43000,4,Ví điện tử,3
+DH00456,04/02/2025,KH0235,Đà Nẵng ,Thực phẩm,144000,4,Ví điện tử,5
+DH00457,04/02/2025,KH0441,Hà Nội,Mỹ phẩm,316000,,Chuyển khoản,2
+DH00458,04/02/2025,KH0473,Hồ Chí Minh,Mỹ phẩm,424000,6,Ví điện tử,
+DH00459,04/02/2025,KH0136,Cần Thơ,Thực phẩm,51000,4,Chuyển khoản,4
+DH00460,04/02/2025,KH0376,Hồ Chí Minh,Đồ uống,32000,5,Ví điện tử,4
+DH00461,04/02/2025,KH0120,  Hà Nội,Mỹ phẩm,190000,2,Tiền mặt,3
+DH00462,04/02/2025,KH0469,Cần Thơ,Đồ uống,30000,4,Tiền mặt,2
+DH00463,05/02/2025,KH0397,Hà Nội,Mỹ phẩm,386000,4,Chuyển khoản,3
+DH00464,05/02/2025,KH0014,Hồ Chí Minh,Đồ uống,43000,7,Ví điện tử,5
+DH00465,05/02/2025,KH0022,Cần Thơ,Đồ uống,23000,6,Tiền mặt,4
+DH00466,05/02/2025,KH0355,Hà Nội,Đồ uống,15000,4,Chuyển khoản,3
+DH00467,05/02/2025,KH0408, cần thơ  ,Mỹ phẩm,395000,1,Tiền mặt,4
+DH00468,05/02/2025,KH0465,Hồ Chí Minh,Mỹ phẩm,339000,2,Tiền mặt,3
+DH00469,06/02/2025,KH0135,Hà Nội,Đồ uống,31000,2,Ví điện tử,3
+DH00470,06/02/2025,KH0417,Đà Nẵng,Thực phẩm,127000,5,Chuyển khoản,3
+DH00471,06/02/2025,KH0238,Hà Nội,Đồ uống,16000,3,Chuyển khoản,3
+DH00472,06/02/2025,KH0545,Huế,Thực phẩm,34000,1,Tiền mặt,4
+DH00473,06/02/2025,KH0404,Cần Thơ,Đồ uống,19000,4,Tiền mặt,3
+DH00474,06/02/2025,KH0173,Hà Nội ,Thực phẩm,21000,4,Tiền mặt,4
+DH00475,06/02/2025,KH0126,Hà Nội,Thực phẩm,53000,2,Tiền mặt,3
+DH00476,06/02/2025,KH0099,Huế,Đồ uống,31000,5,Tiền mặt,5
+DH00477,06/02/2025,KH0073,Huế,Thực phẩm,74000,3,Tiền mặt,5
+DH00478,06/02/2025,KH0351,Hồ Chí Minh,Đồ uống,34000,4,Ví điện tử,3
+DH00479,07/02/2025,KH0499,Hồ Chí Minh,Văn phòng phẩm,13000,5,Ví điện tử,
+DH00480,07/02/2025,KH0236,Hà Nội,Văn phòng phẩm,17000,4,Ví điện tử,5
+DH00481,07/02/2025,KH0318,Hồ Chí Minh,Thực phẩm,73000,3,Chuyển khoản,3
+DH00482,07/02/2025,KH0196,  Hà Nội,Mỹ phẩm,134000,4,Ví điện tử,
+DH00483,07/02/2025,KH0041,Huế,Đồ uống,42000,6,Tiền mặt,4
+DH00484,08/02/2025,KH0353,Hà Nội,Thực phẩm,95000,3,Chuyển khoản,
+DH00485,08/02/2025,KH0050,Hồ Chí Minh,Mỹ phẩm,194000,7,Chuyển khoản,3
+DH00486,08/02/2025,KH0379,HÀ NỘI,Mỹ phẩm,188000,1,Chuyển khoản,5
+DH00487,08/02/2025,KH0489,Huế,Thực phẩm,95000,3,Tiền mặt,4
+DH00488,08/02/2025,KH0168,Hồ Chí Minh,Đồ uống,22000,,Ví điện tử,
+DH00489,08/02/2025,KH0377,Hồ Chí Minh,Mỹ phẩm,191000,4,Chuyển khoản,5
+DH00490,08/02/2025,KH0189,Đà Nẵng,Thực phẩm,92000,3,Ví điện tử,5
+DH00491,08/02/2025,KH0309,Hà Nội ,Đồ uống,42000,5,Chuyển khoản,5
+DH00492,08/02/2025,KH0417,Đà Nẵng,Thực phẩm,92000,5,Ví điện tử,4
+DH00493,08/02/2025,KH0050,Hồ Chí Minh,Thực phẩm,125000,3,Tiền mặt,2
+DH00494,08/02/2025,,Hồ Chí Minh,Mỹ phẩm,132000,4,Tiền mặt,
+DH00495,08/02/2025,KH0414,Hồ Chí Minh,Văn phòng phẩm,29000,1,Tiền mặt,
+DH00496,08/02/2025,KH0064,Huế,Đồ uống,28000,2,Chuyển khoản,4
+DH00497,08/02/2025,KH0526,Hà Nội,Văn phòng phẩm,60000,6,Tiền mặt,4
+DH00498,08/02/2025,KH0082,Hồ Chí Minh,Mỹ phẩm,212000,1,Ví điện tử,4
+DH00499,08/02/2025,KH0464,Hà Nội,Gia dụng,300000,2,Ví điện tử,3
+DH00500,09/02/2025,KH0257,HUẾ,Gia dụng,304000,2,Tiền mặt,
+DH00501,09/02/2025,KH0392,Hà Nội,Mỹ phẩm,223000,1,Chuyển khoản,
+DH00502,09/02/2025,KH0420,Hà Nội,Mỹ phẩm,371000,3,Ví điện tử,5
+DH00503,09/02/2025,KH0227,Đà Nẵng,Gia dụng,421000,500,Ví điện tử,5
+DH00504,09/02/2025,KH0305,Hà Nội,Đồ uống,19000,5,Chuyển khoản,1
+DH00505,09/02/2025,KH0456,Hà Nội,Thực phẩm,85000,3,Chuyển khoản,3
+DH00506,09/02/2025,KH0318,Hồ Chí Minh,Đồ uống,40000,6,Tiền mặt,3
+DH00507,09/02/2025,KH0177,Hà Nội,Đồ uống,17000,2,Ví điện tử,3
+DH00508,09/02/2025,KH0093,Hà Nội,Thực phẩm,145000,4,Chuyển khoản,3
+DH00509,09/02/2025,KH0174,Hồ Chí Minh,Gia dụng,345000,1,Ví điện tử,5
+DH00510,09/02/2025,KH0159,Hồ Chí Minh,Đồ uống,18000,4,Chuyển khoản,3
+DH00511,09/02/2025,KH0305,Đà Nẵng,Văn phòng phẩm,58000,2,Tiền mặt,4
+DH00512,09/02/2025,KH0381,Hồ Chí Minh,Gia dụng,405000,1,Chuyển khoản,5
+DH00513,09/02/2025,KH0511,HỒ CHÍ MINH,Thực phẩm,121000,3,Ví điện tử,4
+DH00514,10/02/2025,KH0081,Hà Nội,Thực phẩm,93000,2,Ví điện tử,3
+DH00515,10/02/2025,KH0442,hồ chí minh,Văn phòng phẩm,58000,2,Tiền mặt,
+DH00516,10/02/2025,KH0246,Đà Nẵng,Gia dụng,249000,1,Tiền mặt,2
+DH00517,10/02/2025,KH0336,Hồ Chí Minh,Mỹ phẩm,153000,5,Ví điện tử,4
+DH00518,10/02/2025,KH0370,Cần Thơ,Đồ uống,33000,3,Tiền mặt,3
+DH00519,10/02/2025,KH0403,Hà Nội,Đồ uống,26000,3,Ví điện tử,3
+DH00520,10/02/2025,KH0006,Huế,Đồ uống,25000,6,Ví điện tử,5
+DH00521,10/02/2025,KH0086,Hồ Chí Minh,Đồ uống,20000,5,Tiền mặt,5
+DH00522,10/02/2025,KH0489,Huế,Mỹ phẩm,195000,2,Tiền mặt,5
+DH00523,11/02/2025,KH0102,Đà Nẵng,Gia dụng,91000,1,Tiền mặt,4
+DH00524,11/02/2025,,Hà Nội,Thực phẩm,27000,3,Ví điện tử,
+DH00525,11/02/2025,KH0320,Hà Nội,Thực phẩm,124000,8,Tiền mặt,5
+DH00526,11/02/2025,KH0171,Hồ Chí Minh,Thực phẩm,143000,3,Ví điện tử,5
+DH00527,11/02/2025,KH0203,Hồ Chí Minh,Mỹ phẩm,310000,3,Chuyển khoản,4
+DH00528,11/02/2025,KH0418,Hà Nội,Văn phòng phẩm,12000,2,Chuyển khoản,5
+DH00529,11/02/2025,KH0466,Đà Nẵng,Văn phòng phẩm,16000,4,Ví điện tử,5
+DH00530,11/02/2025,KH0470,Hồ Chí Minh,Văn phòng phẩm,21000,4,Ví điện tử,4
+DH00531,11/02/2025,KH0115,Hồ Chí Minh,Đồ uống,32000,3,Ví điện tử,
+DH00532,11/02/2025,KH0345,Hồ Chí Minh,Gia dụng,284000,1,Chuyển khoản,4
+DH00533,11/02/2025,KH0296,Huế,Thực phẩm,122000,3,Chuyển khoản,4
+DH00534,11/02/2025,KH0166,Hồ Chí Minh,Văn phòng phẩm,8000,6,Chuyển khoản,1
+DH00534,11/02/2025,KH0166,Hồ Chí Minh,Văn phòng phẩm,8000,6,Chuyển khoản,1
+DH00535,11/02/2025,KH0014,Hà Nội,Đồ uống,17000,6,Chuyển khoản,4
+DH00536,12/02/2025,KH0003,Hồ Chí Minh,Mỹ phẩm,181000,2,Ví điện tử,
+DH00537,12/02/2025,KH0384,Cần Thơ,Mỹ phẩm,155000,1,Chuyển khoản,
+DH00538,12/02/2025,KH0362,Hồ Chí Minh,Thực phẩm,114000,6,Chuyển khoản,5
+DH00539,12/02/2025,KH0395,  Hồ Chí Minh,Văn phòng phẩm,21000,1,Tiền mặt,3
+DH00540,12/02/2025,KH0346,Cần Thơ,Đồ uống,43000,4,Tiền mặt,1
+DH00541,12/02/2025,KH0354,Huế,Mỹ phẩm,212000,2,Chuyển khoản,2
+DH00542,12/02/2025,KH0174,Đà Nẵng,Mỹ phẩm,318000,2,Tiền mặt,
+DH00543,12/02/2025,KH0482,Cần Thơ,Gia dụng,354000,4,Tiền mặt,5
+DH00544,13/02/2025,KH0414,Cần Thơ,Văn phòng phẩm,56000,2,Chuyển khoản,2
+DH00545,13/02/2025,KH0101,  Hà Nội,Mỹ phẩm,384000,7,Ví điện tử,
+DH00546,13/02/2025,KH0286,Hà Nội,Mỹ phẩm,364000,4,Chuyển khoản,4
+DH00547,13/02/2025,KH0272,Hà Nội,Thực phẩm,116000,1,Chuyển khoản,2
+DH00548,13/02/2025,KH0320,Cần Thơ,Đồ uống,40000,6,Ví điện tử,2
+DH00549,13/02/2025,KH0022,  Hà Nội,Đồ uống,39000,5,Ví điện tử,
+DH00550,14/02/2025,KH0117, đà nẵng  ,Mỹ phẩm,117000,3,Chuyển khoản,2
+DH00551,14/02/2025,KH0498,Hà Nội,Thực phẩm,68000,5,Ví điện tử,5
+DH00552,14/02/2025,KH0380,Đà Nẵng,Đồ uống,14000,5,Ví điện tử,5
+DH00553,14/02/2025,KH0364,Đà Nẵng,Đồ uống,40000,4,Tiền mặt,3
+DH00554,14/02/2025,KH0311,Cần Thơ,Thực phẩm,33000,2,Tiền mặt,
+DH00555,14/02/2025,KH0480,đà nẵng,Văn phòng phẩm,7000,1,Ví điện tử,
+DH00556,14/02/2025,KH0456,Hà Nội,Đồ uống,22000,4,Tiền mặt,4
+DH00557,14/02/2025,KH0471,Cần Thơ,Thực phẩm,148000,3,Tiền mặt,2
+DH00558,14/02/2025,KH0238,Hồ Chí Minh,Văn phòng phẩm,55000,6,Chuyển khoản,5
+DH00559,14/02/2025,KH0176,Huế,Đồ uống,25000,4,Chuyển khoản,
+DH00560,14/02/2025,KH0213,Hồ Chí Minh,Đồ uống,15000,5,Chuyển khoản,3
+DH00561,14/02/2025,KH0162,Hà Nội,Đồ uống,26000,4,Chuyển khoản,5
+DH00562,15/02/2025,KH0139,Hà Nội,Mỹ phẩm,143000,2,Ví điện tử,
+DH00563,15/02/2025,KH0195,Hồ Chí Minh ,Gia dụng,176000,3,Tiền mặt,4
+DH00564,15/02/2025,KH0337,Hà Nội ,Thực phẩm,54000,3,Ví điện tử,5
+DH00565,15/02/2025,KH0314,Hồ Chí Minh,Đồ uống,29000,3,Tiền mặt,5
+DH00566,15/02/2025,KH0134,Hà Nội ,Thực phẩm,86000,4,Ví điện tử,5
+DH00567,15/02/2025,KH0077,  Hồ Chí Minh,Mỹ phẩm,260000,3,Chuyển khoản,3
+DH00568,15/02/2025,KH0366,Hồ Chí Minh,Mỹ phẩm,101000,2,Tiền mặt,4
+DH00569,15/02/2025,KH0480,Đà Nẵng,Đồ uống,19000,7,Tiền mặt,
+DH00570,15/02/2025,,Hồ Chí Minh,Đồ uống,43000,2,Chuyển khoản,3
+DH00571,15/02/2025,,Hà Nội,Văn phòng phẩm,8000,4,Chuyển khoản,4
+DH00572,15/02/2025,KH0126, hà nội  ,Thực phẩm,145000,3,Tiền mặt,3
+DH00573,15/02/2025,KH0061,Hồ Chí Minh,Thực phẩm,113000,7,Ví điện tử,4
+DH00574,16/02/2025,KH0265,Hồ Chí Minh ,Mỹ phẩm,192000,2,Ví điện tử,5
+DH00575,16/02/2025,KH0187,Hà Nội,Đồ uống,40000,4,Chuyển khoản,4
+DH00576,16/02/2025,,Hồ Chí Minh,Thực phẩm,20000,2,Ví điện tử,4
+DH00577,16/02/2025,KH0064, đà nẵng  ,Gia dụng,548000,2,Tiền mặt,5
+DH00578,16/02/2025,KH0220,Hồ Chí Minh,Mỹ phẩm,102000,3,Ví điện tử,3
+DH00579,16/02/2025,KH0010,Cần Thơ,Thực phẩm,57000,3,Chuyển khoản,
+DH00580,16/02/2025,KH0169,Hồ Chí Minh,Mỹ phẩm,256000,3,Ví điện tử,4
+DH00581,16/02/2025,KH0465,Đà Nẵng,Đồ uống,29000,4,Tiền mặt,4
+DH00582,16/02/2025,,Đà Nẵng,Thực phẩm,35000,3,Ví điện tử,
+DH00583,16/02/2025,KH0097,Hồ Chí Minh,Thực phẩm,28000,2,Chuyển khoản,2
+DH00584,16/02/2025,KH0379,Hồ Chí Minh,Đồ uống,26000,5,Ví điện tử,3
+DH00585,16/02/2025,KH0206,Hồ Chí Minh,Đồ uống,38000,5,Ví điện tử,2
+DH00586,16/02/2025,KH0241,Cần Thơ,Thực phẩm,119000,3,Chuyển khoản,4
+DH00587,16/02/2025,KH0031,hồ chí minh,Mỹ phẩm,312000,2,Ví điện tử,4
+DH00588,17/02/2025,KH0131,Hà Nội,Đồ uống,36000,4,Ví điện tử,1
+DH00589,17/02/2025,KH0480,Cần Thơ,Thực phẩm,40000,1,Tiền mặt,3
+DH00590,17/02/2025,KH0220,Hà Nội,Mỹ phẩm,277000,1,Ví điện tử,5
+DH00591,17/02/2025,KH0409,Hà Nội,Mỹ phẩm,420000,1,Tiền mặt,4
+DH00592,17/02/2025,KH0415,Đà Nẵng,Mỹ phẩm,263000,3,Chuyển khoản,5
+DH00593,17/02/2025,KH0032,Hà Nội,Mỹ phẩm,421000,2,Ví điện tử,4
+DH00594,17/02/2025,KH0353,Đà Nẵng,Thực phẩm,76000,2,Chuyển khoản,5
+DH00595,17/02/2025,KH0380,Hà Nội,Thực phẩm,133000,1,Ví điện tử,5
+DH00596,17/02/2025,KH0120,Hồ Chí Minh,Mỹ phẩm,395000,5,Tiền mặt,2
+DH00597,17/02/2025,KH0022,Hà Nội,Văn phòng phẩm,6000,3,Ví điện tử,5
+DH00598,18/02/2025,KH0303,Cần Thơ,Thực phẩm,70000,3,Ví điện tử,5
+DH00599,18/02/2025,KH0006,Hà Nội,Đồ uống,42000,5,Chuyển khoản,
+DH00600,18/02/2025,KH0254,Huế,Thực phẩm,91000,1,Tiền mặt,4
+DH00601,18/02/2025,KH0016,hà nội,Thực phẩm,118000,3,Tiền mặt,3
+DH00602,18/02/2025,,Hồ Chí Minh,Thực phẩm,135000,2,Tiền mặt,4
+DH00603,18/02/2025,KH0246,Đà Nẵng,Thực phẩm,138000,1,Tiền mặt,4
+DH00604,18/02/2025,KH0199,Hồ Chí Minh,Văn phòng phẩm,20000,4,Ví điện tử,4
+DH00605,18/02/2025,KH0186,Huế,Thực phẩm,38000,3,Tiền mặt,4
+DH00606,18/02/2025,KH0105,Cần Thơ,Văn phòng phẩm,21000,5,Tiền mặt,5
+DH00607,18/02/2025,KH0243,Hồ Chí Minh,Văn phòng phẩm,21000,5,Chuyển khoản,5
+DH00608,18/02/2025,KH0035,Huế,Đồ uống,14000,250,Ví điện tử,4
+DH00609,18/02/2025,KH0455,Hà Nội,Đồ uống,23000,4,Ví điện tử,5
+DH00610,18/02/2025,KH0390,Hồ Chí Minh,Văn phòng phẩm,44000,4,Chuyển khoản,
+DH00611,18/02/2025,KH0431,Hà Nội ,Mỹ phẩm,95000,1,Ví điện tử,5
+DH00612,18/02/2025,KH0092,Hà Nội,Đồ uống,26000,6,Chuyển khoản,1
+DH00613,19/02/2025,KH0364,Hà Nội,Văn phòng phẩm,17000,6,Ví điện tử,2
+DH00614,19/02/2025,KH0208,Cần Thơ,Gia dụng,551000,2,Chuyển khoản,2
+DH00615,19/02/2025,KH0413,HỒ CHÍ MINH,Mỹ phẩm,229000,4,Tiền mặt,3
+DH00616,19/02/2025,KH0345,Hà Nội,Văn phòng phẩm,32000,3,Chuyển khoản,
+DH00617,19/02/2025,KH0474,Huế,Thực phẩm,49000,4,Tiền mặt,5
+DH00618,19/02/2025,KH0134,Hồ Chí Minh,Mỹ phẩm,239000,1,Tiền mặt,3
+DH00619,19/02/2025,KH0018,Hà Nội,Đồ uống,37000,,Chuyển khoản,4
+DH00620,20/02/2025,KH0194,Cần Thơ,Đồ uống,19000,4,Ví điện tử,4
+DH00621,20/02/2025,KH0195,Huế,Đồ uống,29000,7,Tiền mặt,3
+DH00622,20/02/2025,KH0215,Hồ Chí Minh,Đồ uống,19000,6,Ví điện tử,5
+DH00623,20/02/2025,KH0192,  Hà Nội,Mỹ phẩm,192000,2,Chuyển khoản,2
+DH00624,20/02/2025,KH0384,Hà Nội,Văn phòng phẩm,26000,,Chuyển khoản,3
+DH00624,20/02/2025,KH0384,Hà Nội,Văn phòng phẩm,26000,,Chuyển khoản,3
+DH00625,20/02/2025,KH0454,Hồ Chí Minh,Đồ uống,28000,8,Ví điện tử,
+DH00626,21/02/2025,KH0148,Hà Nội,Đồ uống,22000,4,Chuyển khoản,
+DH00627,21/02/2025,KH0337,Hà Nội,Thực phẩm,76000,3,Chuyển khoản,
+DH00628,21/02/2025,KH0296,Cần Thơ,Thực phẩm,78000,2,Chuyển khoản,1
+DH00629,21/02/2025,KH0194,Hồ Chí Minh,Đồ uống,41000,5,Chuyển khoản,4
+DH00630,21/02/2025,KH0240,Huế,Đồ uống,41000,5,Chuyển khoản,4
+DH00631,21/02/2025,KH0292,Hồ Chí Minh,Thực phẩm,136000,6,Chuyển khoản,4
+DH00632,21/02/2025,KH0111,Hồ Chí Minh,Mỹ phẩm,101000,1,Tiền mặt,4
+DH00633,21/02/2025,KH0096,Hà Nội,Đồ uống,41000,5,Ví điện tử,4
+DH00634,21/02/2025,KH0114,Hà Nội,Thực phẩm,144000,4,Tiền mặt,5
+DH00635,21/02/2025,KH0421,Huế,Đồ uống,25000,6,Tiền mặt,4
+DH00636,22/02/2025,KH0300, đà nẵng  ,Thực phẩm,120000,2,Chuyển khoản,4
+DH00637,22/02/2025,KH0316,Đà Nẵng,Mỹ phẩm,169000,1,Tiền mặt,4
+DH00638,22/02/2025,KH0463,Hồ Chí Minh,Đồ uống,22000,5,Ví điện tử,
+DH00639,22/02/2025,KH0024,Hồ Chí Minh,Mỹ phẩm,440000,1,Chuyển khoản,4
+DH00640,22/02/2025,KH0090,Huế,Văn phòng phẩm,20000,3,Tiền mặt,
+DH00641,22/02/2025,KH0227,Hồ Chí Minh,Mỹ phẩm,338000,3,Chuyển khoản,
+DH00642,22/02/2025,KH0164,Hồ Chí Minh,Gia dụng,254000,2,Ví điện tử,5
+DH00643,22/02/2025,KH0209,Hồ Chí Minh,Gia dụng,348000,4,Ví điện tử,5
+DH00644,22/02/2025,KH0132,Hồ Chí Minh,Mỹ phẩm,92000,,Ví điện tử,4
+DH00645,22/02/2025,KH0261,Hà Nội,Mỹ phẩm,346000,3,Tiền mặt,3
+DH00646,22/02/2025,KH0066,Cần Thơ,Đồ uống,38000,3,Tiền mặt,5
+DH00647,22/02/2025,KH0228,Hà Nội,Đồ uống,32000,5,Ví điện tử,4
+DH00648,23/02/2025,KH0246,Hà Nội,Thực phẩm,114000,1,Chuyển khoản,4
+DH00649,23/02/2025,KH0165,Đà Nẵng,Gia dụng,364000,6,Chuyển khoản,2
+DH00650,23/02/2025,KH0390,Đà Nẵng,Đồ uống,35000,7,Tiền mặt,5
+DH00651,23/02/2025,KH0078,Hồ Chí Minh,Mỹ phẩm,94000,4,Ví điện tử,5
+DH00652,23/02/2025,KH0318,Hồ Chí Minh,Văn phòng phẩm,40000,6,Chuyển khoản,1
+DH00653,23/02/2025,KH0473,Hà Nội,Gia dụng,139000,2,Ví điện tử,3
+DH00654,23/02/2025,KH0061,Cần Thơ,Đồ uống,13000,3,Ví điện tử,3
+DH00655,23/02/2025,KH0375,Hồ Chí Minh,Mỹ phẩm,314000,3,Tiền mặt,5
+DH00656,23/02/2025,KH0378,Hồ Chí Minh,Thực phẩm,84000,3,Ví điện tử,3
+DH00657,23/02/2025,KH0213,Đà Nẵng,Đồ uống,27000,4,Tiền mặt,5
+DH00658,23/02/2025,KH0435,Hà Nội,Gia dụng,567000,,Ví điện tử,4
+DH00659,24/02/2025,KH0468, cần thơ  ,Đồ uống,32000,9,Tiền mặt,
+DH00660,24/02/2025,KH0209,Hà Nội,Đồ uống,39000,2,Tiền mặt,4
+DH00661,24/02/2025,KH0267,Cần Thơ,Đồ uống,14000,,Ví điện tử,4
+DH00662,24/02/2025,KH0165,Huế,Thực phẩm,108000,8,Chuyển khoản,
+DH00663,24/02/2025,KH0268,Cần Thơ,Thực phẩm,21000,5,Ví điện tử,3
+DH00664,24/02/2025,KH0323,Hồ Chí Minh,Đồ uống,15000,4,Chuyển khoản,
+DH00665,24/02/2025,KH0036, hà nội  ,Mỹ phẩm,270000,4,Chuyển khoản,3
+DH00666,24/02/2025,KH0358,hà nội,Gia dụng,492000,3,Tiền mặt,3
+DH00667,24/02/2025,KH0024,Hồ Chí Minh,Đồ uống,37000,7,Ví điện tử,3
+DH00668,24/02/2025,KH0440,Cần Thơ,Đồ uống,35000,5,Ví điện tử,3
+DH00669,24/02/2025,KH0417,Hà Nội,Thực phẩm,120000,5,Ví điện tử,4
+DH00670,24/02/2025,KH0465,Hà Nội,Văn phòng phẩm,24000,1,Ví điện tử,4
+DH00671,24/02/2025,KH0011,Hồ Chí Minh,Đồ uống,21000,,Chuyển khoản,4
+DH00672,25/02/2025,KH0349,Hà Nội,Đồ uống,17000,6,Chuyển khoản,4
+DH00673,25/02/2025,KH0027,Hồ Chí Minh,Thực phẩm,147000,4,Ví điện tử,4
+DH00674,25/02/2025,KH0484,Hà Nội,Đồ uống,19000,4,Ví điện tử,3
+DH00675,25/02/2025,,Cần Thơ,Thực phẩm,96000,,Chuyển khoản,2
+DH00676,25/02/2025,KH0267,Cần Thơ,Mỹ phẩm,323000,1,Chuyển khoản,4
+DH00677,25/02/2025,KH0091,Đà Nẵng,Mỹ phẩm,119000,2,Chuyển khoản,5
+DH00678,26/02/2025,KH0359,Hồ Chí Minh,Gia dụng,505000,2,Tiền mặt,5
+DH00679,26/02/2025,KH0212,Hà Nội ,Đồ uống,17000,4,Tiền mặt,3
+DH00680,26/02/2025,KH0272,Hà Nội ,Mỹ phẩm,176000,5,Chuyển khoản,4
+DH00680,26/02/2025,KH0272,Hà Nội ,Mỹ phẩm,176000,5,Chuyển khoản,4
+DH00681,26/02/2025,KH0405,Hồ Chí Minh ,Đồ uống,21000,5,Chuyển khoản,4
+DH00682,26/02/2025,KH0383,đà nẵng,Văn phòng phẩm,16000,2,Tiền mặt,4
+DH00683,26/02/2025,KH0272, hồ chí minh  ,Thực phẩm,59000,3,Chuyển khoản,5
+DH00684,26/02/2025,KH0326,Đà Nẵng,Mỹ phẩm,431000,3,Tiền mặt,2
+DH00685,26/02/2025,KH0223,Hồ Chí Minh,Văn phòng phẩm,44000,4,Ví điện tử,2
+DH00686,26/02/2025,KH0219,hồ chí minh,Thực phẩm,37000,4,Ví điện tử,3
+DH00687,26/02/2025,KH0497, hồ chí minh  ,Đồ uống,41000,3,Ví điện tử,4
+DH00688,26/02/2025,KH0351,Hà Nội,Đồ uống,15000,2,Chuyển khoản,
+DH00689,26/02/2025,KH0276,Hà Nội,Văn phòng phẩm,30000,2,Tiền mặt,4
+DH00690,26/02/2025,KH0350,Đà Nẵng,Thực phẩm,74000,1,Ví điện tử,3
+DH00691,27/02/2025,KH0266,Hà Nội,Đồ uống,38000,6,Ví điện tử,
+DH00692,27/02/2025,KH0042,Hồ Chí Minh,Thực phẩm,135000,3,Tiền mặt,
+DH00693,27/02/2025,KH0210,Hồ Chí Minh,Mỹ phẩm,417000,2,Ví điện tử,3
+DH00694,27/02/2025,KH0274,Hà Nội,Văn phòng phẩm,6000,2,Ví điện tử,2
+DH00695,27/02/2025,, hồ chí minh  ,Thực phẩm,100000,5,Ví điện tử,4
+DH00696,27/02/2025,KH0352,Cần Thơ ,Thực phẩm,133000,5,Ví điện tử,
+DH00697,27/02/2025,KH0167,Đà Nẵng,Văn phòng phẩm,20000,3,Tiền mặt,3
+DH00698,28/02/2025,KH0030,Huế,Thực phẩm,32000,2,Chuyển khoản,
+DH00699,28/02/2025,KH0441,Hà Nội,Văn phòng phẩm,30000,2,Chuyển khoản,5
+DH00700,28/02/2025,KH0102,Cần Thơ,Đồ uống,32000,2,Tiền mặt,4
+DH00701,28/02/2025,KH0044,Hà Nội ,Đồ uống,41000,5,Chuyển khoản,
+DH00702,28/02/2025,KH0278,Hà Nội,Văn phòng phẩm,49000,6,Ví điện tử,5
+DH00703,28/02/2025,,Hà Nội,Đồ uống,45000,2,Ví điện tử,5
+DH00704,28/02/2025,KH0403,Hà Nội,Đồ uống,16000,1,Chuyển khoản,4
+DH00705,01/03/2025,KH0335,Hà Nội,Gia dụng,461000,1,Ví điện tử,
+DH00706,01/03/2025,,Huế,Đồ uống,32000,6,Chuyển khoản,2
+DH00707,01/03/2025,KH0410,Hồ Chí Minh,Đồ uống,32000,3,Tiền mặt,2
+DH00708,01/03/2025,KH0108, đà nẵng  ,Văn phòng phẩm,8000,4,Tiền mặt,4
+DH00709,01/03/2025,KH0454,Hà Nội,Đồ uống,43000,3,Tiền mặt,
+DH00710,01/03/2025,,Hà Nội,Đồ uống,25000,2,Ví điện tử,
+DH00711,01/03/2025,KH0421,Huế,Đồ uống,15000,3,Chuyển khoản,4
+DH00712,01/03/2025,KH0258,  Đà Nẵng,Gia dụng,227000,6,Ví điện tử,
+DH00713,01/03/2025,KH0274,Hồ Chí Minh,Thực phẩm,144000,1,Tiền mặt,3
+DH00714,01/03/2025,KH0361,Huế,Đồ uống,22000,6,Chuyển khoản,2
+DH00715,01/03/2025,KH0384,Hà Nội,Đồ uống,41000,5,Ví điện tử,4
+DH00716,01/03/2025,KH0284,Hà Nội,Thực phẩm,108000,2,Tiền mặt,4
+DH00717,01/03/2025,,Huế,Văn phòng phẩm,28000,5,Ví điện tử,4
+DH00718,01/03/2025,KH0270,Đà Nẵng,Gia dụng,169000,4,Chuyển khoản,4
+DH00719,01/03/2025,KH0089,Hà Nội,Thực phẩm,147000,5,Chuyển khoản,4
+DH00720,01/03/2025,KH0254,Huế ,Văn phòng phẩm,59000,4,Chuyển khoản,4
+DH00721,01/03/2025,KH0258,Hà Nội,Mỹ phẩm,173000,4,Tiền mặt,4
+DH00722,01/03/2025,KH0029,Cần Thơ,Thực phẩm,31000,4,Chuyển khoản,1
+DH00723,02/03/2025,KH0458,Hồ Chí Minh ,Thực phẩm,114000,4,Ví điện tử,4
+DH00724,02/03/2025,KH0212,Hồ Chí Minh,Mỹ phẩm,235000,6,Tiền mặt,4
+DH00725,02/03/2025,KH0347, hà nội  ,Thực phẩm,85000,2,Ví điện tử,4
+DH00726,02/03/2025,KH0495,Cần Thơ,Thực phẩm,63000,4,Tiền mặt,4
+DH00727,02/03/2025,KH0236,Hà Nội,Văn phòng phẩm,22000,5,Tiền mặt,2
+DH00728,02/03/2025,KH0260,Hồ Chí Minh,Văn phòng phẩm,20000,,Ví điện tử,5
+DH00729,02/03/2025,KH0139,Hồ Chí Minh ,Mỹ phẩm,270000,4,Ví điện tử,
+DH00730,02/03/2025,,Đà Nẵng,Đồ uống,40000,8,Tiền mặt,
+DH00731,02/03/2025,KH0364,Hà Nội,Đồ uống,16000,6,Ví điện tử,2
+DH00732,02/03/2025,KH0080,Hà Nội,Đồ uống,17000,7,Chuyển khoản,2
+DH00733,03/03/2025,KH0070,Hồ Chí Minh,Gia dụng,262000,2,Ví điện tử,4
+DH00734,03/03/2025,KH0290,Đà Nẵng,Thực phẩm,79000,4,Tiền mặt,3
+DH00735,03/03/2025,KH0170,Cần Thơ,Văn phòng phẩm,59000,4,Tiền mặt,3
+DH00736,03/03/2025,KH0155,Huế,Thực phẩm,121000,,Chuyển khoản,5
+DH00737,03/03/2025,KH0134,Đà Nẵng,Thực phẩm,137000,2,Chuyển khoản,4
+DH00738,03/03/2025,KH0157,Cần Thơ,Thực phẩm,109000,7,Tiền mặt,1
+DH00739,03/03/2025,KH0285,Hồ Chí Minh,Văn phòng phẩm,35000,3,Ví điện tử,4
+DH00740,03/03/2025,KH0061,Hà Nội,Mỹ phẩm,306000,2,Ví điện tử,4
+DH00741,04/03/2025,KH0209,Cần Thơ,Đồ uống,30000,1,Tiền mặt,
+DH00742,04/03/2025,KH0027,Huế,Văn phòng phẩm,49000,4,Tiền mặt,2
+DH00743,04/03/2025,KH0476,Đà Nẵng,Mỹ phẩm,260000,2,Chuyển khoản,2
+DH00744,04/03/2025,KH0136,Đà Nẵng,Thực phẩm,112000,3,Tiền mặt,
+DH00745,04/03/2025,KH0333,Cần Thơ ,Mỹ phẩm,192000,3,Chuyển khoản,
+DH00746,04/03/2025,KH0312,Hà Nội,Gia dụng,579000,2,Chuyển khoản,4
+DH00747,04/03/2025,KH0092,Cần Thơ ,Thực phẩm,144000,7,Chuyển khoản,3
+DH00748,04/03/2025,KH0231,Cần Thơ,Thực phẩm,92000,2,Tiền mặt,2
+DH00749,04/03/2025,KH0310,CẦN THƠ,Thực phẩm,82000,999,Tiền mặt,5
+DH00750,05/03/2025,,Hà Nội,Mỹ phẩm,371000,2,Ví điện tử,5
+DH00751,05/03/2025,KH0118,Hà Nội,Đồ uống,36000,4,Chuyển khoản,4
+DH00752,05/03/2025,KH0324,Hồ Chí Minh,Thực phẩm,136000,5,Chuyển khoản,
+DH00753,05/03/2025,KH0177,Huế,Đồ uống,26000,4,Chuyển khoản,5
+DH00754,05/03/2025,KH0484,Hà Nội,Gia dụng,386000,1,Ví điện tử,4
+DH00755,05/03/2025,KH0378,Đà Nẵng,Gia dụng,184000,1,Tiền mặt,
+DH00756,05/03/2025,KH0321,Hồ Chí Minh,Gia dụng,359000,1,Ví điện tử,
+DH00757,05/03/2025,KH0064,Hà Nội,Gia dụng,248000,4,Chuyển khoản,
+DH00758,05/03/2025,KH0270,Hồ Chí Minh,Mỹ phẩm,330000,3,Ví điện tử,4
+DH00759,05/03/2025,,hồ chí minh,Mỹ phẩm,325000,2,Tiền mặt,3
+DH00760,05/03/2025,KH0194,Hà Nội,Đồ uống,22000,3,Ví điện tử,3
+DH00761,05/03/2025,KH0266,Hồ Chí Minh,Đồ uống,28000,6,Ví điện tử,4
+DH00762,05/03/2025,KH0101,Hà Nội,Mỹ phẩm,282000,3,Tiền mặt,
+DH00763,05/03/2025,KH0234,Cần Thơ,Đồ uống,27000,6,Tiền mặt,4
+DH00764,05/03/2025,KH0095,Hồ Chí Minh,Đồ uống,13000,5,Ví điện tử,5
+DH00765,05/03/2025,KH0552, đà nẵng  ,Văn phòng phẩm,27000,,Chuyển khoản,5
+DH00766,06/03/2025,KH0254,hồ chí minh,Thực phẩm,119000,3,Chuyển khoản,5
+DH00767,06/03/2025,KH0538,hà nội,Đồ uống,25000,4,Ví điện tử,4
+DH00768,06/03/2025,KH0045,Hà Nội,Văn phòng phẩm,57000,4,Ví điện tử,5
+DH00769,06/03/2025,,Hà Nội,Đồ uống,41000,11,Ví điện tử,
+DH00770,06/03/2025,KH0033, đà nẵng  ,Đồ uống,35000,10,Ví điện tử,5
+DH00771,06/03/2025,KH0406,Hồ Chí Minh,Thực phẩm,143000,4,Chuyển khoản,
+DH00772,06/03/2025,,Hồ Chí Minh,Đồ uống,40000,6,Tiền mặt,
+DH00773,06/03/2025,KH0297,Hồ Chí Minh,Gia dụng,216000,4,Ví điện tử,3
+DH00774,06/03/2025,KH0061,Hồ Chí Minh,Thực phẩm,35000,2,Chuyển khoản,
+DH00775,07/03/2025,KH0046,Đà Nẵng,Thực phẩm,136000,3,Ví điện tử,
+DH00776,07/03/2025,KH0206, hà nội  ,Mỹ phẩm,191000,2,Ví điện tử,2
+DH00777,07/03/2025,KH0187,Cần Thơ,Đồ uống,36000,7,Chuyển khoản,2
+DH00778,07/03/2025,KH0112,Hà Nội,Văn phòng phẩm,10000,5,Ví điện tử,2
+DH00779,07/03/2025,KH0453,Hồ Chí Minh,Văn phòng phẩm,38000,1,Tiền mặt,4
+DH00780,07/03/2025,KH0232,Hồ Chí Minh,Mỹ phẩm,298000,4,Ví điện tử,5
+DH00781,07/03/2025,KH0090,Hồ Chí Minh,Thực phẩm,115000,5,Chuyển khoản,5
+DH00782,07/03/2025,KH0245,Hồ Chí Minh,Mỹ phẩm,252000,3,Chuyển khoản,3
+DH00783,08/03/2025,,HÀ NỘI,Đồ uống,25000,5,Chuyển khoản,
+DH00784,08/03/2025,KH0317,Hà Nội,Văn phòng phẩm,32000,3,Chuyển khoản,4
+DH00785,08/03/2025,,Hồ Chí Minh,Đồ uống,13000,6,Ví điện tử,
+DH00786,08/03/2025,KH0427,Huế,Thực phẩm,101000,4,Tiền mặt,
+DH00787,08/03/2025,KH0166,Cần Thơ,Thực phẩm,66000,5,Chuyển khoản,2
+DH00788,08/03/2025,KH0008,Hồ Chí Minh,Thực phẩm,83000,,Ví điện tử,5
+DH00789,08/03/2025,KH0091,Đà Nẵng,Thực phẩm,31000,5,Ví điện tử,3
+DH00790,08/03/2025,KH0261,Đà Nẵng,Thực phẩm,40000,200,Tiền mặt,
+DH00791,08/03/2025,KH0487,Đà Nẵng,Thực phẩm,112000,2,Tiền mặt,4
+DH00792,08/03/2025,KH0057, đà nẵng  ,Đồ uống,21000,7,Chuyển khoản,5
+DH00793,08/03/2025,KH0493,Hà Nội,Thực phẩm,90000,,Ví điện tử,
+DH00794,08/03/2025,KH0223,Cần Thơ,Đồ uống,25000,3,Chuyển khoản,
+DH00795,08/03/2025,KH0091,Hà Nội,Mỹ phẩm,431000,3,Chuyển khoản,2
+DH00796,08/03/2025,KH0260,Hà Nội,Gia dụng,296000,3,Ví điện tử,5
+DH00797,08/03/2025,KH0169,Hồ Chí Minh,Thực phẩm,28000,1,Ví điện tử,3
+DH00798,08/03/2025,KH0037,Đà Nẵng ,Thực phẩm,110000,2,Tiền mặt,5
+DH00799,08/03/2025,KH0482, hồ chí minh  ,Thực phẩm,90000,4,Chuyển khoản,5
+DH00800,08/03/2025,KH0165,Hà Nội,Thực phẩm,37000,4,Tiền mặt,4
+DH00801,08/03/2025,KH0323,Huế,Gia dụng,133000,1,Tiền mặt,4
+DH00802,09/03/2025,KH0434,  Hà Nội,Đồ uống,34000,7,Ví điện tử,5
+DH00803,09/03/2025,KH0383,Hà Nội,Thực phẩm,73000,6,Ví điện tử,4
+DH00804,09/03/2025,,Hà Nội,Gia dụng,335000,1,Chuyển khoản,
+DH00805,09/03/2025,KH0079,Hồ Chí Minh,Văn phòng phẩm,39000,4,Chuyển khoản,2
+DH00806,09/03/2025,,Hồ Chí Minh,Gia dụng,563000,3,Tiền mặt,5
+DH00807,09/03/2025,,Hồ Chí Minh,Thực phẩm,36000,2,Tiền mặt,3
+DH00808,09/03/2025,KH0215,Hà Nội,Đồ uống,25000,6,Ví điện tử,4
+DH00809,09/03/2025,KH0034,Hồ Chí Minh,Văn phòng phẩm,30000,5,Tiền mặt,5
+DH00810,09/03/2025,KH0206,Hà Nội,Đồ uống,23000,1,Ví điện tử,2
+DH00811,09/03/2025,KH0311,Đà Nẵng,Thực phẩm,34000,3,Tiền mặt,3
+DH00812,09/03/2025,,Cần Thơ,Đồ uống,29000,3,Chuyển khoản,4
+DH00813,09/03/2025,KH0072,Hồ Chí Minh ,Mỹ phẩm,123000,2,Ví điện tử,5
+DH00814,09/03/2025,KH0387,Cần Thơ,Thực phẩm,114000,2,Chuyển khoản,4
+DH00815,10/03/2025,KH0211,Hồ Chí Minh,Thực phẩm,150000,7,Chuyển khoản,1
+DH00816,10/03/2025,KH0316,Hồ Chí Minh,Đồ uống,32000,7,Chuyển khoản,
+DH00817,10/03/2025,KH0302,Hà Nội,Đồ uống,24000,8,Ví điện tử,4
+DH00818,10/03/2025,KH0303,Hồ Chí Minh,Văn phòng phẩm,59000,3,Chuyển khoản,5
+DH00819,10/03/2025,KH0416,Hà Nội,Thực phẩm,98000,7,Chuyển khoản,3
+DH00820,10/03/2025,KH0088,Hà Nội,Mỹ phẩm,446000,2,Chuyển khoản,4
+DH00821,10/03/2025,KH0303,Hồ Chí Minh,Đồ uống,42000,5,Ví điện tử,5
+DH00822,10/03/2025,KH0479,Hồ Chí Minh,Mỹ phẩm,266000,2,Ví điện tử,5
+DH00823,11/03/2025,KH0109,Đà Nẵng,Đồ uống,43000,2,Chuyển khoản,
+DH00824,11/03/2025,KH0004,Hà Nội,Thực phẩm,21000,4,Chuyển khoản,4
+DH00825,11/03/2025,KH0179,Huế ,Đồ uống,25000,4,Ví điện tử,4
+DH00826,11/03/2025,KH0362,Hà Nội,Đồ uống,30000,2,Ví điện tử,4
+DH00827,11/03/2025,KH0425,Cần Thơ,Thực phẩm,94000,2,Tiền mặt,5
+DH00828,11/03/2025,KH0060,Cần Thơ,Thực phẩm,144000,3,Ví điện tử,5
+DH00829,11/03/2025,KH0526,  Cần Thơ,Đồ uống,31000,2,Chuyển khoản,3
+DH00830,11/03/2025,,cần thơ,Đồ uống,30000,3,Tiền mặt,
+DH00831,11/03/2025,KH0124,Hà Nội,Mỹ phẩm,348000,2,Chuyển khoản,1
+DH00832,12/03/2025,KH0431,Hồ Chí Minh,Đồ uống,36000,5,Ví điện tử,5
+DH00833,12/03/2025,KH0058,Hồ Chí Minh,Mỹ phẩm,437000,3,Ví điện tử,3
+DH00834,12/03/2025,KH0149,Hồ Chí Minh,Mỹ phẩm,182000,4,Chuyển khoản,5
+DH00835,12/03/2025,KH0235,Huế,Đồ uống,45000,4,Tiền mặt,4
+DH00836,12/03/2025,KH0054,Đà Nẵng,Đồ uống,37000,6,Tiền mặt,4
+DH00837,12/03/2025,KH0370,Cần Thơ ,Thực phẩm,29000,3,Ví điện tử,5
+DH00838,12/03/2025,KH0277,Cần Thơ,Thực phẩm,84000,4,Tiền mặt,
+DH00839,12/03/2025,KH0493,Đà Nẵng,Văn phòng phẩm,24000,5,Ví điện tử,4
+DH00840,13/03/2025,KH0401,Hồ Chí Minh,Đồ uống,17000,5,Ví điện tử,
+DH00841,13/03/2025,KH0295,Hà Nội,Thực phẩm,102000,1,Chuyển khoản,4
+DH00841,13/03/2025,KH0295,Hà Nội,Thực phẩm,102000,1,Chuyển khoản,4
+DH00842,13/03/2025,,Hồ Chí Minh,Đồ uống,30000,4,Ví điện tử,2
+DH00843,13/03/2025,KH0069,  Hồ Chí Minh,Gia dụng,367000,4,Tiền mặt,
+DH00844,13/03/2025,KH0225,Hà Nội,Đồ uống,23000,5,Ví điện tử,5
+DH00845,13/03/2025,KH0416,Hà Nội,Thực phẩm,129000,5,Tiền mặt,
+DH00846,13/03/2025,KH0023,Hồ Chí Minh,Văn phòng phẩm,24000,4,Ví điện tử,3
+DH00847,13/03/2025,KH0473,HÀ NỘI,Mỹ phẩm,404000,3,Ví điện tử,3
+DH00848,13/03/2025,KH0225,Hà Nội,Đồ uống,44000,4,Ví điện tử,5
+DH00849,13/03/2025,KH0045,Cần Thơ,Thực phẩm,92000,3,Chuyển khoản,3
+DH00850,13/03/2025,KH0472,Hồ Chí Minh,Văn phòng phẩm,25000,2,Chuyển khoản,3
+DH00851,13/03/2025,KH0458,Đà Nẵng,Văn phòng phẩm,57000,2,Tiền mặt,5
+DH00852,13/03/2025,KH0473,Hồ Chí Minh,Thực phẩm,131000,6,Tiền mặt,4
+DH00853,14/03/2025,KH0026,Hà Nội,Mỹ phẩm,281000,6,Ví điện tử,5
+DH00854,14/03/2025,KH0339,Hà Nội,Thực phẩm,35000,4,Tiền mặt,4
+DH00855,14/03/2025,KH0399,Hà Nội,Thực phẩm,58000,2,Ví điện tử,3
+DH00856,14/03/2025,KH0440,Huế,Đồ uống,32000,6,Chuyển khoản,4
+DH00857,14/03/2025,KH0234,Hà Nội,Đồ uống,31000,6,Chuyển khoản,4
+DH00858,14/03/2025,KH0288,Đà Nẵng,Mỹ phẩm,230000,3,Tiền mặt,4
+DH00859,14/03/2025,KH0074,Hồ Chí Minh,Thực phẩm,132000,2,Chuyển khoản,
+DH00860,14/03/2025,KH0094, hồ chí minh  ,Đồ uống,15000,2,Ví điện tử,3
+DH00861,14/03/2025,KH0249,HỒ CHÍ MINH,Văn phòng phẩm,26000,2,Ví điện tử,2
+DH00862,14/03/2025,KH0496, cần thơ  ,Thực phẩm,94000,4,Ví điện tử,2
+DH00863,14/03/2025,KH0366,ĐÀ NẴNG,Đồ uống,24000,5,Ví điện tử,
+DH00864,14/03/2025,KH0187,Huế,Đồ uống,15000,8,Tiền mặt,4
+DH00865,15/03/2025,KH0195,Đà Nẵng ,Mỹ phẩm,282000,2,Tiền mặt,5
+DH00866,15/03/2025,KH0162,Hồ Chí Minh,Đồ uống,40000,4,Ví điện tử,5
+DH00867,15/03/2025,KH0491,Huế,Đồ uống,30000,3,Ví điện tử,3
+DH00868,15/03/2025,KH0095,Đà Nẵng,Đồ uống,41000,1,Tiền mặt,4
+DH00869,15/03/2025,KH0479,Hồ Chí Minh,Gia dụng,195000,1,Tiền mặt,
+DH00870,15/03/2025,,Đà Nẵng,Văn phòng phẩm,10000,2,Tiền mặt,5
+DH00871,15/03/2025,KH0063,Hà Nội,Mỹ phẩm,103000,2,Ví điện tử,3
+DH00872,15/03/2025,KH0169, đà nẵng  ,Đồ uống,38000,4,Tiền mặt,4
+DH00873,15/03/2025,KH0389,Hà Nội,Đồ uống,26000,5,Chuyển khoản,4
+DH00874,15/03/2025,KH0253,Huế,Mỹ phẩm,164000,4,Ví điện tử,3
+DH00875,15/03/2025,KH0125,Cần Thơ,Mỹ phẩm,377000,2,Tiền mặt,5
+DH00876,15/03/2025,, huế  ,Thực phẩm,114000,3,Chuyển khoản,5
+DH00877,15/03/2025,KH0447,Hồ Chí Minh,Văn phòng phẩm,12000,2,Chuyển khoản,4
+DH00878,15/03/2025,KH0290, hồ chí minh  ,Đồ uống,25000,5,Chuyển khoản,5
+DH00879,15/03/2025,KH0179,Hà Nội,Đồ uống,30000,2,Tiền mặt,5
+DH00880,15/03/2025,KH0343,Hà Nội,Mỹ phẩm,311000,3,Tiền mặt,3
+DH00881,15/03/2025,KH0081,Đà Nẵng,Gia dụng,361000,4,Chuyển khoản,3
+DH00882,15/03/2025,KH0059,Huế,Đồ uống,28000,7,Tiền mặt,
+DH00883,15/03/2025,KH0225,Hồ Chí Minh,Mỹ phẩm,256000,5,Chuyển khoản,
+DH00884,15/03/2025,KH0353,Hà Nội,Thực phẩm,61000,2,Chuyển khoản,
+DH00885,15/03/2025,KH0003,Hà Nội,Văn phòng phẩm,13000,1,Ví điện tử,5
+DH00886,15/03/2025,KH0037,Cần Thơ,Thực phẩm,66000,2,Tiền mặt,4
+DH00887,15/03/2025,KH0492,Đà Nẵng,Đồ uống,20000,3,Tiền mặt,5
+DH00888,16/03/2025,KH0168,Đà Nẵng,Thực phẩm,108000,1,Chuyển khoản,4
+DH00889,16/03/2025,KH0258,Hà Nội,Văn phòng phẩm,32000,,Ví điện tử,3
+DH00890,16/03/2025,KH0126,  Hà Nội,Đồ uống,20000,3,Chuyển khoản,3
+DH00891,16/03/2025,KH0230,Hồ Chí Minh,Mỹ phẩm,95000,3,Chuyển khoản,3
+DH00892,16/03/2025,KH0058,Hà Nội,Gia dụng,96000,2,Tiền mặt,
+DH00893,16/03/2025,KH0499,Hồ Chí Minh,Đồ uống,38000,7,Chuyển khoản,2
+DH00894,16/03/2025,KH0206,hà nội,Thực phẩm,140000,6,Tiền mặt,5
+DH00895,16/03/2025,KH0219,  Hồ Chí Minh,Văn phòng phẩm,27000,2,Ví điện tử,
+DH00896,16/03/2025,KH0249,Hà Nội,Thực phẩm,86000,2,Chuyển khoản,3
+DH00897,16/03/2025,KH0328,Hà Nội,Đồ uống,21000,1,Chuyển khoản,5
+DH00898,16/03/2025,KH0376,Hồ Chí Minh,Thực phẩm,141000,2,Chuyển khoản,3
+DH00899,17/03/2025,KH0132,Đà Nẵng,Đồ uống,34000,8,Tiền mặt,5
+DH00900,17/03/2025,KH0441,Hà Nội,Thực phẩm,50000,1,Ví điện tử,4
+DH00901,17/03/2025,KH0282,Hồ Chí Minh,Văn phòng phẩm,16000,6,Ví điện tử,4
+DH00902,17/03/2025,KH0136,Hồ Chí Minh,Văn phòng phẩm,6000,7,Chuyển khoản,3
+DH00903,17/03/2025,KH0472,Hồ Chí Minh,Đồ uống,13000,4,Tiền mặt,
+DH00904,17/03/2025,KH0304,Cần Thơ,Gia dụng,388000,1,Tiền mặt,4
+DH00905,17/03/2025,KH0161,Hà Nội,Mỹ phẩm,134000,,Chuyển khoản,3
+DH00906,17/03/2025,KH0495,Cần Thơ,Thực phẩm,27000,5,Tiền mặt,4
+DH00907,17/03/2025,KH0098,CẦN THƠ,Đồ uống,44000,5,Chuyển khoản,5
+DH00908,17/03/2025,KH0006,Hà Nội,Mỹ phẩm,369000,4,Chuyển khoản,3
+DH00909,17/03/2025,KH0062,Hồ Chí Minh,Mỹ phẩm,292000,3,Ví điện tử,5
+DH00910,17/03/2025,KH0013,Hồ Chí Minh,Đồ uống,45000,4,Chuyển khoản,
+DH00911,17/03/2025,KH0089,Đà Nẵng,Đồ uống,24000,4,Tiền mặt,5
+DH00912,18/03/2025,KH0319,Hồ Chí Minh,Đồ uống,29000,5,Ví điện tử,3
+DH00913,18/03/2025,KH0153,Hồ Chí Minh,Đồ uống,27000,4,Ví điện tử,
+DH00914,18/03/2025,KH0217, hồ chí minh  ,Đồ uống,44000,6,Ví điện tử,
+DH00915,18/03/2025,KH0096,Đà Nẵng,Mỹ phẩm,413000,5,Tiền mặt,2
+DH00916,18/03/2025,KH0371,Hà Nội,Đồ uống,28000,5,Ví điện tử,3
+DH00917,18/03/2025,,Hồ Chí Minh,Thực phẩm,108000,2,Tiền mặt,4
+DH00918,18/03/2025,KH0441, hồ chí minh  ,Đồ uống,38000,4,Chuyển khoản,5
+DH00919,19/03/2025,KH0358,Hồ Chí Minh,Thực phẩm,27000,5,Tiền mặt,4
+DH00920,19/03/2025,KH0028,Đà Nẵng ,Gia dụng,121000,1,Tiền mặt,3
+DH00921,19/03/2025,KH0004,Hồ Chí Minh,Thực phẩm,21000,3,Ví điện tử,
+DH00922,19/03/2025,KH0297,CẦN THƠ,Đồ uống,39000,5,Tiền mặt,
+DH00923,19/03/2025,KH0034,Huế,Đồ uống,25000,12,Tiền mặt,3
+DH00924,19/03/2025,KH0485,Huế,Gia dụng,338000,3,Chuyển khoản,3
+DH00925,19/03/2025,KH0358,Hà Nội,Đồ uống,12000,6,Ví điện tử,4
+DH00926,19/03/2025,KH0010,Cần Thơ,Thực phẩm,82000,4,Chuyển khoản,4
+DH00927,19/03/2025,KH0274,Hồ Chí Minh,Mỹ phẩm,149000,5,Chuyển khoản,3
+DH00928,19/03/2025,KH0031,cần thơ,Đồ uống,14000,3,Ví điện tử,
+DH00929,19/03/2025,KH0087,hà nội,Gia dụng,359000,4,Chuyển khoản,
+DH00930,19/03/2025,KH0443,Hồ Chí Minh,Đồ uống,23000,4,Ví điện tử,
+DH00931,19/03/2025,KH0415,Hồ Chí Minh,Đồ uống,22000,,Ví điện tử,4
+DH00932,19/03/2025,KH0198,hồ chí minh,Đồ uống,41000,5,Tiền mặt,5
+DH00933,19/03/2025,KH0169,Hà Nội,Thực phẩm,91000,2,Ví điện tử,5
+DH00934,20/03/2025,KH0424,Hồ Chí Minh,Đồ uống,18000,4,Ví điện tử,1
+DH00935,20/03/2025,KH0254,Hà Nội,Mỹ phẩm,235000,2,Chuyển khoản,2
+DH00936,20/03/2025,KH0201,Hà Nội,Thực phẩm,129000,2,Ví điện tử,
+DH00937,20/03/2025,KH0112,Hồ Chí Minh,Thực phẩm,80000,1,Ví điện tử,3
+DH00938,20/03/2025,KH0472,Huế,Đồ uống,26000,7,Chuyển khoản,3
+DH00939,20/03/2025,KH0227,Hồ Chí Minh,Đồ uống,35000,10,Ví điện tử,5
+DH00940,20/03/2025,KH0150,Đà Nẵng,Mỹ phẩm,387000,2,Tiền mặt,5
+DH00941,20/03/2025,KH0115,huế,Thực phẩm,20000,2,Ví điện tử,4
+DH00942,20/03/2025,KH0480,Huế,Thực phẩm,31000,1,Tiền mặt,4
+DH00943,20/03/2025,KH0281,Hồ Chí Minh,Đồ uống,33000,2,Chuyển khoản,
+DH00944,20/03/2025,KH0227,Hồ Chí Minh,Văn phòng phẩm,44000,14,Chuyển khoản,5
+DH00945,20/03/2025,KH0451,Hà Nội,Thực phẩm,48000,1,Ví điện tử,4
+DH00946,20/03/2025,,Hà Nội,Mỹ phẩm,106000,2,Chuyển khoản,
+DH00947,21/03/2025,KH0225,Cần Thơ,Đồ uống,21000,3,Tiền mặt,3
+DH00948,21/03/2025,KH0460,Hồ Chí Minh,Gia dụng,564000,1,Ví điện tử,5
+DH00948,21/03/2025,KH0460,Hồ Chí Minh,Gia dụng,564000,1,Ví điện tử,5
+DH00949,21/03/2025,KH0256,hà nội,Mỹ phẩm,423000,3,Ví điện tử,3
+DH00950,21/03/2025,KH0290,Hà Nội,Thực phẩm,83000,2,Chuyển khoản,
+DH00951,21/03/2025,KH0327,Hà Nội ,Đồ uống,17000,5,Chuyển khoản,4
+DH00952,21/03/2025,KH0134,hồ chí minh,Mỹ phẩm,162000,2,Chuyển khoản,2
+DH00953,21/03/2025,KH0033,Hà Nội,Văn phòng phẩm,23000,2,Ví điện tử,4
+DH00954,21/03/2025,KH0314,Hồ Chí Minh,Mỹ phẩm,192000,4,Ví điện tử,2
+DH00955,21/03/2025,KH0473,Cần Thơ,Gia dụng,330000,5,Ví điện tử,3
+DH00956,21/03/2025,KH0494,Huế,Mỹ phẩm,272000,2,Tiền mặt,5
+DH00957,21/03/2025,KH0346,Hồ Chí Minh,Thực phẩm,66000,3,Chuyển khoản,
+DH00958,21/03/2025,KH0161,Hồ Chí Minh,Thực phẩm,140000,3,Ví điện tử,
+DH00959,22/03/2025,KH0245,Hà Nội,Thực phẩm,125000,2,Chuyển khoản,1
+DH00960,22/03/2025,KH0276,Huế,Thực phẩm,20000,3,Ví điện tử,3
+DH00961,22/03/2025,KH0466,Hà Nội,Đồ uống,29000,3,Ví điện tử,2
+DH00962,22/03/2025,KH0066,Hà Nội,Đồ uống,31000,3,Ví điện tử,4
+DH00963,22/03/2025,KH0070,Hà Nội,Đồ uống,20000,7,Chuyển khoản,
+DH00964,22/03/2025,KH0079,HỒ CHÍ MINH,Văn phòng phẩm,57000,1,Chuyển khoản,1
+DH00965,22/03/2025,KH0417,Hà Nội,Đồ uống,17000,3,Chuyển khoản,5
+DH00966,22/03/2025,KH0438,Hồ Chí Minh,Gia dụng,119000,2,Ví điện tử,
+DH00967,22/03/2025,KH0425,Hồ Chí Minh,Mỹ phẩm,195000,2,Chuyển khoản,1
+DH00968,22/03/2025,KH0099,Hồ Chí Minh,Gia dụng,558000,2,Tiền mặt,5
+DH00969,22/03/2025,KH0075,Cần Thơ,Thực phẩm,125000,2,Tiền mặt,3
+DH00970,22/03/2025,KH0143,  Cần Thơ,Thực phẩm,50000,3,Chuyển khoản,
+DH00971,22/03/2025,KH0303,Hà Nội,Mỹ phẩm,426000,5,Tiền mặt,3
+DH00972,22/03/2025,KH0040,Hồ Chí Minh,Mỹ phẩm,362000,2,Tiền mặt,
+DH00973,22/03/2025,,Đà Nẵng,Thực phẩm,58000,1,Tiền mặt,3
+DH00974,23/03/2025,KH0253,Hồ Chí Minh,Đồ uống,32000,6,Ví điện tử,5
+DH00975,23/03/2025,,Đà Nẵng,Văn phòng phẩm,16000,6,Ví điện tử,3
+DH00976,23/03/2025,KH0333,Huế,Thực phẩm,59000,2,Chuyển khoản,4
+DH00977,23/03/2025,KH0119,HỒ CHÍ MINH,Thực phẩm,50000,2,Chuyển khoản,3
+DH00978,23/03/2025,KH0186,Hồ Chí Minh,Thực phẩm,44000,4,Ví điện tử,3
+DH00979,23/03/2025,KH0133,Huế,Thực phẩm,139000,4,Tiền mặt,4
+DH00980,23/03/2025,KH0340,Hà Nội ,Văn phòng phẩm,41000,2,Chuyển khoản,
+DH00981,23/03/2025,KH0228,Hà Nội,Mỹ phẩm,270000,3,Ví điện tử,4
+DH00982,23/03/2025,KH0330,Hồ Chí Minh,Văn phòng phẩm,8000,2,Ví điện tử,5
+DH00983,23/03/2025,KH0162,  Đà Nẵng,Gia dụng,373000,3,Tiền mặt,3
+DH00984,23/03/2025,KH0285,Cần Thơ,Thực phẩm,31000,2,Chuyển khoản,1
+DH00985,23/03/2025,KH0241,Hồ Chí Minh,Mỹ phẩm,255000,2,Ví điện tử,
+DH00986,24/03/2025,KH0460,Hồ Chí Minh,Đồ uống,13000,2,Ví điện tử,2
+DH00986,24/03/2025,KH0460,Hồ Chí Minh,Đồ uống,13000,2,Ví điện tử,2
+DH00987,24/03/2025,KH0267,Hà Nội,Thực phẩm,55000,6,Chuyển khoản,
+DH00988,24/03/2025,KH0052,Đà Nẵng,Gia dụng,584000,2,Chuyển khoản,5
+DH00989,24/03/2025,KH0417,Hồ Chí Minh,Thực phẩm,75000,4,Ví điện tử,4
+DH00990,24/03/2025,KH0058,Hà Nội,Mỹ phẩm,438000,3,Ví điện tử,
+DH00991,24/03/2025,,Hà Nội,Mỹ phẩm,176000,1,Tiền mặt,4
+DH00992,24/03/2025,KH0290,Hà Nội,Đồ uống,41000,3,Chuyển khoản,3
+DH00993,24/03/2025,KH0308,Đà Nẵng,Đồ uống,31000,7,Tiền mặt,
+DH00994,24/03/2025,KH0453,Hà Nội,Mỹ phẩm,394000,2,Ví điện tử,2
+DH00995,24/03/2025,KH0292,Đà Nẵng,Thực phẩm,82000,3,Tiền mặt,5
+DH00996,24/03/2025,,Hồ Chí Minh,Thực phẩm,46000,2,Ví điện tử,5
+DH00997,25/03/2025,KH0457,Huế,Thực phẩm,71000,2,Chuyển khoản,
+DH00998,25/03/2025,KH0050,Hà Nội,Đồ uống,35000,5,Tiền mặt,2
+DH00999,25/03/2025,KH0110,Hà Nội,Mỹ phẩm,174000,1,Chuyển khoản,5
+DH01000,25/03/2025,KH0134,Đà Nẵng,Văn phòng phẩm,25000,5,Ví điện tử,5
+DH01001,25/03/2025,KH0206,Hồ Chí Minh,Mỹ phẩm,362000,4,Ví điện tử,4
+DH01002,26/03/2025,KH0048,Hà Nội,Mỹ phẩm,399000,1,Chuyển khoản,5
+DH01003,26/03/2025,KH0228,hà nội,Gia dụng,567000,4,Ví điện tử,4
+DH01004,26/03/2025,KH0340,Cần Thơ,Đồ uống,20000,3,Chuyển khoản,4
+DH01005,26/03/2025,KH0002,Cần Thơ,Thực phẩm,104000,4,Tiền mặt,
+DH01006,26/03/2025,KH0453,Hồ Chí Minh,Mỹ phẩm,330000,1,Ví điện tử,4
+DH01006,26/03/2025,KH0453,Hồ Chí Minh,Mỹ phẩm,330000,1,Ví điện tử,4
+DH01007,26/03/2025,KH0406,Hồ Chí Minh,Mỹ phẩm,385000,2,Ví điện tử,3
+DH01008,26/03/2025,KH0428,Huế,Văn phòng phẩm,20000,2,Chuyển khoản,3
+DH01009,26/03/2025,KH0094,hồ chí minh,Mỹ phẩm,305000,2,Tiền mặt,5
+DH01010,26/03/2025,KH0048,Hà Nội,Đồ uống,43000,5,Tiền mặt,4
+DH01011,26/03/2025,KH0130,Huế,Thực phẩm,86000,2,Chuyển khoản,
+DH01012,26/03/2025,KH0076,Hà Nội,Văn phòng phẩm,7000,3,Chuyển khoản,4
+DH01013,26/03/2025,KH0372,Huế,Thực phẩm,143000,3,Tiền mặt,4
+DH01014,26/03/2025,KH0181,Hà Nội,Văn phòng phẩm,34000,7,Chuyển khoản,4
+DH01015,26/03/2025,KH0030,Hà Nội,Mỹ phẩm,213000,4,Chuyển khoản,3
+DH01016,26/03/2025,KH0145,Hồ Chí Minh ,Đồ uống,15000,6,Ví điện tử,4
+DH01017,26/03/2025,KH0447,Đà Nẵng,Đồ uống,24000,2,Tiền mặt,3
+DH01018,26/03/2025,KH0185,Huế,Mỹ phẩm,334000,2,Chuyển khoản,
+DH01019,26/03/2025,,Cần Thơ,Thực phẩm,96000,3,Tiền mặt,3
+DH01020,26/03/2025,KH0465,Hà Nội,Thực phẩm,109000,2,Ví điện tử,4
+DH01021,26/03/2025,KH0421,Đà Nẵng,Đồ uống,42000,2,Chuyển khoản,5
+DH01022,27/03/2025,KH0412,  Cần Thơ,Mỹ phẩm,370000,3,Chuyển khoản,1
+DH01023,27/03/2025,KH0266,Hà Nội,Thực phẩm,61000,5,Ví điện tử,4
+DH01024,27/03/2025,KH0012,Hà Nội,Mỹ phẩm,391000,3,Chuyển khoản,2
+DH01025,27/03/2025,KH0306,Hà Nội,Mỹ phẩm,265000,3,Ví điện tử,5
+DH01026,27/03/2025,KH0308,  Hà Nội,Đồ uống,37000,2,Ví điện tử,3
+DH01027,27/03/2025,KH0103,Hồ Chí Minh,Văn phòng phẩm,18000,6,Tiền mặt,5
+DH01028,27/03/2025,KH0305,Cần Thơ,Gia dụng,234000,1,Chuyển khoản,2
+DH01029,27/03/2025,KH0382,Cần Thơ,Văn phòng phẩm,36000,2,Tiền mặt,4
+DH01030,27/03/2025,KH0199,Huế ,Thực phẩm,64000,1,Tiền mặt,4
+DH01031,27/03/2025,KH0312,Hà Nội,Đồ uống,19000,5,Ví điện tử,4
+DH01032,27/03/2025,,Hồ Chí Minh,Gia dụng,494000,1,Chuyển khoản,2
+DH01033,27/03/2025,KH0323,HÀ NỘI,Văn phòng phẩm,30000,8,Chuyển khoản,5
+DH01034,27/03/2025,KH0282,Hồ Chí Minh,Văn phòng phẩm,20000,3,Ví điện tử,4
+DH01035,27/03/2025,KH0432,Hồ Chí Minh,Thực phẩm,63000,1,Chuyển khoản,4
+DH01036,28/03/2025,KH0208,Hồ Chí Minh,Gia dụng,106000,2,Ví điện tử,4
+DH01037,28/03/2025,KH0134,Hồ Chí Minh,Đồ uống,19000,3,Chuyển khoản,4
+DH01038,28/03/2025,KH0349,Hồ Chí Minh,Thực phẩm,37000,4,Ví điện tử,
+DH01039,28/03/2025,,Huế,Mỹ phẩm,179000,3,Tiền mặt,
+DH01040,28/03/2025,KH0170,Hà Nội,Mỹ phẩm,319000,3,Chuyển khoản,3
+DH01041,28/03/2025,KH0345,Cần Thơ ,Văn phòng phẩm,24000,3,Tiền mặt,4
+DH01042,28/03/2025,KH0499,Hà Nội,Gia dụng,336000,2,Tiền mặt,3
+DH01043,28/03/2025,KH0478,CẦN THƠ,Đồ uống,42000,4,Tiền mặt,
+DH01044,28/03/2025,KH0181,Hà Nội,Mỹ phẩm,337000,3,Ví điện tử,5
+DH01045,28/03/2025,KH0353,Hà Nội,Đồ uống,21000,5,Chuyển khoản,3
+DH01046,28/03/2025,,Hà Nội,Văn phòng phẩm,33000,2,Tiền mặt,3
+DH01047,28/03/2025,KH0399,Huế,Đồ uống,24000,1,Tiền mặt,
+DH01048,28/03/2025,KH0275,Hà Nội,Đồ uống,43000,1,Ví điện tử,4
+DH01049,28/03/2025,KH0047,Hà Nội,Mỹ phẩm,227000,,Tiền mặt,3
+DH01050,28/03/2025,KH0365,hồ chí minh,Mỹ phẩm,355000,5,Chuyển khoản,5
+DH01051,28/03/2025,KH0160,Cần Thơ,Mỹ phẩm,289000,2,Tiền mặt,5
+DH01052,28/03/2025,KH0101,Hồ Chí Minh,Văn phòng phẩm,19000,4,Chuyển khoản,
+DH01053,28/03/2025,KH0320,Hà Nội,Mỹ phẩm,422000,6,Tiền mặt,5
+DH01054,28/03/2025,KH0170,Huế,Đồ uống,27000,4,Chuyển khoản,
+DH01055,29/03/2025,KH0280,  Hồ Chí Minh,Đồ uống,16000,4,Chuyển khoản,
+DH01056,29/03/2025,KH0448,Hồ Chí Minh,Gia dụng,523000,1,Ví điện tử,2
+DH01057,29/03/2025,KH0206,Hồ Chí Minh,Thực phẩm,59000,6,Chuyển khoản,5
+DH01058,29/03/2025,KH0303,hồ chí minh,Đồ uống,29000,1,Chuyển khoản,3
+DH01059,29/03/2025,,Hà Nội,Đồ uống,22000,4,Ví điện tử,5
+DH01060,29/03/2025,KH0353,Hà Nội,Đồ uống,45000,5,Chuyển khoản,
+DH01061,29/03/2025,KH0235,Hồ Chí Minh,Đồ uống,23000,6,Ví điện tử,5
+DH01062,29/03/2025,KH0022,Hồ Chí Minh,Đồ uống,45000,3,Tiền mặt,
+DH01063,29/03/2025,,  Huế,Đồ uống,31000,4,Tiền mặt,4
+DH01064,29/03/2025,KH0365,Hồ Chí Minh,Gia dụng,519000,,Chuyển khoản,2
+DH01065,29/03/2025,KH0163,Hồ Chí Minh,Văn phòng phẩm,57000,6,Ví điện tử,3
+DH01066,29/03/2025,KH0086,Hồ Chí Minh,Mỹ phẩm,425000,3,Chuyển khoản,5
+DH01067,29/03/2025,KH0015,Hồ Chí Minh,Thực phẩm,138000,3,Chuyển khoản,
+DH01068,29/03/2025,KH0132,Huế,Thực phẩm,98000,4,Chuyển khoản,2
+DH01069,29/03/2025,KH0117,Huế,Đồ uống,38000,4,Ví điện tử,4
+DH01070,29/03/2025,KH0156,Hà Nội,Đồ uống,44000,4,Ví điện tử,2
+DH01071,29/03/2025,KH0378,Hồ Chí Minh,Thực phẩm,96000,5,Ví điện tử,5
+DH01072,30/03/2025,KH0065,Hồ Chí Minh,Văn phòng phẩm,24000,2,Tiền mặt,
+DH01073,30/03/2025,KH0424,Cần Thơ,Thực phẩm,44000,3,Ví điện tử,
+DH01074,30/03/2025,KH0166,CẦN THƠ,Thực phẩm,139000,5,Tiền mặt,5
+DH01075,30/03/2025,KH0479,Hồ Chí Minh,Mỹ phẩm,396000,3,Tiền mặt,5
+DH01076,30/03/2025,KH0173,hà nội,Thực phẩm,35000,3,Tiền mặt,2
+DH01077,30/03/2025,KH0047,Huế,Đồ uống,37000,4,Ví điện tử,4
+DH01078,30/03/2025,KH0427, đà nẵng  ,Thực phẩm,70000,6,Chuyển khoản,4
+DH01079,30/03/2025,KH0436,Đà Nẵng,Văn phòng phẩm,50000,3,Ví điện tử,4
+DH01080,30/03/2025,KH0296,Đà Nẵng,Thực phẩm,32000,4,Tiền mặt,4
+DH01081,30/03/2025,KH0129,Hồ Chí Minh,Văn phòng phẩm,29000,3,Ví điện tử,
+DH01082,30/03/2025,KH0036,Hà Nội,Đồ uống,44000,2,Chuyển khoản,2
+DH01082,30/03/2025,KH0036,Hà Nội,Đồ uống,44000,2,Chuyển khoản,2
+DH01083,30/03/2025,KH0322,Hồ Chí Minh,Thực phẩm,77000,5,Tiền mặt,5
+DH01084,30/03/2025,KH0437, đà nẵng  ,Đồ uống,45000,3,Ví điện tử,4
+DH01085,31/03/2025,KH0132,Hà Nội,Văn phòng phẩm,38000,6,Chuyển khoản,4
+DH01086,31/03/2025,KH0451,Hà Nội,Gia dụng,514000,7,Chuyển khoản,
+DH01087,31/03/2025,KH0500,Hà Nội,Gia dụng,380000,2,Tiền mặt,4
+DH01088,31/03/2025,KH0255,Hồ Chí Minh,Văn phòng phẩm,42000,3,Chuyển khoản,4
+DH01089,31/03/2025,KH0039,Huế,Đồ uống,25000,5,Tiền mặt,4
+DH01090,31/03/2025,KH0441,Hồ Chí Minh,Gia dụng,404000,2,Chuyển khoản,
+DH01091,31/03/2025,KH0178,Hà Nội,Mỹ phẩm,433000,,Ví điện tử,
+DH01092,31/03/2025,KH0090,HỒ CHÍ MINH,Văn phòng phẩm,60000,4,Tiền mặt,5
+DH01093,31/03/2025,KH0132,Hồ Chí Minh,Văn phòng phẩm,60000,4,Chuyển khoản,5
+DH01094,01/04/2025,KH0420,Hồ Chí Minh,Mỹ phẩm,402000,3,Ví điện tử,
+DH01095,01/04/2025,KH0344,  Hồ Chí Minh,Văn phòng phẩm,59000,2,Ví điện tử,
+DH01096,01/04/2025,KH0385,Hồ Chí Minh,Gia dụng,367000,1,Chuyển khoản,1
+DH01097,01/04/2025,KH0300,Hồ Chí Minh,Mỹ phẩm,303000,3,Ví điện tử,3
+DH01098,01/04/2025,KH0362,Đà Nẵng,Thực phẩm,73000,3,Tiền mặt,4
+DH01099,01/04/2025,KH0244,Hà Nội,Mỹ phẩm,327000,2,Tiền mặt,4
+DH01100,01/04/2025,KH0039,Hà Nội,Đồ uống,38000,5,Chuyển khoản,4
+DH01101,01/04/2025,,Cần Thơ ,Thực phẩm,62000,3,Chuyển khoản,5
+DH01102,01/04/2025,KH0081,Hà Nội,Mỹ phẩm,358000,4,Ví điện tử,3
+DH01103,01/04/2025,KH0194,Huế,Mỹ phẩm,396000,2,Tiền mặt,3
+DH01104,02/04/2025,KH0193,Đà Nẵng,Đồ uống,21000,6,Ví điện tử,5
+DH01105,02/04/2025,KH0036,Hà Nội,Mỹ phẩm,130000,4,Ví điện tử,
+DH01106,02/04/2025,KH0318,Hồ Chí Minh,Đồ uống,19000,4,Ví điện tử,3
+DH01107,02/04/2025,KH0477,Hồ Chí Minh,Gia dụng,315000,1,Tiền mặt,3
+DH01108,02/04/2025,KH0097,hà nội,Mỹ phẩm,220000,4,Ví điện tử,2
+DH01109,02/04/2025,KH0393,Hà Nội,Đồ uống,26000,5,Chuyển khoản,3
+DH01110,02/04/2025,,HỒ CHÍ MINH,Đồ uống,41000,5,Tiền mặt,
+DH01111,02/04/2025,KH0080,hà nội,Thực phẩm,46000,3,Ví điện tử,5
+DH01112,02/04/2025,KH0252,Hồ Chí Minh,Văn phòng phẩm,43000,,Tiền mặt,
+DH01112,02/04/2025,KH0252,Hồ Chí Minh,Văn phòng phẩm,43000,,Tiền mặt,
+DH01113,02/04/2025,KH0151,Hà Nội,Mỹ phẩm,158000,5,Ví điện tử,
+DH01114,03/04/2025,KH0212,Hà Nội,Gia dụng,336000,1,Ví điện tử,2
+DH01115,03/04/2025,KH0098,Cần Thơ,Thực phẩm,132000,3,Chuyển khoản,
+DH01116,03/04/2025,KH0042,Hồ Chí Minh,Mỹ phẩm,214000,2,Ví điện tử,
+DH01117,03/04/2025,KH0215,Cần Thơ,Đồ uống,45000,5,Tiền mặt,3
+DH01118,03/04/2025,KH0426,Hồ Chí Minh,Đồ uống,34000,3,Chuyển khoản,4
+DH01119,03/04/2025,KH0438,  Huế,Thực phẩm,74000,5,Tiền mặt,
+DH01120,03/04/2025,KH0400,Hồ Chí Minh,Mỹ phẩm,113000,2,Ví điện tử,3
+DH01121,03/04/2025,KH0288,Hồ Chí Minh,Thực phẩm,148000,4,Tiền mặt,4
+DH01122,03/04/2025,KH0012,Đà Nẵng,Văn phòng phẩm,43000,5,Tiền mặt,5
+DH01123,04/04/2025,KH0171,Hà Nội,Đồ uống,45000,2,Chuyển khoản,3
+DH01124,04/04/2025,KH0321,Hà Nội,Mỹ phẩm,312000,2,Chuyển khoản,4
+DH01125,04/04/2025,KH0247,Hà Nội,Mỹ phẩm,285000,,Chuyển khoản,
+DH01126,04/04/2025,KH0489,Huế,Văn phòng phẩm,18000,5,Tiền mặt,3
+DH01127,04/04/2025,KH0336,Hà Nội,Đồ uống,14000,3,Ví điện tử,2
+DH01128,04/04/2025,KH0499,Hà Nội,Đồ uống,21000,5,Ví điện tử,4
+DH01129,04/04/2025,KH0274,Hà Nội,Mỹ phẩm,127000,2,Ví điện tử,5
+DH01130,04/04/2025,KH0487,hà nội,Đồ uống,36000,8,Ví điện tử,3
+DH01131,04/04/2025,KH0159,Cần Thơ,Đồ uống,43000,3,Ví điện tử,2
+DH01132,04/04/2025,KH0321,Hồ Chí Minh,Đồ uống,30000,4,Tiền mặt,5
+DH01133,04/04/2025,KH0494,Hà Nội,Thực phẩm,23000,3,Chuyển khoản,3
+DH01134,04/04/2025,KH0113,Hồ Chí Minh,Đồ uống,26000,4,Tiền mặt,5
+DH01135,04/04/2025,KH0055,Huế,Thực phẩm,71000,2,Chuyển khoản,3
+DH01136,04/04/2025,KH0010,Huế,Thực phẩm,136000,4,Chuyển khoản,
+DH01137,04/04/2025,KH0124,Hà Nội,Văn phòng phẩm,47000,5,Tiền mặt,5
+DH01138,04/04/2025,KH0469,hà nội,Đồ uống,37000,4,Ví điện tử,4
+DH01139,04/04/2025,KH0146,Cần Thơ,Đồ uống,30000,4,Tiền mặt,
+DH01140,04/04/2025,KH0093,Hồ Chí Minh,Mỹ phẩm,271000,4,Chuyển khoản,
+DH01141,04/04/2025,KH0439,Hồ Chí Minh,Mỹ phẩm,333000,1,Ví điện tử,
+DH01142,05/04/2025,KH0500,Hồ Chí Minh,Đồ uống,43000,5,Chuyển khoản,
+DH01143,05/04/2025,KH0193,Hà Nội,Gia dụng,265000,1,Ví điện tử,1
+DH01144,05/04/2025,,Hồ Chí Minh,Thực phẩm,28000,5,Chuyển khoản,
+DH01145,05/04/2025,KH0216,Hà Nội,Văn phòng phẩm,28000,3,Ví điện tử,
+DH01146,05/04/2025,KH0321,Cần Thơ,Thực phẩm,61000,4,Chuyển khoản,5
+DH01147,05/04/2025,KH0148,Huế,Đồ uống,21000,5,Chuyển khoản,4
+DH01148,05/04/2025,KH0081,Đà Nẵng,Đồ uống,23000,5,Chuyển khoản,
+DH01149,05/04/2025,KH0316,Hồ Chí Minh,Thực phẩm,85000,5,Tiền mặt,5
+DH01150,05/04/2025,KH0025,Cần Thơ,Thực phẩm,80000,1,Chuyển khoản,4
+DH01151,05/04/2025,KH0423,Hà Nội,Mỹ phẩm,155000,2,Ví điện tử,3
+DH01151,05/04/2025,KH0423,Hà Nội,Mỹ phẩm,155000,2,Ví điện tử,3
+DH01152,05/04/2025,KH0372,Cần Thơ,Thực phẩm,98000,7,Chuyển khoản,4
+DH01153,05/04/2025,KH0500,Hồ Chí Minh,Gia dụng,594000,3,Ví điện tử,3
+DH01154,05/04/2025,KH0270,Hồ Chí Minh,Gia dụng,162000,5,Chuyển khoản,2
+DH01155,06/04/2025,KH0399,Hà Nội,Đồ uống,45000,5,Chuyển khoản,1
+DH01155,06/04/2025,KH0399,Hà Nội,Đồ uống,45000,5,Chuyển khoản,1
+DH01156,06/04/2025,KH0216,Hà Nội,Đồ uống,25000,5,Chuyển khoản,2
+DH01157,06/04/2025,KH0198,Hà Nội,Đồ uống,34000,4,Ví điện tử,5
+DH01158,06/04/2025,KH0089,Hà Nội,Đồ uống,40000,3,Chuyển khoản,4
+DH01159,06/04/2025,KH0434,Hà Nội,Gia dụng,490000,3,Ví điện tử,5
+DH01160,06/04/2025,KH0321,Hà Nội,Thực phẩm,42000,3,Ví điện tử,2
+DH01161,06/04/2025,KH0188,Đà Nẵng,Mỹ phẩm,395000,1,Tiền mặt,1
+DH01162,06/04/2025,KH0424,Hà Nội,Gia dụng,411000,2,Chuyển khoản,4
+DH01163,06/04/2025,KH0447,Hồ Chí Minh,Mỹ phẩm,125000,4,Chuyển khoản,2
+DH01164,06/04/2025,KH0181,Hồ Chí Minh,Thực phẩm,51000,4,Ví điện tử,4
+DH01165,06/04/2025,KH0464,Hồ Chí Minh,Đồ uống,13000,2,Ví điện tử,4
+DH01166,06/04/2025,KH0376,Huế,Đồ uống,33000,,Tiền mặt,5
+DH01167,06/04/2025,KH0356,Hồ Chí Minh,Đồ uống,17000,3,Ví điện tử,4
+DH01168,07/04/2025,KH0297,Hồ Chí Minh,Mỹ phẩm,216000,1,Tiền mặt,
+DH01169,07/04/2025,KH0532,Hà Nội,Đồ uống,41000,3,Chuyển khoản,3
+DH01170,07/04/2025,KH0190,Hồ Chí Minh,Mỹ phẩm,206000,2,Tiền mặt,3
+DH01171,07/04/2025,KH0011,Hồ Chí Minh,Đồ uống,35000,4,Ví điện tử,3
+DH01172,07/04/2025,KH0227,Hồ Chí Minh,Đồ uống,35000,,Ví điện tử,4
+DH01173,07/04/2025,KH0030,Hồ Chí Minh,Mỹ phẩm,137000,3,Ví điện tử,
+DH01174,07/04/2025,KH0404,Đà Nẵng,Mỹ phẩm,401000,4,Ví điện tử,4
+DH01175,07/04/2025,KH0406,Hồ Chí Minh,Đồ uống,17000,7,Ví điện tử,2
+DH01176,07/04/2025,KH0187,Đà Nẵng,Văn phòng phẩm,11000,8,Chuyển khoản,
+DH01177,07/04/2025,KH0262, huế  ,Thực phẩm,110000,6,Ví điện tử,4
+DH01178,07/04/2025,KH0071,Hồ Chí Minh,Thực phẩm,124000,3,Ví điện tử,4
+DH01179,08/04/2025,KH0200,Đà Nẵng,Mỹ phẩm,179000,3,Tiền mặt,5
+DH01180,08/04/2025,KH0113, đà nẵng  ,Thực phẩm,150000,5,Tiền mặt,4
+DH01181,08/04/2025,KH0195,Đà Nẵng,Thực phẩm,22000,1,Tiền mặt,4
+DH01181,08/04/2025,KH0195,Đà Nẵng,Thực phẩm,22000,1,Tiền mặt,4
+DH01182,08/04/2025,KH0247,Đà Nẵng,Văn phòng phẩm,44000,8,Chuyển khoản,
+DH01183,08/04/2025,KH0458,Đà Nẵng,Văn phòng phẩm,52000,3,Chuyển khoản,4
+DH01184,08/04/2025,KH0368,Hồ Chí Minh,Văn phòng phẩm,50000,3,Chuyển khoản,4
+DH01185,08/04/2025,KH0559,Hồ Chí Minh,Mỹ phẩm,386000,1,Ví điện tử,4
+DH01186,08/04/2025,KH0482,Hà Nội,Mỹ phẩm,273000,4,Chuyển khoản,4
+DH01187,08/04/2025,KH0446,Hồ Chí Minh,Đồ uống,31000,6,Chuyển khoản,3
+DH01188,08/04/2025,KH0417,  Hồ Chí Minh,Đồ uống,40000,3,Chuyển khoản,5
+DH01189,09/04/2025,KH0455,HUẾ,Thực phẩm,119000,2,Ví điện tử,2
+DH01190,09/04/2025,KH0283,Hà Nội,Thực phẩm,49000,5,Chuyển khoản,3
+DH01191,09/04/2025,KH0330,Đà Nẵng,Văn phòng phẩm,42000,5,Tiền mặt,
+DH01192,09/04/2025,KH0544,huế,Thực phẩm,129000,1,Ví điện tử,
+DH01193,09/04/2025,KH0415,Hồ Chí Minh,Gia dụng,141000,3,Tiền mặt,5
+DH01194,09/04/2025,KH0400,Hồ Chí Minh,Đồ uống,28000,4,Chuyển khoản,4
+DH01195,09/04/2025,KH0473,Hồ Chí Minh,Đồ uống,14000,,Tiền mặt,3
+DH01196,09/04/2025,KH0348,ĐÀ NẴNG,Đồ uống,36000,4,Chuyển khoản,3
+DH01197,09/04/2025,KH0024,Đà Nẵng,Đồ uống,32000,7,Chuyển khoản,3
+DH01198,09/04/2025,KH0412,Hồ Chí Minh,Thực phẩm,77000,2,Chuyển khoản,2
+DH01199,09/04/2025,KH0277,Đà Nẵng ,Thực phẩm,76000,4,Ví điện tử,5
+DH01200,09/04/2025,KH0082,Hồ Chí Minh,Đồ uống,45000,4,Tiền mặt,1
+DH01201,09/04/2025,KH0087,Đà Nẵng,Gia dụng,150000,1,Ví điện tử,4
+DH01202,10/04/2025,KH0349,Hồ Chí Minh,Mỹ phẩm,338000,1,Tiền mặt,4
+DH01203,10/04/2025,KH0423,Hồ Chí Minh,Mỹ phẩm,108000,5,Ví điện tử,1
+DH01204,10/04/2025,KH0227,Đà Nẵng ,Đồ uống,26000,7,Ví điện tử,
+DH01205,10/04/2025,,Hồ Chí Minh,Đồ uống,27000,3,Ví điện tử,4
+DH01206,10/04/2025,KH0471,CẦN THƠ,Thực phẩm,120000,3,Chuyển khoản,
+DH01207,10/04/2025,,Hồ Chí Minh,Thực phẩm,127000,5,Ví điện tử,
+DH01207,10/04/2025,,Hồ Chí Minh,Thực phẩm,127000,5,Ví điện tử,
+DH01208,10/04/2025,KH0467,Huế,Đồ uống,20000,4,Chuyển khoản,2
+DH01209,10/04/2025,,Hà Nội,Đồ uống,45000,6,Chuyển khoản,
+DH01210,11/04/2025,KH0327,Hồ Chí Minh,Đồ uống,21000,3,Ví điện tử,2
+DH01211,11/04/2025,KH0269,Hà Nội,Mỹ phẩm,196000,2,Ví điện tử,4
+DH01212,11/04/2025,KH0429,Huế,Đồ uống,42000,6,Tiền mặt,4
+DH01213,11/04/2025,KH0451,Hồ Chí Minh,Đồ uống,40000,9,Ví điện tử,3
+DH01214,11/04/2025,KH0293, hà nội  ,Thực phẩm,138000,4,Ví điện tử,
+DH01215,11/04/2025,KH0048,Huế,Gia dụng,190000,3,Ví điện tử,5
+DH01216,11/04/2025,KH0055,Hà Nội,Đồ uống,41000,6,Ví điện tử,5
+DH01217,11/04/2025,KH0350,Hồ Chí Minh,Thực phẩm,65000,6,Ví điện tử,5
+DH01218,11/04/2025,KH0179,Hồ Chí Minh,Gia dụng,258000,2,Chuyển khoản,3
+DH01219,12/04/2025,KH0007,cần thơ,Thực phẩm,124000,2,Tiền mặt,5
+DH01220,12/04/2025,KH0161,Cần Thơ,Gia dụng,335000,2,Ví điện tử,5
+DH01221,12/04/2025,KH0436,Hồ Chí Minh,Đồ uống,42000,8,Ví điện tử,
+DH01222,12/04/2025,KH0055,HỒ CHÍ MINH,Đồ uống,25000,5,Tiền mặt,4
+DH01223,12/04/2025,KH0170,HÀ NỘI,Mỹ phẩm,412000,2,Chuyển khoản,5
+DH01224,12/04/2025,KH0325,Hồ Chí Minh,Gia dụng,274000,4,Tiền mặt,5
+DH01225,12/04/2025,,Cần Thơ,Thực phẩm,128000,1,Ví điện tử,5
+DH01226,12/04/2025,KH0467,Hồ Chí Minh,Thực phẩm,55000,4,Ví điện tử,4
+DH01227,12/04/2025,,Huế,Đồ uống,38000,4,Tiền mặt,5
+DH01228,12/04/2025,KH0321,Huế,Mỹ phẩm,265000,2,Ví điện tử,
+DH01229,12/04/2025,KH0022,Hồ Chí Minh ,Gia dụng,223000,1,Ví điện tử,5
+DH01230,12/04/2025,KH0142,Hà Nội,Mỹ phẩm,433000,1,Tiền mặt,
+DH01231,13/04/2025,KH0479,Cần Thơ,Đồ uống,19000,6,Chuyển khoản,3
+DH01232,13/04/2025,,Đà Nẵng,Văn phòng phẩm,57000,4,Chuyển khoản,5
+DH01233,13/04/2025,KH0476,Hồ Chí Minh,Gia dụng,172000,1,Chuyển khoản,5
+DH01234,13/04/2025,KH0448,Cần Thơ,Văn phòng phẩm,51000,1,Tiền mặt,3
+DH01235,13/04/2025,KH0264,Hà Nội ,Văn phòng phẩm,9000,3,Ví điện tử,4
+DH01236,13/04/2025,KH0093,Hồ Chí Minh,Thực phẩm,100000,2,Ví điện tử,2
+DH01237,13/04/2025,KH0464, hồ chí minh  ,Gia dụng,479000,2,Ví điện tử,4
+DH01238,13/04/2025,,Huế,Đồ uống,27000,4,Ví điện tử,4
+DH01239,13/04/2025,KH0354,  Hà Nội,Gia dụng,375000,4,Chuyển khoản,3
+DH01240,13/04/2025,KH0496,Hồ Chí Minh,Mỹ phẩm,349000,5,Ví điện tử,4
+DH01241,13/04/2025,KH0415,Huế,Đồ uống,40000,7,Tiền mặt,5
+DH01242,13/04/2025,KH0352,Huế,Thực phẩm,46000,4,Ví điện tử,3
+DH01243,13/04/2025,KH0552,  Huế,Văn phòng phẩm,40000,1,Tiền mặt,4
+DH01244,13/04/2025,KH0171,Hà Nội ,Đồ uống,23000,4,Tiền mặt,4
+DH01245,13/04/2025,KH0081,Hồ Chí Minh,Gia dụng,188000,4,Chuyển khoản,4
+DH01246,13/04/2025,KH0471,Hồ Chí Minh,Đồ uống,35000,2,Chuyển khoản,4
+DH01247,13/04/2025,KH0114,Hồ Chí Minh,Văn phòng phẩm,30000,4,Ví điện tử,5
+DH01248,13/04/2025,KH0496,Hà Nội,Mỹ phẩm,194000,4,Tiền mặt,5
+DH01249,14/04/2025,KH0057,Hồ Chí Minh,Gia dụng,469000,1,Tiền mặt,4
+DH01250,14/04/2025,,Đà Nẵng,Văn phòng phẩm,34000,2,Ví điện tử,3
+DH01251,14/04/2025,KH0160,Hà Nội,Mỹ phẩm,188000,1,Ví điện tử,1
+DH01252,14/04/2025,KH0343,Đà Nẵng,Mỹ phẩm,348000,5,Chuyển khoản,4
+DH01253,14/04/2025,KH0254,Hà Nội,Mỹ phẩm,96000,2,Ví điện tử,4
+DH01254,14/04/2025,KH0461,Hà Nội,Văn phòng phẩm,51000,4,Ví điện tử,4
+DH01255,14/04/2025,KH0339,Hà Nội,Gia dụng,533000,3,Tiền mặt,1
+DH01256,14/04/2025,KH0255,Hà Nội,Mỹ phẩm,276000,3,Ví điện tử,
+DH01257,14/04/2025,KH0129,Hà Nội,Đồ uống,19000,2,Ví điện tử,5
+DH01258,14/04/2025,KH0096,Đà Nẵng,Thực phẩm,99000,3,Tiền mặt,1
+DH01259,14/04/2025,,Đà Nẵng,Đồ uống,15000,4,Tiền mặt,4
+DH01260,15/04/2025,KH0415,Hà Nội,Mỹ phẩm,425000,4,Ví điện tử,4
+DH01261,15/04/2025,KH0175,  Hồ Chí Minh,Gia dụng,481000,4,Tiền mặt,2
+DH01262,15/04/2025,KH0428,Hồ Chí Minh,Đồ uống,37000,7,Ví điện tử,4
+DH01263,15/04/2025,KH0115,Cần Thơ,Thực phẩm,115000,3,Tiền mặt,4
+DH01264,15/04/2025,KH0275,Hà Nội,Đồ uống,44000,3,Ví điện tử,4
+DH01265,15/04/2025,KH0281,Hà Nội,Văn phòng phẩm,31000,2,Chuyển khoản,
+DH01266,15/04/2025,KH0431,Hà Nội,Mỹ phẩm,112000,4,Tiền mặt,4
+DH01267,15/04/2025,KH0400,Hà Nội,Gia dụng,346000,2,Ví điện tử,5
+DH01268,15/04/2025,, hà nội  ,Đồ uống,32000,2,Chuyển khoản,5
+DH01269,15/04/2025,KH0159,Hồ Chí Minh,Đồ uống,18000,5,Tiền mặt,2
+DH01270,15/04/2025,KH0142,Hà Nội,Thực phẩm,104000,2,Ví điện tử,5
+DH01271,15/04/2025,KH0216, hà nội  ,Văn phòng phẩm,60000,2,Ví điện tử,
+DH01272,15/04/2025,,Hà Nội,Mỹ phẩm,171000,2,Chuyển khoản,
+DH01273,15/04/2025,KH0350,Huế,Gia dụng,501000,2,Ví điện tử,2
+DH01274,15/04/2025,KH0053,Hà Nội,Thực phẩm,147000,3,Ví điện tử,4
+DH01275,15/04/2025,KH0231,Đà Nẵng,Đồ uống,26000,2,Chuyển khoản,3
+DH01276,15/04/2025,KH0386,Đà Nẵng,Gia dụng,224000,1,Chuyển khoản,2
+DH01277,15/04/2025,KH0310,huế,Thực phẩm,111000,3,Tiền mặt,
+DH01278,15/04/2025,KH0139,Hồ Chí Minh,Mỹ phẩm,373000,3,Chuyển khoản,4
+DH01279,16/04/2025,KH0343,Cần Thơ,Thực phẩm,67000,4,Chuyển khoản,3
+DH01280,16/04/2025,KH0224,đà nẵng,Mỹ phẩm,224000,7,Tiền mặt,4
+DH01281,16/04/2025,KH0154,Huế,Thực phẩm,94000,4,Chuyển khoản,2
+DH01282,16/04/2025,KH0086,Cần Thơ,Văn phòng phẩm,53000,2,Tiền mặt,5
+DH01283,16/04/2025,KH0390,cần thơ,Đồ uống,21000,7,Tiền mặt,3
+DH01284,16/04/2025,KH0130,Hồ Chí Minh,Thực phẩm,90000,3,Chuyển khoản,5
+DH01285,16/04/2025,KH0342,Hà Nội,Mỹ phẩm,355000,1,Ví điện tử,4
+DH01286,16/04/2025,KH0460,Huế,Đồ uống,18000,2,Tiền mặt,3
+DH01287,16/04/2025,KH0399,Cần Thơ,Thực phẩm,90000,5,Ví điện tử,3
+DH01288,16/04/2025,KH0443,hà nội,Đồ uống,29000,5,Chuyển khoản,3
+DH01289,17/04/2025,KH0429, hồ chí minh  ,Mỹ phẩm,132000,2,Ví điện tử,4
+DH01289,17/04/2025,KH0429, hồ chí minh  ,Mỹ phẩm,132000,2,Ví điện tử,4
+DH01290,17/04/2025,KH0255,Hà Nội,Văn phòng phẩm,57000,4,Tiền mặt,5
+DH01291,17/04/2025,KH0140,Hà Nội,Văn phòng phẩm,11000,5,Chuyển khoản,5
+DH01292,17/04/2025,KH0026,Huế,Đồ uống,22000,8,Tiền mặt,
+DH01293,17/04/2025,KH0061,Hồ Chí Minh,Đồ uống,19000,6,Chuyển khoản,4
+DH01294,17/04/2025,KH0038,Cần Thơ,Thực phẩm,38000,4,Tiền mặt,
+DH01295,17/04/2025,KH0553,Đà Nẵng,Thực phẩm,80000,4,Chuyển khoản,3
+DH01296,17/04/2025,KH0012,Hồ Chí Minh,Mỹ phẩm,228000,5,Ví điện tử,3
+DH01297,18/04/2025,KH0256,Cần Thơ,Thực phẩm,32000,3,Chuyển khoản,
+DH01298,18/04/2025,KH0221,Huế,Thực phẩm,114000,2,Ví điện tử,3
+DH01299,18/04/2025,KH0413,Hà Nội,Đồ uống,40000,5,Tiền mặt,3
+DH01300,18/04/2025,KH0050,hà nội,Văn phòng phẩm,30000,4,Chuyển khoản,3
+DH01301,18/04/2025,KH0137,Hồ Chí Minh,Mỹ phẩm,250000,4,Ví điện tử,3
+DH01302,18/04/2025,KH0417,Huế ,Đồ uống,18000,5,Chuyển khoản,5
+DH01303,18/04/2025,KH0075,Hồ Chí Minh,Văn phòng phẩm,50000,2,Chuyển khoản,5
+DH01304,19/04/2025,KH0429,Hà Nội,Gia dụng,261000,1,Ví điện tử,
+DH01305,19/04/2025,KH0260,Hồ Chí Minh,Mỹ phẩm,156000,6,Chuyển khoản,
+DH01306,19/04/2025,KH0037,huế,Đồ uống,36000,4,Ví điện tử,3
+DH01307,19/04/2025,KH0135,Hồ Chí Minh,Đồ uống,31000,4,Chuyển khoản,3
+DH01308,19/04/2025,KH0413,Hồ Chí Minh,Thực phẩm,113000,3,Chuyển khoản,5
+DH01309,19/04/2025,KH0258,  Cần Thơ,Thực phẩm,31000,3,Chuyển khoản,4
+DH01310,19/04/2025,KH0247,HỒ CHÍ MINH,Thực phẩm,24000,2,Ví điện tử,5
+DH01311,19/04/2025,KH0376,Hồ Chí Minh,Mỹ phẩm,140000,3,Ví điện tử,5
+DH01312,19/04/2025,KH0427,Hồ Chí Minh,Gia dụng,311000,3,Ví điện tử,
+DH01313,19/04/2025,KH0430,Đà Nẵng,Gia dụng,327000,2,Ví điện tử,
+DH01314,19/04/2025,,Đà Nẵng,Thực phẩm,34000,4,Chuyển khoản,4
+DH01315,19/04/2025,KH0315,Hà Nội,Thực phẩm,65000,4,Ví điện tử,
+DH01316,19/04/2025,KH0488,Đà Nẵng,Thực phẩm,93000,2,Tiền mặt,4
+DH01317,19/04/2025,KH0444,Hồ Chí Minh,Văn phòng phẩm,24000,2,Ví điện tử,5
+DH01318,19/04/2025,KH0317,Huế,Gia dụng,600000,4,Tiền mặt,2
+DH01319,19/04/2025,KH0204,Đà Nẵng,Gia dụng,179000,5,Ví điện tử,3
+DH01320,19/04/2025,KH0106,Hà Nội,Đồ uống,40000,6,Ví điện tử,3
+DH01320,19/04/2025,KH0106,Hà Nội,Đồ uống,40000,6,Ví điện tử,3
+DH01321,19/04/2025,KH0086,Hà Nội,Thực phẩm,32000,1,Tiền mặt,4
+DH01322,19/04/2025,KH0250,Huế,Thực phẩm,96000,3,Chuyển khoản,3
+DH01323,19/04/2025,KH0348,Hồ Chí Minh ,Đồ uống,25000,6,Ví điện tử,4
+DH01324,19/04/2025,KH0499,Hồ Chí Minh,Mỹ phẩm,299000,2,Ví điện tử,
+DH01325,19/04/2025,KH0241,hà nội,Thực phẩm,33000,1,Chuyển khoản,
+DH01326,19/04/2025,KH0111,Hà Nội,Thực phẩm,72000,1,Tiền mặt,4
+DH01327,19/04/2025,KH0181,  Hà Nội,Thực phẩm,103000,1,Chuyển khoản,4
+DH01328,19/04/2025,KH0025,Đà Nẵng,Gia dụng,491000,4,Chuyển khoản,4
+DH01329,19/04/2025,,Đà Nẵng,Đồ uống,33000,6,Chuyển khoản,5
+DH01330,19/04/2025,KH0061,Hà Nội,Đồ uống,20000,6,Tiền mặt,4
+DH01331,19/04/2025,KH0305,Đà Nẵng,Đồ uống,33000,5,Chuyển khoản,
+DH01332,19/04/2025,KH0163,Hồ Chí Minh,Đồ uống,44000,5,Chuyển khoản,4
+DH01333,19/04/2025,KH0023,  Hà Nội,Văn phòng phẩm,15000,1,Ví điện tử,2
+DH01334,20/04/2025,,Đà Nẵng,Văn phòng phẩm,60000,6,Tiền mặt,2
+DH01335,20/04/2025,KH0094,Đà Nẵng,Thực phẩm,41000,5,Chuyển khoản,1
+DH01336,20/04/2025,KH0015,HÀ NỘI,Văn phòng phẩm,56000,4,Ví điện tử,3
+DH01337,20/04/2025,KH0050,Hà Nội,Đồ uống,34000,8,Chuyển khoản,5
+DH01338,20/04/2025,KH0451,Hà Nội,Đồ uống,13000,4,Chuyển khoản,
+DH01339,20/04/2025,KH0037,Hà Nội,Mỹ phẩm,286000,3,Ví điện tử,4
+DH01340,20/04/2025,KH0164,Hà Nội,Văn phòng phẩm,13000,6,Ví điện tử,
+DH01341,20/04/2025,KH0168,Cần Thơ,Thực phẩm,59000,5,Ví điện tử,4
+DH01342,20/04/2025,KH0405,hồ chí minh,Mỹ phẩm,442000,1,Ví điện tử,4
+DH01343,20/04/2025,KH0462,HÀ NỘI,Văn phòng phẩm,36000,3,Tiền mặt,4
+DH01344,20/04/2025,KH0244,Hà Nội,Đồ uống,23000,3,Chuyển khoản,4
+DH01345,20/04/2025,KH0048,  Hà Nội,Gia dụng,428000,2,Ví điện tử,5
+DH01346,20/04/2025,KH0332,Hồ Chí Minh,Đồ uống,23000,4,Ví điện tử,3
+DH01347,20/04/2025,KH0283,Hà Nội,Đồ uống,14000,4,Chuyển khoản,4
+DH01348,20/04/2025,KH0223,Hà Nội,Đồ uống,16000,2,Chuyển khoản,3
+DH01349,20/04/2025,KH0538,Hồ Chí Minh,Đồ uống,14000,1,Ví điện tử,4
+DH01350,21/04/2025,KH0425,Huế,Đồ uống,15000,5,Ví điện tử,3
+DH01351,21/04/2025,KH0206,Hà Nội,Thực phẩm,56000,2,Ví điện tử,3
+DH01352,21/04/2025,KH0178,Đà Nẵng,Gia dụng,580000,1,Chuyển khoản,5
+DH01353,21/04/2025,KH0118, đà nẵng  ,Đồ uống,21000,2,Tiền mặt,5
+DH01354,21/04/2025,KH0034,Hồ Chí Minh,Gia dụng,190000,3,Chuyển khoản,4
+DH01355,21/04/2025,KH0062,Huế ,Văn phòng phẩm,10000,5,Tiền mặt,4
+DH01356,21/04/2025,KH0427,Hà Nội,Mỹ phẩm,180000,2,Ví điện tử,
+DH01357,22/04/2025,KH0091,  Cần Thơ,Thực phẩm,43000,4,Tiền mặt,4
+DH01358,22/04/2025,KH0394,Hà Nội,Đồ uống,38000,7,Ví điện tử,4
+DH01359,22/04/2025,,Hồ Chí Minh,Đồ uống,34000,3,Tiền mặt,4
+DH01360,22/04/2025,KH0094,Hà Nội,Văn phòng phẩm,27000,3,Chuyển khoản,4
+DH01361,22/04/2025,KH0395, đà nẵng  ,Đồ uống,13000,,Tiền mặt,3
+DH01362,22/04/2025,KH0327,Cần Thơ,Mỹ phẩm,418000,2,Chuyển khoản,
+DH01363,22/04/2025,KH0347, hồ chí minh  ,Đồ uống,36000,4,Ví điện tử,3
+DH01364,22/04/2025,KH0093,Hồ Chí Minh,Thực phẩm,118000,7,Chuyển khoản,5
+DH01365,22/04/2025,,HỒ CHÍ MINH,Mỹ phẩm,352000,1,Ví điện tử,4
+DH01366,23/04/2025,KH0357,Hồ Chí Minh,Đồ uống,14000,4,Tiền mặt,5
+DH01367,23/04/2025,KH0038,Hà Nội,Mỹ phẩm,155000,2,Tiền mặt,2
+DH01368,23/04/2025,KH0423,Hồ Chí Minh,Đồ uống,31000,6,Ví điện tử,
+DH01369,23/04/2025,,Hồ Chí Minh,Đồ uống,25000,4,Ví điện tử,
+DH01370,23/04/2025,KH0328,HÀ NỘI,Đồ uống,44000,7,Ví điện tử,
+DH01371,23/04/2025,KH0489,hồ chí minh,Gia dụng,118000,150,Ví điện tử,3
+DH01372,23/04/2025,KH0442,Huế,Đồ uống,15000,1,Tiền mặt,2
+DH01373,23/04/2025,KH0463,Hà Nội,Thực phẩm,124000,1,Ví điện tử,4
+DH01374,23/04/2025,KH0201,Cần Thơ,Mỹ phẩm,318000,4,Chuyển khoản,
+DH01375,23/04/2025,KH0271,đà nẵng,Văn phòng phẩm,34000,2,Ví điện tử,
+DH01376,23/04/2025,KH0340, đà nẵng  ,Văn phòng phẩm,45000,5,Tiền mặt,4
+DH01377,23/04/2025,KH0493,Đà Nẵng,Đồ uống,44000,2,Tiền mặt,4
+DH01378,23/04/2025,KH0170,Hồ Chí Minh,Gia dụng,429000,1,Chuyển khoản,4
+DH01379,24/04/2025,KH0141,Đà Nẵng,Gia dụng,513000,1,Chuyển khoản,4
+DH01380,24/04/2025,KH0175,Cần Thơ,Thực phẩm,122000,4,Ví điện tử,1
+DH01381,24/04/2025,KH0352,Hà Nội,Gia dụng,486000,1,Ví điện tử,3
+DH01382,24/04/2025,KH0453,Huế,Văn phòng phẩm,27000,3,Chuyển khoản,4
+DH01383,24/04/2025,KH0210,Hà Nội,Thực phẩm,57000,4,Chuyển khoản,1
+DH01384,24/04/2025,KH0157,Hà Nội,Đồ uống,16000,9,Ví điện tử,3
+DH01385,24/04/2025,KH0110, hà nội  ,Thực phẩm,68000,3,Ví điện tử,
+DH01386,24/04/2025,KH0268,Cần Thơ,Đồ uống,24000,5,Ví điện tử,3
+DH01387,24/04/2025,KH0225,Hồ Chí Minh,Văn phòng phẩm,40000,8,Ví điện tử,
+DH01388,24/04/2025,KH0165,Hồ Chí Minh,Mỹ phẩm,359000,3,Chuyển khoản,4
+DH01389,24/04/2025,KH0235, huế  ,Thực phẩm,72000,6,Tiền mặt,4
+DH01390,24/04/2025,KH0499,Hà Nội,Thực phẩm,35000,3,Ví điện tử,3
+DH01391,24/04/2025,KH0372,Hồ Chí Minh,Đồ uống,19000,3,Chuyển khoản,4
+DH01392,25/04/2025,KH0187,Đà Nẵng,Mỹ phẩm,312000,4,Ví điện tử,
+DH01393,25/04/2025,KH0420,Hồ Chí Minh,Mỹ phẩm,263000,2,Ví điện tử,3
+DH01394,25/04/2025,KH0107,Cần Thơ,Đồ uống,12000,4,Ví điện tử,
+DH01395,25/04/2025,KH0038,Hồ Chí Minh,Mỹ phẩm,339000,4,Ví điện tử,5
+DH01396,25/04/2025,KH0232,Hồ Chí Minh,Văn phòng phẩm,30000,4,Ví điện tử,5
+DH01397,26/04/2025,KH0485,Hồ Chí Minh,Gia dụng,374000,5,Chuyển khoản,3
+DH01398,26/04/2025,KH0127,Hà Nội,Mỹ phẩm,117000,4,Chuyển khoản,3
+DH01399,26/04/2025,KH0335,Hà Nội,Thực phẩm,96000,4,Chuyển khoản,2
+DH01400,26/04/2025,KH0402,Cần Thơ,Đồ uống,14000,3,Tiền mặt,4
+DH01401,26/04/2025,KH0380,Đà Nẵng,Thực phẩm,83000,3,Chuyển khoản,4
+DH01402,26/04/2025,KH0297,Đà Nẵng,Văn phòng phẩm,38000,9,Tiền mặt,5
+DH01403,26/04/2025,KH0167,Hà Nội,Văn phòng phẩm,44000,3,Ví điện tử,
+DH01404,26/04/2025,KH0176,ĐÀ NẴNG,Đồ uống,40000,4,Tiền mặt,
+DH01405,26/04/2025,,Đà Nẵng,Đồ uống,19000,3,Tiền mặt,4
+DH01406,26/04/2025,KH0472,Hà Nội,Thực phẩm,103000,3,Ví điện tử,
+DH01407,26/04/2025,KH0025,Hồ Chí Minh,Mỹ phẩm,383000,3,Ví điện tử,
+DH01408,26/04/2025,KH0023,Cần Thơ,Gia dụng,590000,3,Tiền mặt,5
+DH01409,26/04/2025,KH0174,Hồ Chí Minh,Mỹ phẩm,215000,1,Tiền mặt,4
+DH01410,26/04/2025,KH0496,Hồ Chí Minh,Văn phòng phẩm,28000,2,Tiền mặt,4
+DH01411,26/04/2025,KH0456,  Hà Nội,Thực phẩm,54000,2,Ví điện tử,5
+DH01412,26/04/2025,KH0288,Hà Nội ,Đồ uống,13000,8,Tiền mặt,2
+DH01413,26/04/2025,KH0017,Hồ Chí Minh,Đồ uống,13000,2,Tiền mặt,4
+DH01414,26/04/2025,KH0166,Hồ Chí Minh,Văn phòng phẩm,36000,3,Tiền mặt,4
+DH01415,26/04/2025,KH0461,Cần Thơ,Thực phẩm,69000,3,Tiền mặt,4
+DH01416,27/04/2025,KH0348,Huế,Văn phòng phẩm,13000,2,Chuyển khoản,4
+DH01417,27/04/2025,KH0160,Cần Thơ,Thực phẩm,57000,2,Chuyển khoản,4
+DH01418,27/04/2025,KH0140,Hà Nội,Văn phòng phẩm,40000,1,Tiền mặt,
+DH01419,27/04/2025,KH0221,Hồ Chí Minh,Văn phòng phẩm,54000,4,Chuyển khoản,4
+DH01420,27/04/2025,KH0386,Huế,Thực phẩm,30000,2,Ví điện tử,4
+DH01421,27/04/2025,KH0368,Hồ Chí Minh,Văn phòng phẩm,31000,8,Ví điện tử,3
+DH01422,27/04/2025,KH0059,Cần Thơ,Đồ uống,37000,3,Chuyển khoản,
+DH01423,27/04/2025,KH0432,Hà Nội,Đồ uống,20000,3,Tiền mặt,
+DH01424,27/04/2025,KH0482,Đà Nẵng,Thực phẩm,149000,4,Ví điện tử,
+DH01425,27/04/2025,KH0484,Đà Nẵng,Gia dụng,334000,1,Tiền mặt,3
+DH01425,27/04/2025,KH0484,Đà Nẵng,Gia dụng,334000,1,Tiền mặt,3
+DH01426,27/04/2025,KH0227,Hồ Chí Minh,Thực phẩm,95000,4,Ví điện tử,4
+DH01427,27/04/2025,KH0284,Hồ Chí Minh,Gia dụng,466000,3,Chuyển khoản,5
+DH01428,27/04/2025,KH0023,Hồ Chí Minh,Gia dụng,383000,1,Ví điện tử,5
+DH01429,28/04/2025,KH0340,huế,Thực phẩm,45000,6,Tiền mặt,5
+DH01430,28/04/2025,KH0124,Hồ Chí Minh,Đồ uống,44000,6,Tiền mặt,5
+DH01431,28/04/2025,KH0223,Cần Thơ,Thực phẩm,130000,2,Chuyển khoản,
+DH01432,28/04/2025,KH0279,Hồ Chí Minh,Văn phòng phẩm,13000,1,Ví điện tử,5
+DH01433,28/04/2025,KH0260,Hồ Chí Minh,Mỹ phẩm,193000,2,Ví điện tử,
+DH01434,28/04/2025,KH0142,Cần Thơ,Thực phẩm,150000,4,Tiền mặt,
+DH01435,28/04/2025,KH0218,Hà Nội ,Văn phòng phẩm,24000,5,Ví điện tử,1
+DH01436,28/04/2025,KH0068,Hồ Chí Minh,Văn phòng phẩm,19000,3,Tiền mặt,4
+DH01437,28/04/2025,KH0021,Huế,Thực phẩm,34000,2,Tiền mặt,3
+DH01438,28/04/2025,KH0367,Hồ Chí Minh,Thực phẩm,31000,4,Tiền mặt,3
+DH01439,28/04/2025,KH0063,Hồ Chí Minh,Mỹ phẩm,223000,1,Ví điện tử,4
+DH01440,28/04/2025,KH0032,Hồ Chí Minh,Đồ uống,39000,2,Ví điện tử,2
+DH01441,28/04/2025,KH0407,Hà Nội,Thực phẩm,76000,3,Ví điện tử,3
+DH01442,28/04/2025,KH0458,Hồ Chí Minh,Thực phẩm,80000,3,Chuyển khoản,4
+DH01443,29/04/2025,KH0313,Hồ Chí Minh,Gia dụng,554000,2,Chuyển khoản,4
+DH01444,29/04/2025,KH0353,Cần Thơ,Thực phẩm,107000,5,Ví điện tử,3
+DH01445,29/04/2025,KH0346,Hồ Chí Minh,Mỹ phẩm,390000,3,Chuyển khoản,4
+DH01446,29/04/2025,KH0527,Huế,Đồ uống,15000,2,Tiền mặt,5
+DH01447,29/04/2025,KH0043,Cần Thơ,Đồ uống,31000,4,Tiền mặt,5
+DH01448,29/04/2025,KH0168,ĐÀ NẴNG,Đồ uống,38000,4,Chuyển khoản,4
+DH01449,29/04/2025,KH0149,Hà Nội,Gia dụng,466000,5,Tiền mặt,4
+DH01450,29/04/2025,KH0356,Cần Thơ,Đồ uống,40000,7,Tiền mặt,
+DH01451,29/04/2025,KH0390,Đà Nẵng,Văn phòng phẩm,12000,3,Chuyển khoản,5
+DH01452,29/04/2025,KH0201,Hà Nội,Văn phòng phẩm,58000,3,Ví điện tử,
+DH01453,29/04/2025,KH0358,Hồ Chí Minh,Đồ uống,19000,5,Ví điện tử,
+DH01454,29/04/2025,KH0452,Cần Thơ,Thực phẩm,68000,2,Chuyển khoản,
+DH01455,30/04/2025,KH0421,HỒ CHÍ MINH,Đồ uống,18000,2,Ví điện tử,3
+DH01456,30/04/2025,KH0477,Hồ Chí Minh,Thực phẩm,94000,3,Tiền mặt,5
+DH01457,30/04/2025,KH0172,Cần Thơ,Đồ uống,12000,4,Ví điện tử,2
+DH01458,30/04/2025,KH0200,Hà Nội,Văn phòng phẩm,5000,5,Chuyển khoản,5
+DH01459,30/04/2025,KH0062,Cần Thơ,Thực phẩm,122000,1,Tiền mặt,4
+DH01460,30/04/2025,KH0346,Đà Nẵng,Gia dụng,489000,,Tiền mặt,3
+DH01461,30/04/2025,KH0029,Hồ Chí Minh,Mỹ phẩm,214000,5,Chuyển khoản,5
+DH01462,30/04/2025,KH0174,Hà Nội,Văn phòng phẩm,32000,4,Ví điện tử,
+DH01463,01/05/2025,KH0302,Hồ Chí Minh,Đồ uống,28000,4,Chuyển khoản,4
+DH01464,01/05/2025,KH0072,Đà Nẵng,Đồ uống,20000,3,Tiền mặt,4
+DH01465,01/05/2025,KH0463,Huế,Đồ uống,14000,6,Ví điện tử,
+DH01466,01/05/2025,KH0237,Cần Thơ,Văn phòng phẩm,57000,1,Ví điện tử,
+DH01467,01/05/2025,KH0003,hồ chí minh,Văn phòng phẩm,7000,4,Chuyển khoản,4
+DH01468,01/05/2025,KH0433,Hồ Chí Minh ,Đồ uống,21000,5,Tiền mặt,1
+DH01469,01/05/2025,KH0355,Hồ Chí Minh,Đồ uống,25000,5,Tiền mặt,4
+DH01470,01/05/2025,KH0481,Hà Nội,Thực phẩm,38000,6,Ví điện tử,4
+DH01471,01/05/2025,KH0344,Cần Thơ,Đồ uống,28000,5,Ví điện tử,3
+DH01472,01/05/2025,KH0434,Đà Nẵng,Thực phẩm,50000,2,Tiền mặt,4
+DH01473,01/05/2025,KH0326,Huế,Mỹ phẩm,296000,3,Ví điện tử,4
+DH01474,01/05/2025,KH0001,Hà Nội,Đồ uống,34000,4,Chuyển khoản,5
+DH01475,02/05/2025,KH0091,Hồ Chí Minh,Thực phẩm,20000,,Ví điện tử,
+DH01476,02/05/2025,KH0100,Hồ Chí Minh,Mỹ phẩm,202000,3,Tiền mặt,4
+DH01477,02/05/2025,KH0496,Cần Thơ ,Đồ uống,14000,4,Tiền mặt,4
+DH01478,02/05/2025,KH0450,Đà Nẵng,Thực phẩm,50000,3,Ví điện tử,5
+DH01479,02/05/2025,KH0380,Huế,Thực phẩm,84000,3,Tiền mặt,1
+DH01480,02/05/2025,KH0442,Đà Nẵng,Văn phòng phẩm,45000,2,Tiền mặt,
+DH01481,02/05/2025,KH0317,Huế,Văn phòng phẩm,53000,3,Chuyển khoản,
+DH01482,02/05/2025,KH0222,  Hà Nội,Mỹ phẩm,399000,2,Ví điện tử,4
+DH01483,02/05/2025,KH0195,Hồ Chí Minh,Văn phòng phẩm,21000,6,Tiền mặt,
+DH01484,02/05/2025,KH0391,Hà Nội,Văn phòng phẩm,40000,2,Chuyển khoản,2
+DH01485,02/05/2025,KH0088,Hà Nội,Gia dụng,237000,3,Tiền mặt,3
+DH01486,03/05/2025,KH0468,Hồ Chí Minh,Văn phòng phẩm,57000,4,Ví điện tử,4
+DH01487,03/05/2025,KH0103,hồ chí minh,Thực phẩm,93000,3,Ví điện tử,3
+DH01488,03/05/2025,KH0245, đà nẵng  ,Thực phẩm,24000,1,Chuyển khoản,3
+DH01489,03/05/2025,KH0073,Hồ Chí Minh ,Thực phẩm,125000,6,Tiền mặt,4
+DH01490,03/05/2025,KH0465,Đà Nẵng ,Mỹ phẩm,321000,2,Chuyển khoản,1
+DH01490,03/05/2025,KH0465,Đà Nẵng ,Mỹ phẩm,321000,2,Chuyển khoản,1
+DH01491,03/05/2025,KH0210,Hồ Chí Minh,Thực phẩm,47000,4,Tiền mặt,4
+DH01492,03/05/2025,KH0220,Cần Thơ,Đồ uống,31000,5,Chuyển khoản,4
+DH01493,03/05/2025,KH0017,Hà Nội,Gia dụng,342000,999,Tiền mặt,5
+DH01494,03/05/2025,KH0184,Hồ Chí Minh,Thực phẩm,31000,2,Ví điện tử,5
+DH01495,03/05/2025,KH0155,Hà Nội,Thực phẩm,144000,3,Chuyển khoản,
+DH01496,03/05/2025,KH0092,Cần Thơ,Đồ uống,37000,2,Ví điện tử,
+DH01497,03/05/2025,KH0478,Đà Nẵng,Mỹ phẩm,94000,3,Tiền mặt,5
+DH01498,04/05/2025,KH0495,Đà Nẵng,Đồ uống,24000,2,Chuyển khoản,4
+DH01499,04/05/2025,KH0207,Huế,Đồ uống,36000,4,Chuyển khoản,3
+DH01500,04/05/2025,KH0117,Cần Thơ,Thực phẩm,22000,5,Ví điện tử,4
+DH01501,04/05/2025,KH0126,Đà Nẵng,Thực phẩm,134000,,Tiền mặt,4
+DH01502,04/05/2025,,Hồ Chí Minh,Văn phòng phẩm,44000,,Ví điện tử,4
+DH01503,04/05/2025,,Hồ Chí Minh,Mỹ phẩm,416000,3,Chuyển khoản,1
+DH01504,04/05/2025,KH0109,Hà Nội,Thực phẩm,90000,,Chuyển khoản,4
+DH01505,04/05/2025,KH0272,Cần Thơ,Đồ uống,24000,11,Tiền mặt,5
+DH01506,04/05/2025,KH0169,Hà Nội,Đồ uống,45000,3,Tiền mặt,
+DH01507,04/05/2025,KH0437,Đà Nẵng,Đồ uống,27000,3,Ví điện tử,5
+DH01508,04/05/2025,KH0283,Hồ Chí Minh,Mỹ phẩm,306000,1,Ví điện tử,4
+DH01509,04/05/2025,KH0298,Huế,Mỹ phẩm,234000,2,Tiền mặt,3
+DH01510,04/05/2025,KH0396,Đà Nẵng,Mỹ phẩm,400000,2,Tiền mặt,
+DH01511,04/05/2025,KH0550,Đà Nẵng,Thực phẩm,147000,3,Ví điện tử,4
+DH01512,04/05/2025,KH0418,Hồ Chí Minh,Gia dụng,252000,1,Ví điện tử,3
+DH01513,04/05/2025,KH0063,Hà Nội,Văn phòng phẩm,48000,4,Chuyển khoản,5
+DH01514,04/05/2025,KH0053, hồ chí minh  ,Thực phẩm,132000,2,Tiền mặt,3
+DH01515,04/05/2025,,Hồ Chí Minh,Đồ uống,31000,1,Chuyển khoản,4
+DH01516,04/05/2025,KH0380,HỒ CHÍ MINH,Gia dụng,303000,2,Chuyển khoản,5
+DH01517,04/05/2025,KH0008,Đà Nẵng,Văn phòng phẩm,31000,4,Tiền mặt,
+DH01518,04/05/2025,KH0229,Huế,Thực phẩm,85000,4,Ví điện tử,1
+DH01519,05/05/2025,KH0215,Hồ Chí Minh,Đồ uống,27000,6,Chuyển khoản,2
+DH01520,05/05/2025,KH0361,Hồ Chí Minh,Đồ uống,40000,6,Ví điện tử,3
+DH01521,05/05/2025,KH0390,Đà Nẵng,Thực phẩm,108000,4,Chuyển khoản,1
+DH01522,05/05/2025,KH0406,Hà Nội,Mỹ phẩm,429000,2,Tiền mặt,5
+DH01523,05/05/2025,KH0296,Hồ Chí Minh,Văn phòng phẩm,7000,,Ví điện tử,
+DH01524,05/05/2025,KH0226,Hà Nội,Mỹ phẩm,103000,3,Ví điện tử,3
+DH01525,05/05/2025,KH0394,Hà Nội,Đồ uống,44000,4,Ví điện tử,3
+DH01526,05/05/2025,KH0488,HỒ CHÍ MINH,Văn phòng phẩm,16000,3,Ví điện tử,
+DH01527,05/05/2025,KH0358,Hà Nội,Thực phẩm,140000,5,Ví điện tử,3
+DH01528,05/05/2025,KH0066,HUẾ,Mỹ phẩm,252000,1,Chuyển khoản,4
+DH01529,06/05/2025,KH0452,Hà Nội,Đồ uống,21000,3,Tiền mặt,5
+DH01530,06/05/2025,KH0154,Cần Thơ ,Thực phẩm,25000,5,Ví điện tử,
+DH01531,06/05/2025,KH0370,Hồ Chí Minh,Thực phẩm,130000,5,Tiền mặt,
+DH01532,06/05/2025,KH0213,Hồ Chí Minh,Mỹ phẩm,311000,1,Chuyển khoản,4
+DH01533,06/05/2025,KH0179,Hồ Chí Minh,Văn phòng phẩm,34000,7,Ví điện tử,5
+DH01534,06/05/2025,,Hồ Chí Minh,Mỹ phẩm,110000,1,Chuyển khoản,4
+DH01535,06/05/2025,KH0383,Hồ Chí Minh,Gia dụng,386000,1,Ví điện tử,4
+DH01536,06/05/2025,KH0063,Hà Nội,Văn phòng phẩm,18000,5,Chuyển khoản,3
+DH01537,06/05/2025,KH0205,Đà Nẵng,Gia dụng,197000,2,Chuyển khoản,3
+DH01538,06/05/2025,KH0148,Hà Nội,Thực phẩm,96000,5,Ví điện tử,2
+DH01539,06/05/2025,KH0310,Đà Nẵng,Mỹ phẩm,379000,3,Tiền mặt,
+DH01540,06/05/2025,KH0309,Hà Nội,Mỹ phẩm,142000,6,Tiền mặt,4
+DH01541,06/05/2025,KH0417,Hồ Chí Minh,Gia dụng,206000,120,Ví điện tử,
+DH01542,06/05/2025,KH0352,Hà Nội ,Mỹ phẩm,265000,2,Chuyển khoản,2
+DH01543,06/05/2025,KH0387,Cần Thơ,Thực phẩm,125000,1,Tiền mặt,
+DH01544,07/05/2025,KH0009,Cần Thơ,Văn phòng phẩm,53000,6,Chuyển khoản,3
+DH01545,07/05/2025,KH0463,HÀ NỘI,Văn phòng phẩm,49000,5,Chuyển khoản,
+DH01546,07/05/2025,KH0045,Hồ Chí Minh,Mỹ phẩm,444000,2,Ví điện tử,4
+DH01547,07/05/2025,KH0266,Hồ Chí Minh,Mỹ phẩm,217000,6,Chuyển khoản,3
+DH01548,07/05/2025,KH0273,HÀ NỘI,Thực phẩm,69000,3,Chuyển khoản,4
+DH01549,07/05/2025,KH0355,Hà Nội,Mỹ phẩm,355000,9,Chuyển khoản,
+DH01550,07/05/2025,,Đà Nẵng,Gia dụng,354000,3,Tiền mặt,5
+DH01551,07/05/2025,KH0106,Hồ Chí Minh,Thực phẩm,28000,2,Ví điện tử,5
+DH01552,07/05/2025,KH0192,Hà Nội,Mỹ phẩm,209000,,Ví điện tử,2
+DH01553,07/05/2025,KH0025,Hà Nội,Mỹ phẩm,242000,5,Chuyển khoản,
+DH01554,07/05/2025,KH0421,hà nội,Thực phẩm,135000,1,Ví điện tử,4
+DH01555,08/05/2025,KH0172,Cần Thơ,Đồ uống,43000,6,Tiền mặt,4
+DH01556,08/05/2025,KH0268,Đà Nẵng,Thực phẩm,83000,7,Ví điện tử,4
+DH01557,08/05/2025,KH0134,Đà Nẵng,Đồ uống,38000,3,Tiền mặt,
+DH01558,08/05/2025,KH0399,HUẾ,Thực phẩm,122000,2,Tiền mặt,
+DH01559,08/05/2025,KH0052,Hồ Chí Minh,Đồ uống,39000,5,Chuyển khoản,5
+DH01560,08/05/2025,KH0493,Hà Nội,Đồ uống,13000,6,Chuyển khoản,
+DH01561,08/05/2025,KH0464,Đà Nẵng,Đồ uống,13000,4,Ví điện tử,
+DH01562,09/05/2025,KH0270,Cần Thơ,Thực phẩm,63000,2,Tiền mặt,2
+DH01563,09/05/2025,KH0476,Cần Thơ,Thực phẩm,28000,3,Tiền mặt,
+DH01564,09/05/2025,,Đà Nẵng,Thực phẩm,54000,3,Tiền mặt,3
+DH01565,09/05/2025,KH0512,Hà Nội,Đồ uống,41000,1,Chuyển khoản,5
+DH01566,09/05/2025,KH0267,cần thơ,Đồ uống,18000,7,Ví điện tử,4
+DH01567,09/05/2025,KH0210,Hồ Chí Minh,Mỹ phẩm,152000,2,Chuyển khoản,
+DH01568,09/05/2025,KH0048,cần thơ,Thực phẩm,69000,4,Ví điện tử,3
+DH01569,09/05/2025,KH0067,Hà Nội,Gia dụng,85000,4,Chuyển khoản,3
+DH01570,09/05/2025,KH0054,Hồ Chí Minh,Gia dụng,335000,2,Chuyển khoản,
+DH01571,09/05/2025,KH0495,Hồ Chí Minh,Đồ uống,15000,7,Tiền mặt,3
+DH01571,09/05/2025,KH0495,Hồ Chí Minh,Đồ uống,15000,7,Tiền mặt,3
+DH01572,09/05/2025,KH0125,Huế,Đồ uống,32000,4,Ví điện tử,
+DH01573,09/05/2025,KH0318,Hồ Chí Minh,Gia dụng,235000,1,Ví điện tử,
+DH01574,10/05/2025,KH0499,Hồ Chí Minh,Đồ uống,25000,5,Tiền mặt,5
+DH01575,10/05/2025,KH0257,Hà Nội,Đồ uống,15000,4,Ví điện tử,3
+DH01576,10/05/2025,KH0142,hà nội,Thực phẩm,121000,5,Chuyển khoản,
+DH01577,10/05/2025,KH0489,Huế,Thực phẩm,53000,7,Chuyển khoản,4
+DH01578,10/05/2025,KH0225,Đà Nẵng,Thực phẩm,60000,5,Chuyển khoản,5
+DH01579,10/05/2025,KH0030,Huế,Thực phẩm,106000,2,Tiền mặt,5
+DH01580,10/05/2025,KH0378,Hồ Chí Minh,Đồ uống,39000,5,Tiền mặt,2
+DH01581,10/05/2025,KH0137,Đà Nẵng,Thực phẩm,118000,5,Tiền mặt,4
+DH01582,10/05/2025,,Hà Nội,Văn phòng phẩm,11000,2,Chuyển khoản,5
+DH01583,10/05/2025,KH0004, hà nội  ,Đồ uống,29000,2,Ví điện tử,4
+DH01584,10/05/2025,KH0236,Hà Nội,Đồ uống,29000,7,Ví điện tử,
+DH01585,10/05/2025,KH0413,Hà Nội,Mỹ phẩm,431000,2,Tiền mặt,2
+DH01586,10/05/2025,KH0320,Hồ Chí Minh,Đồ uống,26000,4,Ví điện tử,3
+DH01587,10/05/2025,KH0511,Hà Nội,Thực phẩm,99000,2,Ví điện tử,
+DH01588,10/05/2025,KH0163,Hồ Chí Minh,Mỹ phẩm,407000,2,Chuyển khoản,4
+DH01589,10/05/2025,KH0423,Đà Nẵng,Mỹ phẩm,123000,4,Tiền mặt,4
+DH01590,10/05/2025,KH0299,  Hồ Chí Minh,Văn phòng phẩm,52000,3,Ví điện tử,5
+DH01591,10/05/2025,KH0113,  Hồ Chí Minh,Thực phẩm,119000,3,Chuyển khoản,4
+DH01592,11/05/2025,KH0402,Hà Nội,Mỹ phẩm,131000,3,Ví điện tử,2
+DH01593,11/05/2025,KH0301,Hà Nội,Thực phẩm,91000,3,Ví điện tử,
+DH01594,11/05/2025,KH0049,Hà Nội,Thực phẩm,145000,3,Ví điện tử,4
+DH01595,11/05/2025,KH0312,Hà Nội,Mỹ phẩm,413000,,Tiền mặt,
+DH01596,11/05/2025,KH0038,Hồ Chí Minh,Thực phẩm,119000,3,Ví điện tử,3
+DH01597,11/05/2025,KH0442,Huế,Thực phẩm,142000,3,Chuyển khoản,
+DH01598,11/05/2025,KH0275,Hà Nội,Thực phẩm,53000,2,Tiền mặt,5
+DH01599,11/05/2025,KH0206,Huế,Thực phẩm,48000,3,Chuyển khoản,3
+DH01600,11/05/2025,KH0396,Hồ Chí Minh,Văn phòng phẩm,56000,1,Ví điện tử,
+DH01601,11/05/2025,KH0255,  Hồ Chí Minh,Mỹ phẩm,426000,3,Chuyển khoản,4
+DH01602,11/05/2025,KH0020,Hà Nội,Đồ uống,27000,3,Ví điện tử,
+DH01603,12/05/2025,KH0347,Huế,Thực phẩm,55000,3,Chuyển khoản,4
+DH01604,12/05/2025,KH0141,Cần Thơ,Đồ uống,25000,1,Chuyển khoản,
+DH01605,12/05/2025,KH0090,Hồ Chí Minh,Đồ uống,27000,6,Tiền mặt,3
+DH01606,12/05/2025,KH0145,Hà Nội,Thực phẩm,76000,2,Chuyển khoản,5
+DH01607,12/05/2025,KH0050,HỒ CHÍ MINH,Gia dụng,595000,3,Chuyển khoản,3
+DH01608,12/05/2025,KH0365,Hồ Chí Minh,Thực phẩm,49000,2,Tiền mặt,4
+DH01609,12/05/2025,KH0006,Hồ Chí Minh,Thực phẩm,117000,3,Ví điện tử,2
+DH01610,13/05/2025,KH0489,đà nẵng,Gia dụng,147000,4,Tiền mặt,
+DH01611,13/05/2025,KH0165,Đà Nẵng,Thực phẩm,20000,7,Tiền mặt,3
+DH01612,13/05/2025,KH0212,Hồ Chí Minh,Thực phẩm,79000,4,Chuyển khoản,5
+DH01613,13/05/2025,KH0280,Hà Nội,Thực phẩm,142000,2,Chuyển khoản,
+DH01614,13/05/2025,KH0034,Hà Nội,Mỹ phẩm,166000,8,Tiền mặt,
+DH01615,13/05/2025,KH0238,Hà Nội,Đồ uống,31000,2,Ví điện tử,4
+DH01616,13/05/2025,KH0463,Hà Nội,Văn phòng phẩm,30000,2,Ví điện tử,5
+DH01617,13/05/2025,KH0470,  Hà Nội,Đồ uống,15000,2,Tiền mặt,4
+DH01618,13/05/2025,KH0390,Đà Nẵng ,Mỹ phẩm,382000,3,Tiền mặt,
+DH01619,13/05/2025,KH0005,Hà Nội,Đồ uống,38000,4,Chuyển khoản,3
+DH01620,13/05/2025,KH0078,Hà Nội ,Thực phẩm,108000,,Tiền mặt,5
+DH01621,13/05/2025,KH0460,Hà Nội,Văn phòng phẩm,43000,4,Ví điện tử,4
+DH01622,13/05/2025,KH0391,Cần Thơ,Thực phẩm,112000,3,Tiền mặt,
+DH01623,13/05/2025,KH0009,Huế,Đồ uống,26000,2,Chuyển khoản,
+DH01624,13/05/2025,KH0407,đà nẵng,Văn phòng phẩm,32000,3,Ví điện tử,4
+DH01625,14/05/2025,KH0432,Hồ Chí Minh,Đồ uống,21000,4,Tiền mặt,3
+DH01626,14/05/2025,KH0451,Hà Nội,Văn phòng phẩm,14000,3,Ví điện tử,4
+DH01627,14/05/2025,KH0333,Huế,Văn phòng phẩm,19000,,Chuyển khoản,
+DH01628,14/05/2025,KH0202,Hồ Chí Minh,Văn phòng phẩm,40000,5,Chuyển khoản,5
+DH01629,14/05/2025,KH0368,hồ chí minh,Gia dụng,114000,2,Ví điện tử,2
+DH01630,14/05/2025,,Hồ Chí Minh,Mỹ phẩm,193000,4,Chuyển khoản,3
+DH01631,14/05/2025,KH0333,Cần Thơ,Văn phòng phẩm,16000,5,Tiền mặt,
+DH01632,14/05/2025,KH0186,Hà Nội,Mỹ phẩm,235000,3,Ví điện tử,
+DH01633,14/05/2025,,Cần Thơ,Thực phẩm,65000,1,Chuyển khoản,4
+DH01634,14/05/2025,KH0130,Hà Nội,Văn phòng phẩm,33000,6,Ví điện tử,3
+DH01635,14/05/2025,KH0396,Hồ Chí Minh,Thực phẩm,42000,,Ví điện tử,3
+DH01636,14/05/2025,KH0073,Hà Nội,Thực phẩm,132000,3,Ví điện tử,
+DH01637,14/05/2025,KH0152,Hồ Chí Minh ,Đồ uống,32000,3,Ví điện tử,4
+DH01638,15/05/2025,,Đà Nẵng,Văn phòng phẩm,41000,3,Ví điện tử,3
+DH01639,15/05/2025,KH0293,Huế,Mỹ phẩm,252000,2,Tiền mặt,4
+DH01640,15/05/2025,KH0386,Cần Thơ,Đồ uống,25000,8,Chuyển khoản,5
+DH01641,15/05/2025,KH0454,Hà Nội,Văn phòng phẩm,40000,1,Chuyển khoản,3
+DH01642,15/05/2025,KH0142,Hà Nội,Mỹ phẩm,121000,2,Ví điện tử,3
+DH01643,15/05/2025,KH0043,Hà Nội,Văn phòng phẩm,40000,3,Chuyển khoản,4
+DH01644,15/05/2025,KH0181,Cần Thơ,Văn phòng phẩm,52000,6,Tiền mặt,3
+DH01645,15/05/2025,KH0383,Huế,Thực phẩm,62000,6,Tiền mặt,3
+DH01646,15/05/2025,,Hà Nội,Gia dụng,273000,3,Ví điện tử,3
+DH01647,15/05/2025,KH0387,Hồ Chí Minh ,Đồ uống,15000,3,Tiền mặt,
+DH01648,15/05/2025,KH0281,Hồ Chí Minh,Thực phẩm,129000,4,Ví điện tử,
+DH01649,15/05/2025,KH0102,Đà Nẵng,Văn phòng phẩm,43000,3,Ví điện tử,3
+DH01650,16/05/2025,KH0199,Huế,Mỹ phẩm,223000,2,Ví điện tử,5
+DH01651,16/05/2025,KH0139,Hà Nội,Đồ uống,27000,5,Ví điện tử,4
+DH01652,16/05/2025,,Hồ Chí Minh,Mỹ phẩm,197000,3,Chuyển khoản,4
+DH01653,16/05/2025,KH0378,  Hồ Chí Minh,Đồ uống,24000,6,Ví điện tử,4
+DH01654,16/05/2025,KH0120,Hà Nội,Thực phẩm,141000,4,Ví điện tử,1
+DH01655,16/05/2025,KH0499,Hồ Chí Minh,Mỹ phẩm,144000,2,Ví điện tử,
+DH01656,16/05/2025,KH0342,Hồ Chí Minh ,Thực phẩm,130000,4,Tiền mặt,3
+DH01657,16/05/2025,KH0373,Cần Thơ,Thực phẩm,111000,4,Chuyển khoản,5
+DH01658,16/05/2025,KH0339,Hồ Chí Minh,Gia dụng,142000,2,Tiền mặt,
+DH01659,16/05/2025,KH0191, hà nội  ,Văn phòng phẩm,55000,4,Ví điện tử,5
+DH01660,16/05/2025,KH0349,Đà Nẵng,Gia dụng,178000,2,Chuyển khoản,
+DH01661,16/05/2025,KH0012,Đà Nẵng,Thực phẩm,21000,4,Chuyển khoản,
+DH01662,16/05/2025,KH0131,Hồ Chí Minh,Thực phẩm,90000,2,Chuyển khoản,
+DH01663,16/05/2025,KH0014,Hà Nội,Gia dụng,317000,3,Tiền mặt,5
+DH01664,16/05/2025,KH0093,Đà Nẵng,Đồ uống,13000,1,Tiền mặt,4
+DH01665,16/05/2025,KH0093,Hồ Chí Minh,Mỹ phẩm,375000,1,Chuyển khoản,3
+DH01666,16/05/2025,KH0320,Đà Nẵng,Đồ uống,32000,6,Ví điện tử,2
+DH01667,16/05/2025,KH0457,Hồ Chí Minh,Thực phẩm,109000,2,Ví điện tử,
+DH01668,16/05/2025,KH0004,đà nẵng,Gia dụng,538000,1,Tiền mặt,2
+DH01669,16/05/2025,KH0201,Huế,Thực phẩm,148000,1,Tiền mặt,
+DH01670,16/05/2025,KH0220,Hồ Chí Minh,Văn phòng phẩm,52000,4,Ví điện tử,5
+DH01671,16/05/2025,KH0276,Hồ Chí Minh,Văn phòng phẩm,31000,5,Ví điện tử,1
+DH01672,17/05/2025,KH0236,Hồ Chí Minh,Văn phòng phẩm,21000,3,Tiền mặt,5
+DH01673,17/05/2025,KH0288,Hà Nội,Mỹ phẩm,312000,5,Tiền mặt,3
+DH01674,17/05/2025,KH0365,Hà Nội,Đồ uống,21000,9,Chuyển khoản,4
+DH01675,17/05/2025,KH0251,Cần Thơ,Văn phòng phẩm,14000,4,Tiền mặt,5
+DH01676,17/05/2025,KH0156,Hà Nội,Văn phòng phẩm,22000,3,Chuyển khoản,4
+DH01677,17/05/2025,KH0314,Hà Nội,Mỹ phẩm,247000,2,Ví điện tử,
+DH01678,17/05/2025,KH0489,Hà Nội,Văn phòng phẩm,37000,3,Ví điện tử,4
+DH01679,17/05/2025,KH0354,Hà Nội,Mỹ phẩm,198000,3,Chuyển khoản,3
+DH01680,17/05/2025,KH0194,Hồ Chí Minh,Mỹ phẩm,301000,1,Ví điện tử,5
+DH01681,17/05/2025,KH0326, huế  ,Mỹ phẩm,427000,1,Chuyển khoản,1
+DH01682,17/05/2025,KH0175,Hồ Chí Minh,Thực phẩm,30000,2,Tiền mặt,5
+DH01682,17/05/2025,KH0175,Hồ Chí Minh,Thực phẩm,30000,2,Tiền mặt,5
+DH01683,17/05/2025,KH0484, hà nội  ,Thực phẩm,145000,2,Ví điện tử,2
+DH01684,17/05/2025,KH0458,HÀ NỘI,Văn phòng phẩm,24000,1,Ví điện tử,1
+DH01685,17/05/2025,,Hà Nội,Thực phẩm,74000,2,Ví điện tử,3
+DH01686,17/05/2025,KH0199,Hà Nội,Thực phẩm,150000,3,Chuyển khoản,4
+DH01687,17/05/2025,KH0128,Hà Nội,Đồ uống,23000,3,Ví điện tử,3
+DH01688,17/05/2025,KH0099,Hồ Chí Minh,Đồ uống,44000,6,Chuyển khoản,1
+DH01689,17/05/2025,KH0400,Hồ Chí Minh,Gia dụng,517000,2,Tiền mặt,5
+DH01690,17/05/2025,KH0422,Hà Nội,Mỹ phẩm,448000,3,Chuyển khoản,
+DH01691,17/05/2025,KH0139,Đà Nẵng,Gia dụng,92000,2,Chuyển khoản,
+DH01692,18/05/2025,KH0087,Hồ Chí Minh,Gia dụng,363000,5,Ví điện tử,
+DH01693,18/05/2025,KH0410,Hà Nội,Đồ uống,27000,3,Ví điện tử,2
+DH01694,18/05/2025,KH0224,Hà Nội,Đồ uống,16000,8,Ví điện tử,4
+DH01695,18/05/2025,KH0471,Hồ Chí Minh,Đồ uống,27000,5,Ví điện tử,
+DH01696,18/05/2025,KH0075,Hà Nội,Mỹ phẩm,279000,4,Ví điện tử,
+DH01697,18/05/2025,KH0457,Hà Nội,Gia dụng,313000,1,Ví điện tử,4
+DH01698,18/05/2025,KH0180,Hồ Chí Minh,Đồ uống,15000,3,Chuyển khoản,4
+DH01699,18/05/2025,KH0031,Đà Nẵng,Đồ uống,42000,1,Chuyển khoản,5
+DH01700,18/05/2025,KH0260,Hồ Chí Minh,Văn phòng phẩm,45000,4,Ví điện tử,5
+DH01701,18/05/2025,KH0538,Đà Nẵng,Thực phẩm,128000,3,Ví điện tử,2
+DH01702,18/05/2025,,Đà Nẵng,Đồ uống,12000,5,Ví điện tử,4
+DH01703,18/05/2025,KH0171,Hồ Chí Minh,Đồ uống,45000,1,Ví điện tử,5
+DH01704,18/05/2025,KH0050,HỒ CHÍ MINH,Văn phòng phẩm,47000,3,Chuyển khoản,
+DH01705,19/05/2025,KH0385,Đà Nẵng,Thực phẩm,25000,5,Chuyển khoản,5
+DH01706,19/05/2025,,Hồ Chí Minh,Thực phẩm,98000,1,Ví điện tử,4
+DH01707,19/05/2025,KH0399,Hà Nội,Văn phòng phẩm,22000,2,Chuyển khoản,2
+DH01708,19/05/2025,KH0483,Đà Nẵng,Văn phòng phẩm,52000,4,Chuyển khoản,3
+DH01709,19/05/2025,KH0350,  Hồ Chí Minh,Văn phòng phẩm,8000,2,Chuyển khoản,3
+DH01710,19/05/2025,KH0199,Hà Nội,Đồ uống,40000,7,Tiền mặt,4
+DH01711,19/05/2025,KH0123,Hà Nội,Mỹ phẩm,188000,1,Ví điện tử,3
+DH01712,19/05/2025,KH0038,Cần Thơ,Đồ uống,24000,4,Chuyển khoản,
+DH01713,19/05/2025,KH0255,Hồ Chí Minh,Mỹ phẩm,291000,5,Ví điện tử,4
+DH01714,19/05/2025,KH0473,Cần Thơ,Thực phẩm,56000,3,Ví điện tử,4
+DH01715,19/05/2025,KH0204,Hồ Chí Minh,Đồ uống,44000,4,Chuyển khoản,4
+DH01716,19/05/2025,KH0110,Hà Nội,Mỹ phẩm,439000,4,Chuyển khoản,4
+DH01717,19/05/2025,KH0125, hà nội  ,Mỹ phẩm,259000,3,Chuyển khoản,5
+DH01718,20/05/2025,KH0078,Cần Thơ,Gia dụng,143000,3,Chuyển khoản,3
+DH01719,20/05/2025,KH0449,Huế,Văn phòng phẩm,43000,3,Tiền mặt,4
+DH01720,20/05/2025,,Hồ Chí Minh,Văn phòng phẩm,8000,3,Chuyển khoản,3
+DH01721,20/05/2025,KH0211,Hà Nội,Thực phẩm,32000,1,Chuyển khoản,3
+DH01722,20/05/2025,KH0487,Hồ Chí Minh ,Mỹ phẩm,396000,2,Ví điện tử,1
+DH01723,20/05/2025,KH0428,Hồ Chí Minh,Văn phòng phẩm,16000,2,Ví điện tử,4
+DH01724,20/05/2025,KH0075,Đà Nẵng ,Văn phòng phẩm,14000,4,Ví điện tử,4
+DH01725,21/05/2025,KH0178,Huế,Thực phẩm,56000,3,Tiền mặt,
+DH01726,21/05/2025,KH0199,Đà Nẵng,Thực phẩm,21000,4,Chuyển khoản,4
+DH01727,21/05/2025,KH0328,Cần Thơ,Thực phẩm,58000,3,Chuyển khoản,2
+DH01728,21/05/2025,,Hà Nội,Đồ uống,36000,7,Ví điện tử,2
+DH01729,21/05/2025,KH0429,Hà Nội,Văn phòng phẩm,57000,3,Tiền mặt,5
+DH01730,21/05/2025,KH0317,Hồ Chí Minh,Gia dụng,600000,1,Ví điện tử,3
+DH01731,21/05/2025,KH0242,Hồ Chí Minh,Đồ uống,13000,4,Chuyển khoản,2
+DH01732,21/05/2025,KH0293,  Hà Nội,Mỹ phẩm,330000,2,Ví điện tử,4
+DH01733,21/05/2025,KH0398,Hà Nội,Gia dụng,139000,3,Chuyển khoản,4
+DH01734,21/05/2025,KH0240,Hà Nội,Thực phẩm,71000,3,Chuyển khoản,5
+DH01735,22/05/2025,,Hà Nội,Đồ uống,33000,5,Ví điện tử,3
+DH01736,22/05/2025,KH0149,Cần Thơ,Mỹ phẩm,436000,4,Tiền mặt,4
+DH01737,22/05/2025,KH0454,Hà Nội ,Đồ uống,14000,3,Chuyển khoản,5
+DH01738,22/05/2025,KH0485,Hồ Chí Minh,Thực phẩm,127000,3,Chuyển khoản,4
+DH01739,22/05/2025,KH0477, cần thơ  ,Thực phẩm,149000,2,Tiền mặt,5
+DH01740,22/05/2025,KH0320,Đà Nẵng,Văn phòng phẩm,26000,6,Tiền mặt,4
+DH01741,22/05/2025,KH0354,Huế,Gia dụng,461000,2,Chuyển khoản,4
+DH01742,22/05/2025,KH0388,Đà Nẵng,Thực phẩm,70000,1,Ví điện tử,
+DH01743,22/05/2025,KH0459,Hà Nội,Gia dụng,167000,2,Ví điện tử,3
+DH01744,22/05/2025,KH0037,Hồ Chí Minh,Mỹ phẩm,398000,2,Tiền mặt,4
+DH01745,22/05/2025,KH0555,Cần Thơ,Văn phòng phẩm,34000,5,Tiền mặt,
+DH01746,22/05/2025,KH0499,Hồ Chí Minh,Đồ uống,36000,2,Tiền mặt,4
+DH01747,22/05/2025,KH0102,Hà Nội,Đồ uống,34000,5,Tiền mặt,2
+DH01748,22/05/2025,KH0083,Hà Nội,Thực phẩm,131000,6,Chuyển khoản,4
+DH01749,22/05/2025,KH0410,Hà Nội,Đồ uống,27000,9,Chuyển khoản,4
+DH01750,23/05/2025,KH0227,Hà Nội,Mỹ phẩm,139000,3,Ví điện tử,4
+DH01751,23/05/2025,KH0290,Đà Nẵng,Gia dụng,589000,1,Chuyển khoản,4
+DH01752,23/05/2025,,Đà Nẵng,Gia dụng,597000,1,Chuyển khoản,4
+DH01753,23/05/2025,KH0145,Cần Thơ,Thực phẩm,134000,4,Ví điện tử,3
+DH01754,23/05/2025,KH0325,HUẾ,Văn phòng phẩm,36000,4,Tiền mặt,2
+DH01755,23/05/2025,KH0014,Hồ Chí Minh,Thực phẩm,103000,6,Chuyển khoản,5
+DH01756,23/05/2025,KH0039,Đà Nẵng,Đồ uống,44000,5,Ví điện tử,
+DH01757,23/05/2025,,Hồ Chí Minh,Thực phẩm,97000,3,Ví điện tử,1
+DH01757,23/05/2025,,Hồ Chí Minh,Thực phẩm,97000,3,Ví điện tử,1
+DH01758,23/05/2025,,Hồ Chí Minh,Văn phòng phẩm,23000,7,Chuyển khoản,4
+DH01759,23/05/2025,KH0128,Hồ Chí Minh,Văn phòng phẩm,50000,5,Tiền mặt,5
+DH01760,23/05/2025,KH0373,Hà Nội,Mỹ phẩm,421000,2,Chuyển khoản,5
+DH01761,23/05/2025,KH0362,  Đà Nẵng,Mỹ phẩm,209000,2,Tiền mặt,4
+DH01762,23/05/2025,,Hồ Chí Minh,Đồ uống,45000,3,Tiền mặt,4
+DH01763,23/05/2025,KH0425,Cần Thơ,Thực phẩm,75000,5,Chuyển khoản,2
+DH01764,23/05/2025,KH0494,Huế,Văn phòng phẩm,6000,4,Chuyển khoản,3
+DH01765,23/05/2025,KH0016,Hồ Chí Minh,Mỹ phẩm,102000,5,Ví điện tử,3
+DH01766,23/05/2025,KH0381,Hà Nội,Thực phẩm,47000,2,Tiền mặt,4
+DH01767,24/05/2025,KH0356,Hà Nội,Đồ uống,37000,6,Chuyển khoản,
+DH01768,24/05/2025,,Hồ Chí Minh,Đồ uống,30000,2,Tiền mặt,4
+DH01769,24/05/2025,KH0094,Cần Thơ,Gia dụng,440000,1,Tiền mặt,3
+DH01770,24/05/2025,KH0167,Hà Nội,Thực phẩm,111000,4,Tiền mặt,1
+DH01771,24/05/2025,KH0489,Cần Thơ,Văn phòng phẩm,15000,6,Ví điện tử,
+DH01772,24/05/2025,KH0090,Hồ Chí Minh,Đồ uống,44000,4,Tiền mặt,1
+DH01773,24/05/2025,KH0033,Cần Thơ,Đồ uống,14000,6,Chuyển khoản,2
+DH01774,24/05/2025,KH0423,Hồ Chí Minh,Mỹ phẩm,128000,2,Ví điện tử,
+DH01775,24/05/2025,KH0112,Hồ Chí Minh,Văn phòng phẩm,8000,4,Tiền mặt,2
+DH01776,24/05/2025,KH0165,  Hà Nội,Thực phẩm,40000,9,Chuyển khoản,3
+DH01777,24/05/2025,KH0368,Hồ Chí Minh,Thực phẩm,84000,2,Ví điện tử,3
+DH01778,25/05/2025,KH0246,Cần Thơ,Đồ uống,38000,6,Ví điện tử,
+DH01779,25/05/2025,KH0458,Hồ Chí Minh,Văn phòng phẩm,43000,6,Ví điện tử,
+DH01780,25/05/2025,KH0253,Hồ Chí Minh,Mỹ phẩm,216000,3,Chuyển khoản,5
+DH01781,25/05/2025,KH0454,Hà Nội,Gia dụng,368000,2,Chuyển khoản,3
+DH01782,25/05/2025,KH0361,Hồ Chí Minh,Mỹ phẩm,262000,3,Ví điện tử,
+DH01783,25/05/2025,KH0464,Hồ Chí Minh,Thực phẩm,74000,4,Chuyển khoản,5
+DH01784,25/05/2025,KH0224,Đà Nẵng,Văn phòng phẩm,28000,4,Tiền mặt,3
+DH01785,25/05/2025,KH0301,Hồ Chí Minh,Văn phòng phẩm,12000,5,Tiền mặt,3
+DH01786,25/05/2025,KH0297,Hồ Chí Minh,Gia dụng,397000,4,Ví điện tử,4
+DH01787,25/05/2025,KH0275,Cần Thơ,Thực phẩm,92000,2,Tiền mặt,2
+DH01788,25/05/2025,KH0059,Hồ Chí Minh,Đồ uống,42000,5,Ví điện tử,5
+DH01789,26/05/2025,KH0141,Đà Nẵng,Mỹ phẩm,399000,2,Tiền mặt,5
+DH01790,26/05/2025,KH0094,Huế,Thực phẩm,131000,4,Chuyển khoản,4
+DH01791,26/05/2025,KH0155,Đà Nẵng,Thực phẩm,97000,3,Tiền mặt,
+DH01792,26/05/2025,KH0106,Hồ Chí Minh,Văn phòng phẩm,8000,4,Chuyển khoản,
+DH01793,26/05/2025,KH0165,Hồ Chí Minh,Đồ uống,13000,4,Chuyển khoản,
+DH01794,26/05/2025,KH0253, hà nội  ,Đồ uống,40000,10,Chuyển khoản,3
+DH01795,26/05/2025,KH0319,Hồ Chí Minh,Thực phẩm,26000,3,Ví điện tử,4
+DH01796,26/05/2025,KH0047,Hồ Chí Minh ,Đồ uống,20000,5,Ví điện tử,3
+DH01797,26/05/2025,KH0397,Hồ Chí Minh,Gia dụng,515000,2,Chuyển khoản,5
+DH01798,26/05/2025,KH0268,Hồ Chí Minh ,Thực phẩm,102000,6,Ví điện tử,5
+DH01799,26/05/2025,KH0073,  Đà Nẵng,Gia dụng,476000,1,Tiền mặt,4
+DH01800,26/05/2025,KH0046,Hà Nội,Gia dụng,504000,2,Tiền mặt,2
+DH01801,27/05/2025,KH0261,Đà Nẵng,Gia dụng,472000,2,Chuyển khoản,5
+DH01802,27/05/2025,,Hồ Chí Minh,Văn phòng phẩm,36000,2,Tiền mặt,5
+DH01803,27/05/2025,KH0199,Hà Nội,Thực phẩm,144000,2,Ví điện tử,
+DH01804,27/05/2025,KH0025,HÀ NỘI,Thực phẩm,32000,4,Tiền mặt,4
+DH01805,27/05/2025,KH0332,Hà Nội,Văn phòng phẩm,18000,3,Tiền mặt,4
+DH01806,27/05/2025,KH0068,Cần Thơ,Văn phòng phẩm,14000,1,Chuyển khoản,5
+DH01807,27/05/2025,,Huế,Thực phẩm,44000,4,Ví điện tử,5
+DH01808,28/05/2025,KH0382,Hà Nội,Đồ uống,26000,6,Chuyển khoản,4
+DH01809,28/05/2025,,Hồ Chí Minh,Thực phẩm,91000,3,Tiền mặt,3
+DH01810,28/05/2025,KH0055,Hà Nội,Gia dụng,587000,2,Tiền mặt,4
+DH01811,28/05/2025,KH0194,Hồ Chí Minh,Thực phẩm,91000,4,Tiền mặt,4
+DH01812,28/05/2025,KH0314, cần thơ  ,Thực phẩm,23000,4,Tiền mặt,4
+DH01813,28/05/2025,KH0459,Hà Nội,Thực phẩm,56000,2,Chuyển khoản,
+DH01814,28/05/2025,KH0395,Hà Nội,Văn phòng phẩm,36000,3,Ví điện tử,1
+DH01815,28/05/2025,KH0461,Hồ Chí Minh,Đồ uống,41000,2,Ví điện tử,4
+DH01816,28/05/2025,KH0135,Huế,Gia dụng,395000,2,Chuyển khoản,3
+DH01817,28/05/2025,KH0224,Hà Nội,Thực phẩm,82000,6,Ví điện tử,4
+DH01818,28/05/2025,KH0120, hồ chí minh  ,Văn phòng phẩm,37000,2,Ví điện tử,5
+DH01819,28/05/2025,KH0104,Hà Nội,Thực phẩm,27000,,Chuyển khoản,4
+DH01820,28/05/2025,KH0485,Huế,Thực phẩm,87000,3,Tiền mặt,3
+DH01821,28/05/2025,KH0464,Hà Nội,Đồ uống,23000,4,Chuyển khoản,4
+DH01822,29/05/2025,KH0282,  Hà Nội,Gia dụng,231000,1,Chuyển khoản,4
+DH01823,29/05/2025,KH0257,Đà Nẵng,Mỹ phẩm,125000,1,Tiền mặt,2
+DH01824,29/05/2025,KH0008,Huế,Đồ uống,16000,3,Tiền mặt,
+DH01825,29/05/2025,KH0355,Huế,Đồ uống,39000,2,Chuyển khoản,4
+DH01826,29/05/2025,KH0380,Hồ Chí Minh,Đồ uống,25000,4,Chuyển khoản,4
+DH01827,29/05/2025,KH0288,Hà Nội,Đồ uống,24000,6,Tiền mặt,4
+DH01828,29/05/2025,KH0038,Hồ Chí Minh,Gia dụng,151000,2,Tiền mặt,5
+DH01829,29/05/2025,KH0515,Hà Nội,Văn phòng phẩm,34000,2,Ví điện tử,1
+DH01830,29/05/2025,, huế  ,Đồ uống,34000,3,Chuyển khoản,5
+DH01830,29/05/2025,, huế  ,Đồ uống,34000,3,Chuyển khoản,5
+DH01831,29/05/2025,KH0235,Huế,Đồ uống,39000,3,Chuyển khoản,5
+DH01832,29/05/2025,KH0378,Hồ Chí Minh,Gia dụng,561000,3,Ví điện tử,
+DH01833,29/05/2025,KH0339, đà nẵng  ,Đồ uống,23000,4,Tiền mặt,4
+DH01834,29/05/2025,KH0139,Huế,Đồ uống,30000,4,Tiền mặt,5
+DH01835,29/05/2025,KH0077,Đà Nẵng,Văn phòng phẩm,37000,5,Tiền mặt,3
+DH01836,29/05/2025,KH0025,Huế,Đồ uống,25000,3,Ví điện tử,3
+DH01837,29/05/2025,KH0323, hồ chí minh  ,Đồ uống,14000,3,Tiền mặt,
+DH01838,29/05/2025,KH0126,Hà Nội,Mỹ phẩm,402000,4,Chuyển khoản,5
+DH01839,30/05/2025,KH0329,Hồ Chí Minh,Gia dụng,528000,1,Ví điện tử,4
+DH01840,30/05/2025,KH0036,Hà Nội,Văn phòng phẩm,13000,6,Ví điện tử,4
+DH01841,30/05/2025,KH0191,Hà Nội ,Đồ uống,32000,4,Ví điện tử,5
+DH01842,30/05/2025,KH0186,Cần Thơ,Thực phẩm,65000,2,Chuyển khoản,
+DH01843,30/05/2025,KH0124, hồ chí minh  ,Văn phòng phẩm,49000,6,Chuyển khoản,4
+DH01844,30/05/2025,KH0214,HỒ CHÍ MINH,Mỹ phẩm,391000,2,Ví điện tử,
+DH01845,30/05/2025,KH0103,Hồ Chí Minh,Thực phẩm,100000,4,Ví điện tử,
+DH01846,30/05/2025,KH0216,Hồ Chí Minh,Đồ uống,18000,4,Tiền mặt,5
+DH01847,30/05/2025,KH0390,Hà Nội,Mỹ phẩm,137000,2,Chuyển khoản,3
+DH01848,30/05/2025,KH0413,Hồ Chí Minh,Văn phòng phẩm,21000,2,Chuyển khoản,4
+DH01849,30/05/2025,, hà nội  ,Mỹ phẩm,118000,2,Ví điện tử,2
+DH01850,30/05/2025,KH0178,Hồ Chí Minh,Văn phòng phẩm,37000,4,Ví điện tử,5
+DH01851,30/05/2025,KH0031,Hà Nội,Thực phẩm,44000,4,Chuyển khoản,4
+DH01852,30/05/2025,KH0360,Hà Nội,Thực phẩm,30000,2,Ví điện tử,2
+DH01853,31/05/2025,KH0459,Cần Thơ,Đồ uống,14000,5,Tiền mặt,5
+DH01853,31/05/2025,KH0459,Cần Thơ,Đồ uống,14000,5,Tiền mặt,5
+DH01854,31/05/2025,KH0521,Cần Thơ,Đồ uống,12000,4,Tiền mặt,4
+DH01855,31/05/2025,KH0124,ĐÀ NẴNG,Đồ uống,16000,3,Chuyển khoản,4
+DH01856,31/05/2025,KH0355,Đà Nẵng ,Thực phẩm,25000,2,Tiền mặt,2
+DH01857,31/05/2025,KH0480,đà nẵng,Thực phẩm,23000,3,Chuyển khoản,3
+DH01858,31/05/2025,KH0213,Huế,Thực phẩm,102000,7,Ví điện tử,
+DH01859,31/05/2025,KH0380,Hà Nội,Văn phòng phẩm,37000,2,Tiền mặt,
+DH01860,31/05/2025,KH0145,Hồ Chí Minh,Văn phòng phẩm,43000,4,Ví điện tử,4
+DH01861,31/05/2025,KH0010,Đà Nẵng,Thực phẩm,111000,5,Chuyển khoản,4
+DH01862,31/05/2025,KH0149,Hà Nội,Thực phẩm,142000,2,Ví điện tử,4
+DH01863,31/05/2025,,Hà Nội,Đồ uống,16000,3,Tiền mặt,4
+DH01864,31/05/2025,KH0415,Đà Nẵng,Mỹ phẩm,191000,2,Tiền mặt,
+DH01865,31/05/2025,KH0110,Hà Nội ,Đồ uống,13000,3,Tiền mặt,5
+DH01866,01/06/2025,KH0349,Hồ Chí Minh,Đồ uống,39000,1,Chuyển khoản,5
+DH01867,01/06/2025,KH0497,Hồ Chí Minh,Mỹ phẩm,94000,2,Ví điện tử,5
+DH01868,01/06/2025,KH0487,  Hà Nội,Đồ uống,17000,7,Chuyển khoản,3
+DH01869,01/06/2025,,Cần Thơ,Thực phẩm,23000,3,Tiền mặt,4
+DH01870,01/06/2025,KH0208,Hồ Chí Minh,Mỹ phẩm,435000,3,Ví điện tử,4
+DH01871,01/06/2025,KH0171,Hồ Chí Minh,Thực phẩm,65000,5,Ví điện tử,4
+DH01872,01/06/2025,KH0088,Hồ Chí Minh,Gia dụng,460000,1,Tiền mặt,2
+DH01873,01/06/2025,KH0260,Hà Nội,Mỹ phẩm,198000,1,Ví điện tử,1
+DH01874,01/06/2025,KH0429,Hà Nội,Mỹ phẩm,309000,3,Chuyển khoản,4
+DH01875,01/06/2025,KH0225,Hà Nội,Văn phòng phẩm,28000,4,Chuyển khoản,5
+DH01876,01/06/2025,KH0269,Huế,Đồ uống,22000,6,Tiền mặt,4
+DH01877,01/06/2025,KH0181,HỒ CHÍ MINH,Mỹ phẩm,182000,4,Ví điện tử,1
+DH01878,01/06/2025,KH0172,Hà Nội,Mỹ phẩm,280000,2,Ví điện tử,4
+DH01879,01/06/2025,KH0386,Hồ Chí Minh,Mỹ phẩm,228000,2,Ví điện tử,2
+DH01880,01/06/2025,KH0498,Hà Nội,Mỹ phẩm,416000,4,Chuyển khoản,1
+DH01881,01/06/2025,KH0345,Hà Nội,Mỹ phẩm,214000,5,Chuyển khoản,5
+DH01882,01/06/2025,KH0051,Hà Nội,Mỹ phẩm,335000,3,Ví điện tử,3
+DH01883,01/06/2025,KH0231,Hồ Chí Minh,Đồ uống,39000,3,Ví điện tử,5
+DH01884,01/06/2025,KH0095,  Cần Thơ,Thực phẩm,20000,2,Chuyển khoản,5
+DH01885,01/06/2025,KH0350, cần thơ  ,Mỹ phẩm,244000,5,Ví điện tử,
+DH01886,01/06/2025,KH0372,Cần Thơ,Mỹ phẩm,402000,3,Tiền mặt,1
+DH01887,01/06/2025,KH0500,Hồ Chí Minh,Đồ uống,12000,3,Chuyển khoản,4
+DH01888,01/06/2025,KH0305,Hà Nội,Thực phẩm,56000,3,Chuyển khoản,1
+DH01889,01/06/2025,KH0321,Hà Nội,Đồ uống,38000,6,Tiền mặt,3
+DH01890,01/06/2025,KH0313,Cần Thơ,Đồ uống,43000,3,Chuyển khoản,3
+DH01891,02/06/2025,KH0443,Hà Nội,Đồ uống,43000,2,Ví điện tử,4
+DH01892,02/06/2025,KH0178,Cần Thơ,Mỹ phẩm,422000,5,Tiền mặt,3
+DH01893,02/06/2025,,cần thơ,Thực phẩm,114000,2,Ví điện tử,4
+DH01894,02/06/2025,KH0407,Đà Nẵng,Thực phẩm,105000,3,Tiền mặt,3
+DH01895,02/06/2025,KH0216,Hồ Chí Minh,Mỹ phẩm,306000,,Ví điện tử,
+DH01896,02/06/2025,KH0195,Đà Nẵng,Thực phẩm,27000,3,Ví điện tử,2
+DH01897,02/06/2025,KH0466,Huế,Văn phòng phẩm,46000,4,Ví điện tử,4
+DH01898,02/06/2025,KH0465,Huế,Văn phòng phẩm,26000,3,Ví điện tử,4
+DH01899,02/06/2025,KH0351,Cần Thơ,Gia dụng,367000,2,Tiền mặt,3
+DH01900,02/06/2025,KH0468,Cần Thơ,Đồ uống,43000,4,Tiền mặt,4
+DH01901,02/06/2025,KH0489,Huế,Thực phẩm,26000,8,Ví điện tử,2
+DH01902,02/06/2025,KH0250,Huế ,Văn phòng phẩm,27000,4,Tiền mặt,3
+DH01903,02/06/2025,KH0215,Hà Nội,Đồ uống,26000,5,Chuyển khoản,4
+DH01904,02/06/2025,KH0027,Hà Nội,Thực phẩm,20000,2,Tiền mặt,4
+DH01905,02/06/2025,KH0354,Hồ Chí Minh,Thực phẩm,45000,3,Chuyển khoản,2
+DH01906,02/06/2025,KH0422,Đà Nẵng ,Thực phẩm,136000,5,Ví điện tử,4
+DH01907,02/06/2025,KH0237,Hà Nội,Đồ uống,41000,2,Ví điện tử,3
+DH01908,02/06/2025,KH0416,Huế,Mỹ phẩm,123000,5,Chuyển khoản,4
+DH01909,02/06/2025,KH0475,Huế,Đồ uống,29000,6,Chuyển khoản,4
+DH01910,02/06/2025,KH0119,Hồ Chí Minh,Đồ uống,24000,7,Chuyển khoản,
+DH01911,03/06/2025,KH0375,Hà Nội,Đồ uống,32000,6,Tiền mặt,5
+DH01912,03/06/2025,KH0071,Cần Thơ,Văn phòng phẩm,11000,2,Chuyển khoản,5
+DH01913,03/06/2025,KH0034,Hồ Chí Minh,Đồ uống,44000,2,Ví điện tử,
+DH01914,03/06/2025,KH0460,Hồ Chí Minh,Thực phẩm,149000,3,Chuyển khoản,2
+DH01915,03/06/2025,KH0194,Hồ Chí Minh,Mỹ phẩm,429000,1,Tiền mặt,4
+DH01916,03/06/2025,KH0221,Hồ Chí Minh,Đồ uống,15000,7,Tiền mặt,4
+DH01917,03/06/2025,KH0470,Hồ Chí Minh,Thực phẩm,76000,3,Ví điện tử,1
+DH01918,03/06/2025,KH0434,Cần Thơ,Thực phẩm,142000,5,Tiền mặt,4
+DH01919,03/06/2025,KH0008,Huế,Thực phẩm,37000,3,Ví điện tử,3
+DH01920,03/06/2025,KH0006,HÀ NỘI,Văn phòng phẩm,34000,5,Tiền mặt,
+DH01921,03/06/2025,KH0361,Huế,Đồ uống,33000,7,Tiền mặt,
+DH01922,03/06/2025,KH0064,Hồ Chí Minh,Mỹ phẩm,153000,1,Chuyển khoản,4
+DH01923,03/06/2025,KH0355,Huế,Văn phòng phẩm,11000,5,Tiền mặt,4
+DH01924,03/06/2025,KH0424,Hồ Chí Minh,Gia dụng,305000,2,Ví điện tử,3
+DH01925,04/06/2025,KH0105,Cần Thơ,Đồ uống,18000,3,Tiền mặt,
+DH01926,04/06/2025,KH0111,Hồ Chí Minh,Đồ uống,33000,2,Ví điện tử,2
+DH01927,04/06/2025,KH0309,Đà Nẵng,Thực phẩm,67000,3,Tiền mặt,
+DH01928,04/06/2025,KH0464,Đà Nẵng,Thực phẩm,146000,2,Tiền mặt,5
+DH01929,04/06/2025,KH0123,Hà Nội,Đồ uống,13000,4,Ví điện tử,4
+DH01930,04/06/2025,KH0451,Huế,Đồ uống,17000,4,Ví điện tử,5
+DH01931,04/06/2025,KH0218,Hà Nội,Thực phẩm,78000,2,Tiền mặt,4
+DH01932,04/06/2025,KH0260,Hà Nội,Thực phẩm,93000,3,Ví điện tử,5
+DH01933,04/06/2025,KH0136,Hà Nội,Gia dụng,111000,3,Chuyển khoản,5
+DH01934,04/06/2025,KH0224,Hồ Chí Minh,Mỹ phẩm,190000,,Chuyển khoản,
+DH01935,04/06/2025,KH0015,Hà Nội,Thực phẩm,49000,3,Tiền mặt,
+DH01936,04/06/2025,KH0464,Cần Thơ,Thực phẩm,39000,4,Chuyển khoản,4
+DH01937,04/06/2025,KH0127,Hà Nội,Thực phẩm,51000,3,Ví điện tử,4
+DH01938,04/06/2025,KH0119, huế  ,Đồ uống,34000,5,Tiền mặt,4
+DH01939,04/06/2025,KH0494,Hồ Chí Minh,Thực phẩm,33000,2,Chuyển khoản,4
+DH01940,04/06/2025,KH0223,Hồ Chí Minh,Thực phẩm,135000,4,Chuyển khoản,3
+DH01941,04/06/2025,KH0484,Hồ Chí Minh,Đồ uống,25000,2,Ví điện tử,
+DH01942,04/06/2025,KH0243,HÀ NỘI,Thực phẩm,45000,1,Tiền mặt,4
+DH01943,04/06/2025,,Huế,Gia dụng,372000,1,Tiền mặt,5
+DH01944,04/06/2025,KH0055,Hồ Chí Minh,Đồ uống,17000,5,Chuyển khoản,5
+DH01945,04/06/2025,KH0198,Huế,Mỹ phẩm,212000,4,Tiền mặt,5
+DH01946,05/06/2025,KH0236,Huế,Thực phẩm,138000,2,Chuyển khoản,4
+DH01947,05/06/2025,KH0256,Hà Nội,Gia dụng,123000,1,Ví điện tử,4
+DH01948,05/06/2025,KH0085,Hồ Chí Minh,Đồ uống,44000,6,Chuyển khoản,3
+DH01949,05/06/2025,KH0046,Đà Nẵng,Mỹ phẩm,285000,3,Tiền mặt,
+DH01950,05/06/2025,KH0383,Cần Thơ,Đồ uống,25000,4,Tiền mặt,4
+DH01951,05/06/2025,KH0390,Hà Nội,Đồ uống,13000,2,Chuyển khoản,3
+DH01952,05/06/2025,KH0318,Cần Thơ,Thực phẩm,115000,5,Ví điện tử,5
+DH01953,05/06/2025,KH0424,Hồ Chí Minh,Văn phòng phẩm,60000,5,Ví điện tử,2
+DH01954,05/06/2025,KH0405,Hà Nội,Đồ uống,21000,5,Ví điện tử,3
+DH01955,05/06/2025,KH0178,Hà Nội,Đồ uống,23000,4,Ví điện tử,5
+DH01956,05/06/2025,KH0340,Huế,Đồ uống,31000,5,Tiền mặt,3
+DH01957,05/06/2025,KH0109,Đà Nẵng,Văn phòng phẩm,35000,4,Tiền mặt,4
+DH01958,05/06/2025,,Cần Thơ,Mỹ phẩm,249000,3,Ví điện tử,3
+DH01959,05/06/2025,KH0386,  Đà Nẵng,Mỹ phẩm,253000,6,Tiền mặt,
+DH01960,05/06/2025,KH0489,Hồ Chí Minh,Văn phòng phẩm,12000,2,Ví điện tử,4
+DH01961,05/06/2025,KH0195,Hồ Chí Minh,Mỹ phẩm,325000,1,Tiền mặt,
+DH01962,05/06/2025,KH0023,Huế,Văn phòng phẩm,44000,1,Chuyển khoản,4
+DH01963,06/06/2025,KH0386,Hồ Chí Minh,Văn phòng phẩm,36000,2,Ví điện tử,5
+DH01964,06/06/2025,KH0143,Hà Nội,Văn phòng phẩm,47000,11,Ví điện tử,4
+DH01965,06/06/2025,KH0099,Hà Nội,Mỹ phẩm,234000,2,Ví điện tử,3
+DH01966,06/06/2025,KH0344,Cần Thơ,Đồ uống,28000,5,Tiền mặt,5
+DH01967,06/06/2025,KH0335,Cần Thơ,Văn phòng phẩm,48000,2,Ví điện tử,
+DH01968,06/06/2025,KH0416,Hà Nội,Đồ uống,32000,6,Chuyển khoản,
+DH01969,06/06/2025,KH0493,Hà Nội,Đồ uống,15000,8,Ví điện tử,1
+DH01970,06/06/2025,KH0038,Hồ Chí Minh,Đồ uống,13000,4,Chuyển khoản,1
+DH01971,06/06/2025,KH0238,Hà Nội,Thực phẩm,104000,,Tiền mặt,
+DH01972,06/06/2025,KH0425,Đà Nẵng,Thực phẩm,49000,3,Ví điện tử,4
+DH01973,06/06/2025,KH0240,  Hà Nội,Đồ uống,27000,3,Chuyển khoản,1
+DH01974,06/06/2025,KH0140,Đà Nẵng,Đồ uống,12000,5,Tiền mặt,3
+DH01975,06/06/2025,KH0345,Cần Thơ,Thực phẩm,73000,2,Ví điện tử,3
+DH01976,06/06/2025,KH0377,Cần Thơ,Văn phòng phẩm,5000,4,Tiền mặt,5
+DH01977,06/06/2025,KH0251,Đà Nẵng,Thực phẩm,54000,7,Ví điện tử,5
+DH01978,06/06/2025,KH0496,Huế,Mỹ phẩm,306000,4,Tiền mặt,5
+DH01979,06/06/2025,KH0322,Hồ Chí Minh,Đồ uống,16000,3,Chuyển khoản,2
+DH01980,06/06/2025,KH0071,Hồ Chí Minh,Mỹ phẩm,157000,3,Chuyển khoản,4
+DH01981,07/06/2025,KH0283,Hà Nội,Mỹ phẩm,431000,2,Ví điện tử,4
+DH01982,07/06/2025,KH0030, đà nẵng  ,Thực phẩm,130000,5,Tiền mặt,5
+DH01983,07/06/2025,KH0313,Hồ Chí Minh,Mỹ phẩm,403000,2,Ví điện tử,
+DH01984,07/06/2025,KH0254,Hà Nội,Văn phòng phẩm,6000,2,Chuyển khoản,5
+DH01985,07/06/2025,KH0426,Cần Thơ,Đồ uống,14000,2,Ví điện tử,2
+DH01986,07/06/2025,KH0555,Hà Nội,Thực phẩm,59000,2,Ví điện tử,2
+DH01987,07/06/2025,KH0394,Hà Nội,Văn phòng phẩm,21000,3,Tiền mặt,4
+DH01988,07/06/2025,KH0338,Đà Nẵng,Gia dụng,271000,1,Tiền mặt,3
+DH01989,07/06/2025,KH0332,Hồ Chí Minh,Văn phòng phẩm,11000,3,Chuyển khoản,5
+DH01990,07/06/2025,KH0164,  Hà Nội,Văn phòng phẩm,14000,3,Chuyển khoản,4
+DH01991,07/06/2025,KH0236,Đà Nẵng,Đồ uống,41000,7,Ví điện tử,3
+DH01992,07/06/2025,KH0206,Cần Thơ,Văn phòng phẩm,9000,8,Tiền mặt,
+DH01993,07/06/2025,KH0451,Hà Nội,Đồ uống,20000,7,Ví điện tử,3
+DH01994,07/06/2025,KH0477,Hà Nội,Đồ uống,30000,7,Chuyển khoản,4
+DH01995,07/06/2025,KH0489,Hồ Chí Minh,Mỹ phẩm,375000,4,Tiền mặt,3
+DH01996,07/06/2025,KH0190,Hồ Chí Minh,Đồ uống,44000,5,Tiền mặt,4
+DH01997,07/06/2025,KH0331,Hồ Chí Minh,Văn phòng phẩm,44000,7,Tiền mặt,4
+DH01998,07/06/2025,KH0354,Hà Nội ,Thực phẩm,49000,4,Chuyển khoản,5
+DH01999,07/06/2025,KH0204,Cần Thơ,Văn phòng phẩm,15000,9,Tiền mặt,
+DH02000,08/06/2025,,Hồ Chí Minh,Văn phòng phẩm,38000,3,Ví điện tử,2
+DH02001,08/06/2025,KH0144,Hồ Chí Minh,Thực phẩm,26000,5,Tiền mặt,
+DH02002,08/06/2025,KH0079,Cần Thơ,Thực phẩm,38000,1,Ví điện tử,
+DH02003,08/06/2025,KH0400,Hồ Chí Minh,Thực phẩm,91000,3,Chuyển khoản,4
+DH02004,08/06/2025,KH0493,Hà Nội,Mỹ phẩm,448000,4,Ví điện tử,3
+DH02005,08/06/2025,KH0038,Hồ Chí Minh,Thực phẩm,47000,4,Chuyển khoản,4
+DH02006,08/06/2025,KH0358,Đà Nẵng,Gia dụng,181000,3,Chuyển khoản,4
+DH02007,08/06/2025,KH0084,Hồ Chí Minh,Mỹ phẩm,293000,2,Tiền mặt,2
+DH02008,08/06/2025,KH0226,Hồ Chí Minh,Đồ uống,39000,2,Chuyển khoản,4
+DH02009,08/06/2025,KH0497,Hồ Chí Minh,Mỹ phẩm,125000,4,Ví điện tử,5
+DH02010,08/06/2025,KH0111,Cần Thơ,Đồ uống,20000,6,Chuyển khoản,3
+DH02011,08/06/2025,,Hà Nội,Thực phẩm,80000,2,Tiền mặt,
+DH02012,08/06/2025,KH0035,Hà Nội,Thực phẩm,106000,3,Chuyển khoản,
+DH02013,08/06/2025,KH0224,Hồ Chí Minh,Thực phẩm,121000,3,Ví điện tử,4
+DH02014,08/06/2025,KH0236,Hà Nội,Thực phẩm,93000,6,Ví điện tử,2
+DH02015,08/06/2025,KH0175,Cần Thơ,Gia dụng,335000,2,Ví điện tử,4
+DH02016,08/06/2025,KH0476,Hà Nội,Thực phẩm,132000,1,Ví điện tử,3
+DH02017,08/06/2025,KH0171,  Hà Nội,Thực phẩm,92000,4,Ví điện tử,4
+DH02018,08/06/2025,KH0148,Đà Nẵng,Đồ uống,42000,999,Tiền mặt,2
+DH02019,08/06/2025,,Cần Thơ,Đồ uống,15000,3,Tiền mặt,3
+DH02020,08/06/2025,KH0103,Hồ Chí Minh,Mỹ phẩm,415000,9,Chuyển khoản,2
+DH02021,08/06/2025,KH0016,Đà Nẵng ,Đồ uống,40000,5,Chuyển khoản,5
+DH02022,08/06/2025,KH0310,Hà Nội,Thực phẩm,106000,1,Ví điện tử,4
+DH02023,08/06/2025,KH0308,Hà Nội,Mỹ phẩm,287000,1,Ví điện tử,2
+DH02024,08/06/2025,KH0191,CẦN THƠ,Thực phẩm,116000,3,Chuyển khoản,4
+DH02025,08/06/2025,KH0440,Hà Nội,Đồ uống,43000,4,Ví điện tử,1
+DH02026,08/06/2025,KH0463,HÀ NỘI,Đồ uống,31000,5,Chuyển khoản,3
+DH02027,08/06/2025,KH0525,ĐÀ NẴNG,Mỹ phẩm,212000,1,Ví điện tử,5
+DH02028,09/06/2025,KH0369,Hà Nội,Mỹ phẩm,202000,3,Chuyển khoản,4
+DH02029,09/06/2025,KH0252,Hồ Chí Minh,Đồ uống,32000,5,Ví điện tử,4
+DH02030,09/06/2025,KH0351,Hà Nội,Văn phòng phẩm,37000,6,Tiền mặt,5
+DH02031,09/06/2025,KH0461,Hà Nội,Đồ uống,43000,2,Tiền mặt,5
+DH02031,09/06/2025,KH0461,Hà Nội,Đồ uống,43000,2,Tiền mặt,5
+DH02032,09/06/2025,KH0043,Hồ Chí Minh,Thực phẩm,32000,2,Ví điện tử,5
+DH02033,09/06/2025,KH0470,Hà Nội,Đồ uống,25000,2,Ví điện tử,3
+DH02033,09/06/2025,KH0470,Hà Nội,Đồ uống,25000,2,Ví điện tử,3
+DH02034,09/06/2025,KH0351,Hà Nội,Gia dụng,200000,4,Chuyển khoản,4
+DH02035,09/06/2025,,hà nội,Mỹ phẩm,317000,1,Tiền mặt,
+DH02036,09/06/2025,KH0014,Hà Nội,Mỹ phẩm,263000,8,Chuyển khoản,4
+DH02037,09/06/2025,KH0482,Hồ Chí Minh,Đồ uống,19000,4,Ví điện tử,4
+DH02038,09/06/2025,KH0248,Hà Nội,Văn phòng phẩm,44000,3,Ví điện tử,4
+DH02039,09/06/2025,KH0167,Hà Nội,Mỹ phẩm,346000,2,Chuyển khoản,4
+DH02040,09/06/2025,KH0119, hà nội  ,Mỹ phẩm,379000,2,Chuyển khoản,
+DH02041,09/06/2025,KH0224,Cần Thơ,Thực phẩm,74000,3,Ví điện tử,4
+DH02042,09/06/2025,KH0251,Hồ Chí Minh,Mỹ phẩm,267000,1,Ví điện tử,4
+DH02043,10/06/2025,KH0233,Hà Nội,Đồ uống,27000,4,Chuyển khoản,4
+DH02044,10/06/2025,KH0311,  Hà Nội,Thực phẩm,42000,4,Tiền mặt,1
+DH02045,10/06/2025,KH0199,Hà Nội,Văn phòng phẩm,50000,6,Ví điện tử,3
+DH02046,10/06/2025,KH0269,Hà Nội,Đồ uống,22000,4,Ví điện tử,3
+DH02047,10/06/2025,KH0109,Đà Nẵng ,Văn phòng phẩm,53000,4,Tiền mặt,5
+DH02048,10/06/2025,KH0051,Huế,Thực phẩm,135000,2,Tiền mặt,4
+DH02049,10/06/2025,KH0365,Hà Nội,Đồ uống,33000,8,Chuyển khoản,1
+DH02050,10/06/2025,KH0320,Hồ Chí Minh,Đồ uống,17000,5,Ví điện tử,
+DH02051,10/06/2025,KH0277,Hà Nội,Đồ uống,13000,3,Chuyển khoản,4
+DH02052,10/06/2025,KH0102,Đà Nẵng,Thực phẩm,145000,3,Ví điện tử,5
+DH02053,10/06/2025,KH0355,Hà Nội,Đồ uống,31000,4,Tiền mặt,
+DH02054,10/06/2025,KH0420,Hà Nội,Thực phẩm,124000,2,Tiền mặt,3
+DH02055,10/06/2025,KH0427,Hà Nội,Thực phẩm,123000,1,Ví điện tử,4
+DH02056,10/06/2025,KH0361,Hồ Chí Minh,Đồ uống,38000,5,Chuyển khoản,5
+DH02057,10/06/2025,KH0153,Hà Nội,Thực phẩm,29000,2,Chuyển khoản,
+DH02058,10/06/2025,KH0026,Hà Nội,Gia dụng,597000,4,Tiền mặt,3
+DH02059,11/06/2025,KH0361, đà nẵng  ,Thực phẩm,89000,,Tiền mặt,3
+DH02060,11/06/2025,KH0223,Hồ Chí Minh,Thực phẩm,127000,2,Ví điện tử,3
+DH02061,11/06/2025,KH0161,Huế,Đồ uống,45000,3,Chuyển khoản,5
+DH02062,11/06/2025,KH0440,Đà Nẵng,Đồ uống,39000,3,Ví điện tử,3
+DH02063,11/06/2025,KH0297,Hà Nội,Đồ uống,14000,3,Ví điện tử,
+DH02064,11/06/2025,KH0151,Hà Nội,Đồ uống,33000,5,Ví điện tử,4
+DH02065,11/06/2025,KH0461,Huế,Thực phẩm,80000,4,Ví điện tử,2
+DH02066,11/06/2025,,Huế,Thực phẩm,134000,1,Ví điện tử,4
+DH02067,11/06/2025,KH0220,Hà Nội,Văn phòng phẩm,12000,4,Ví điện tử,3
+DH02068,11/06/2025,KH0208,Hồ Chí Minh,Mỹ phẩm,319000,1,Chuyển khoản,3
+DH02069,11/06/2025,KH0050,HÀ NỘI,Đồ uống,30000,,Ví điện tử,5
+DH02070,11/06/2025,KH0425,Hồ Chí Minh,Thực phẩm,30000,3,Ví điện tử,3
+DH02071,11/06/2025,KH0258,Hà Nội,Đồ uống,29000,5,Ví điện tử,4
+DH02072,12/06/2025,KH0227,Đà Nẵng,Đồ uống,22000,8,Chuyển khoản,
+DH02073,12/06/2025,KH0261,Cần Thơ,Thực phẩm,85000,4,Chuyển khoản,4
+DH02074,12/06/2025,KH0281,Hồ Chí Minh,Đồ uống,36000,2,Tiền mặt,1
+DH02075,12/06/2025,KH0033,Hồ Chí Minh,Đồ uống,16000,5,Chuyển khoản,
+DH02076,12/06/2025,KH0204,Hà Nội ,Đồ uống,17000,11,Ví điện tử,3
+DH02077,12/06/2025,,Hồ Chí Minh,Thực phẩm,89000,3,Chuyển khoản,3
+DH02078,12/06/2025,KH0095,Hà Nội,Đồ uống,24000,4,Tiền mặt,4
+DH02079,12/06/2025,KH0483,Hà Nội,Đồ uống,16000,5,Chuyển khoản,
+DH02080,12/06/2025,KH0013,Hồ Chí Minh,Thực phẩm,109000,3,Tiền mặt,3
+DH02081,12/06/2025,KH0171,Đà Nẵng,Văn phòng phẩm,10000,4,Tiền mặt,3
+DH02082,12/06/2025,KH0267,Hồ Chí Minh,Văn phòng phẩm,54000,3,Ví điện tử,
+DH02083,12/06/2025,,Hà Nội,Mỹ phẩm,146000,3,Chuyển khoản,3
+DH02084,12/06/2025,KH0384, hà nội  ,Thực phẩm,84000,3,Tiền mặt,1
+DH02084,12/06/2025,KH0384, hà nội  ,Thực phẩm,84000,3,Tiền mặt,1
+DH02085,12/06/2025,KH0451,Đà Nẵng,Thực phẩm,68000,5,Tiền mặt,
+DH02086,12/06/2025,KH0312,Hà Nội,Đồ uống,20000,6,Chuyển khoản,4
+DH02087,12/06/2025,KH0077,Cần Thơ,Đồ uống,27000,5,Ví điện tử,
+DH02088,12/06/2025,KH0401,Cần Thơ,Thực phẩm,99000,3,Ví điện tử,4
+DH02089,12/06/2025,KH0138,Hà Nội,Gia dụng,163000,3,Ví điện tử,
+DH02090,12/06/2025,KH0407,Cần Thơ,Đồ uống,35000,2,Tiền mặt,
+DH02091,13/06/2025,KH0352,Hà Nội,Gia dụng,484000,1,Chuyển khoản,4
+DH02092,13/06/2025,KH0471,Hà Nội,Mỹ phẩm,350000,5,Ví điện tử,5
+DH02093,13/06/2025,KH0318, hồ chí minh  ,Văn phòng phẩm,5000,7,Chuyển khoản,4
+DH02094,13/06/2025,KH0410,HUẾ,Đồ uống,32000,4,Tiền mặt,2
+DH02095,13/06/2025,KH0477,Cần Thơ,Thực phẩm,41000,2,Chuyển khoản,4
+DH02096,13/06/2025,KH0102, hà nội  ,Mỹ phẩm,366000,5,Tiền mặt,3
+DH02097,13/06/2025,KH0139,Cần Thơ,Thực phẩm,99000,3,Chuyển khoản,4
+DH02098,13/06/2025,KH0104,Hồ Chí Minh,Văn phòng phẩm,33000,4,Ví điện tử,3
+DH02099,13/06/2025,KH0147,Hồ Chí Minh,Gia dụng,422000,3,Chuyển khoản,4
+DH02100,13/06/2025,KH0245,Huế,Thực phẩm,110000,6,Ví điện tử,5
+DH02101,13/06/2025,KH0046,Đà Nẵng ,Mỹ phẩm,376000,4,Chuyển khoản,2
+DH02102,13/06/2025,KH0295,Hồ Chí Minh,Mỹ phẩm,406000,3,Ví điện tử,4
+DH02103,13/06/2025,KH0144,HỒ CHÍ MINH,Thực phẩm,44000,4,Chuyển khoản,4
+DH02104,13/06/2025,KH0213,Cần Thơ,Thực phẩm,82000,5,Chuyển khoản,4
+DH02105,13/06/2025,KH0107,Hồ Chí Minh,Thực phẩm,47000,1,Ví điện tử,
+DH02106,13/06/2025,KH0251,Cần Thơ,Thực phẩm,22000,4,Chuyển khoản,
+DH02107,13/06/2025,KH0401,Cần Thơ,Gia dụng,159000,3,Chuyển khoản,5
+DH02108,14/06/2025,KH0137,Hồ Chí Minh,Thực phẩm,133000,6,Ví điện tử,5
+DH02109,14/06/2025,KH0004,Hà Nội,Đồ uống,20000,2,Chuyển khoản,3
+DH02110,14/06/2025,KH0382,Đà Nẵng,Đồ uống,36000,,Tiền mặt,
+DH02111,14/06/2025,KH0073,Huế,Văn phòng phẩm,24000,1,Chuyển khoản,5
+DH02112,14/06/2025,KH0489,Cần Thơ,Đồ uống,39000,3,Chuyển khoản,4
+DH02113,14/06/2025,KH0258,Hà Nội,Đồ uống,13000,4,Tiền mặt,4
+DH02114,14/06/2025,KH0491,Hồ Chí Minh,Đồ uống,16000,3,Tiền mặt,1
+DH02115,14/06/2025,KH0303,Hồ Chí Minh ,Mỹ phẩm,392000,,Tiền mặt,5
+DH02116,14/06/2025,KH0159,Hà Nội,Mỹ phẩm,441000,4,Ví điện tử,4
+DH02117,14/06/2025,KH0418,hồ chí minh,Văn phòng phẩm,44000,5,Ví điện tử,5
+DH02118,14/06/2025,KH0278,HUẾ,Thực phẩm,83000,8,Chuyển khoản,4
+DH02118,14/06/2025,KH0278,HUẾ,Thực phẩm,83000,8,Chuyển khoản,4
+DH02119,14/06/2025,KH0006,Đà Nẵng ,Thực phẩm,100000,4,Tiền mặt,5
+DH02120,14/06/2025,KH0527,Hà Nội,Mỹ phẩm,210000,2,Tiền mặt,
+DH02121,14/06/2025,KH0200,Huế,Thực phẩm,33000,3,Tiền mặt,4
+DH02122,14/06/2025,KH0013, hồ chí minh  ,Thực phẩm,124000,5,Chuyển khoản,4
+DH02123,15/06/2025,KH0427,Hồ Chí Minh,Mỹ phẩm,336000,4,Chuyển khoản,
+DH02124,15/06/2025,KH0085,Đà Nẵng,Văn phòng phẩm,59000,5,Tiền mặt,5
+DH02125,15/06/2025,KH0280,Hồ Chí Minh,Gia dụng,331000,7,Chuyển khoản,4
+DH02126,15/06/2025,KH0200,Hà Nội,Mỹ phẩm,418000,4,Ví điện tử,5
+DH02127,15/06/2025,KH0488,Hồ Chí Minh,Gia dụng,566000,1,Ví điện tử,4
+DH02128,15/06/2025,KH0500,Hồ Chí Minh,Thực phẩm,119000,2,Ví điện tử,2
+DH02129,15/06/2025,KH0174,Hà Nội,Thực phẩm,30000,6,Tiền mặt,4
+DH02130,15/06/2025,KH0101,đà nẵng,Mỹ phẩm,169000,3,Chuyển khoản,5
+DH02131,15/06/2025,KH0450,Đà Nẵng,Đồ uống,35000,4,Tiền mặt,5
+DH02132,15/06/2025,KH0451,Cần Thơ ,Thực phẩm,31000,2,Tiền mặt,2
+DH02133,15/06/2025,,Hồ Chí Minh,Thực phẩm,125000,1,Chuyển khoản,3
+DH02134,15/06/2025,KH0473,  Hà Nội,Gia dụng,456000,4,Chuyển khoản,5
+DH02135,15/06/2025,KH0150,Hồ Chí Minh,Gia dụng,225000,1,Tiền mặt,3
+DH02136,15/06/2025,KH0171,Đà Nẵng ,Gia dụng,326000,2,Tiền mặt,1
+DH02137,15/06/2025,KH0052,Cần Thơ ,Thực phẩm,66000,3,Tiền mặt,3
+DH02138,15/06/2025,KH0006,Hồ Chí Minh,Mỹ phẩm,370000,6,Tiền mặt,4
+DH02139,16/06/2025,KH0253,Hồ Chí Minh,Thực phẩm,66000,6,Chuyển khoản,4
+DH02140,16/06/2025,KH0285,Hà Nội,Đồ uống,35000,1,Chuyển khoản,5
+DH02141,16/06/2025,KH0025,Đà Nẵng,Văn phòng phẩm,58000,4,Tiền mặt,5
+DH02142,16/06/2025,KH0457,Cần Thơ,Thực phẩm,147000,3,Chuyển khoản,5
+DH02142,16/06/2025,KH0457,Cần Thơ,Thực phẩm,147000,3,Chuyển khoản,5
+DH02143,16/06/2025,KH0055, hà nội  ,Văn phòng phẩm,23000,8,Ví điện tử,
+DH02144,16/06/2025,KH0335,Đà Nẵng,Đồ uống,30000,4,Chuyển khoản,5
+DH02145,16/06/2025,KH0081,Hồ Chí Minh,Thực phẩm,93000,7,Chuyển khoản,3
+DH02146,16/06/2025,KH0327, hà nội  ,Thực phẩm,63000,5,Chuyển khoản,
+DH02147,16/06/2025,KH0347, hồ chí minh  ,Đồ uống,18000,6,Ví điện tử,4
+DH02148,16/06/2025,KH0271,Hà Nội,Thực phẩm,67000,5,Tiền mặt,4
+DH02149,16/06/2025,KH0139,Đà Nẵng,Thực phẩm,84000,4,Tiền mặt,4
+DH02150,16/06/2025,KH0145,Hà Nội,Đồ uống,18000,4,Tiền mặt,5
+DH02151,16/06/2025,KH0450,hồ chí minh,Thực phẩm,90000,5,Chuyển khoản,
+DH02152,16/06/2025,KH0171,Cần Thơ,Đồ uống,45000,5,Chuyển khoản,
+DH02153,16/06/2025,KH0203,hà nội,Thực phẩm,150000,1,Chuyển khoản,2
+DH02154,16/06/2025,KH0132,ĐÀ NẴNG,Văn phòng phẩm,60000,3,Chuyển khoản,3
+DH02155,16/06/2025,KH0496,Hồ Chí Minh,Văn phòng phẩm,33000,4,Chuyển khoản,4
+DH02156,16/06/2025,KH0437,Hồ Chí Minh,Mỹ phẩm,259000,3,Chuyển khoản,1
+DH02157,17/06/2025,KH0482,Hồ Chí Minh,Đồ uống,36000,6,Tiền mặt,1
+DH02158,17/06/2025,,Hà Nội,Văn phòng phẩm,47000,7,Tiền mặt,
+DH02159,17/06/2025,KH0260,Hà Nội,Gia dụng,440000,5,Chuyển khoản,
+DH02160,17/06/2025,KH0090,Hồ Chí Minh,Mỹ phẩm,185000,2,Tiền mặt,
+DH02161,17/06/2025,KH0309,Cần Thơ,Đồ uống,15000,5,Chuyển khoản,4
+DH02162,17/06/2025,KH0166,Hà Nội,Mỹ phẩm,415000,5,Ví điện tử,4
+DH02163,17/06/2025,KH0165,Hồ Chí Minh,Đồ uống,23000,9,Ví điện tử,
+DH02164,17/06/2025,KH0235,Huế,Gia dụng,170000,2,Chuyển khoản,
+DH02165,17/06/2025,,Hồ Chí Minh,Thực phẩm,58000,2,Chuyển khoản,2
+DH02166,17/06/2025,KH0150,Đà Nẵng,Thực phẩm,113000,4,Tiền mặt,4
+DH02167,17/06/2025,KH0263,Đà Nẵng,Gia dụng,306000,1,Tiền mặt,4
+DH02168,17/06/2025,KH0080,Hồ Chí Minh,Đồ uống,26000,3,Ví điện tử,3
+DH02169,17/06/2025,KH0151,Hồ Chí Minh,Thực phẩm,44000,2,Tiền mặt,1
+DH02170,17/06/2025,KH0452,Hà Nội,Đồ uống,43000,4,Ví điện tử,2
+DH02171,17/06/2025,KH0253,Huế,Thực phẩm,133000,4,Chuyển khoản,
+DH02172,17/06/2025,KH0087,Hà Nội,Đồ uống,29000,5,Ví điện tử,
+DH02173,17/06/2025,KH0479,Hà Nội,Gia dụng,230000,4,Ví điện tử,5
+DH02174,17/06/2025,KH0507,Đà Nẵng,Văn phòng phẩm,17000,4,Ví điện tử,4
+DH02175,17/06/2025,KH0559,Hồ Chí Minh,Thực phẩm,71000,1,Ví điện tử,3
+DH02176,18/06/2025,KH0311,hà nội,Đồ uống,14000,3,Tiền mặt,4
+DH02177,18/06/2025,KH0243,Huế,Đồ uống,23000,2,Chuyển khoản,
+DH02178,18/06/2025,KH0145,Huế,Gia dụng,320000,2,Chuyển khoản,4
+DH02179,18/06/2025,KH0204,Hồ Chí Minh,Văn phòng phẩm,18000,6,Ví điện tử,
+DH02180,18/06/2025,KH0464,Hồ Chí Minh,Gia dụng,452000,1,Ví điện tử,
+DH02181,18/06/2025,KH0022,Hà Nội,Đồ uống,29000,5,Chuyển khoản,
+DH02182,18/06/2025,KH0196,Hà Nội,Đồ uống,35000,4,Tiền mặt,
+DH02183,18/06/2025,KH0395,Hà Nội,Đồ uống,25000,2,Chuyển khoản,3
+DH02184,18/06/2025,KH0385,Đà Nẵng,Thực phẩm,93000,6,Tiền mặt,
+DH02185,18/06/2025,KH0450,Hà Nội,Gia dụng,313000,2,Ví điện tử,3
+DH02186,18/06/2025,KH0437,Hồ Chí Minh,Đồ uống,13000,5,Chuyển khoản,
+DH02187,18/06/2025,KH0510,Hồ Chí Minh,Mỹ phẩm,363000,1,Tiền mặt,5
+DH02188,18/06/2025,KH0228,Đà Nẵng,Đồ uống,36000,8,Tiền mặt,4
+DH02189,18/06/2025,KH0151,Cần Thơ,Thực phẩm,60000,2,Tiền mặt,4
+DH02190,18/06/2025,KH0252,Huế ,Văn phòng phẩm,6000,5,Tiền mặt,5
+DH02191,18/06/2025,KH0061, huế  ,Thực phẩm,42000,4,Tiền mặt,1
+DH02192,18/06/2025,KH0491,Cần Thơ,Văn phòng phẩm,9000,2,Chuyển khoản,2
+DH02193,18/06/2025,,Hà Nội,Thực phẩm,28000,2,Chuyển khoản,3
+DH02194,18/06/2025,KH0443,Hà Nội,Đồ uống,43000,2,Ví điện tử,5
+DH02195,19/06/2025,KH0053,Hà Nội ,Mỹ phẩm,369000,2,Chuyển khoản,2
+DH02196,19/06/2025,KH0013,cần thơ,Thực phẩm,102000,5,Ví điện tử,4
+DH02197,19/06/2025,KH0454,Hồ Chí Minh,Thực phẩm,31000,,Ví điện tử,5
+DH02198,19/06/2025,KH0288,Đà Nẵng,Thực phẩm,144000,4,Tiền mặt,2
+DH02199,19/06/2025,KH0224,Hồ Chí Minh,Thực phẩm,101000,6,Chuyển khoản,4
+DH02200,19/06/2025,KH0028,Hồ Chí Minh,Đồ uống,42000,6,Tiền mặt,5
+DH02201,19/06/2025,KH0143,Hà Nội,Thực phẩm,46000,3,Chuyển khoản,
+DH02202,19/06/2025,KH0382,Hà Nội,Đồ uống,22000,3,Ví điện tử,5
+DH02203,19/06/2025,KH0040, đà nẵng  ,Thực phẩm,43000,4,Chuyển khoản,4
+DH02204,19/06/2025,KH0310,Hà Nội,Đồ uống,34000,2,Chuyển khoản,2
+DH02205,19/06/2025,KH0195,Huế,Đồ uống,45000,3,Ví điện tử,4
+DH02206,19/06/2025,KH0364, hồ chí minh  ,Đồ uống,37000,,Ví điện tử,
+DH02207,19/06/2025,KH0438,Đà Nẵng,Đồ uống,15000,5,Tiền mặt,3
+DH02208,19/06/2025,KH0099, huế  ,Thực phẩm,27000,1,Chuyển khoản,1
+DH02209,19/06/2025,KH0438,Huế,Thực phẩm,78000,3,Chuyển khoản,5
+DH02210,19/06/2025,KH0317,Đà Nẵng,Mỹ phẩm,227000,2,Tiền mặt,4
+DH02211,19/06/2025,KH0235,Hà Nội,Mỹ phẩm,250000,1,Tiền mặt,4
+DH02212,19/06/2025,KH0418,Hà Nội,Thực phẩm,40000,4,Ví điện tử,2
+DH02213,19/06/2025,KH0418,Hà Nội,Đồ uống,40000,2,Chuyển khoản,4
+DH02214,19/06/2025,,Hồ Chí Minh,Gia dụng,344000,2,Tiền mặt,3
+DH02215,19/06/2025,KH0221,Hồ Chí Minh ,Gia dụng,412000,2,Ví điện tử,5
+DH02216,19/06/2025,KH0130,Huế,Thực phẩm,93000,4,Ví điện tử,3
+DH02217,19/06/2025,KH0468,Hà Nội,Đồ uống,29000,5,Chuyển khoản,5
+DH02218,20/06/2025,KH0109,  Hà Nội,Đồ uống,24000,5,Ví điện tử,1
+DH02218,20/06/2025,KH0109,  Hà Nội,Đồ uống,24000,5,Ví điện tử,1
+DH02219,20/06/2025,KH0489,Hà Nội,Văn phòng phẩm,41000,6,Chuyển khoản,
+DH02220,20/06/2025,KH0494,Hà Nội,Thực phẩm,107000,3,Tiền mặt,3
+DH02221,20/06/2025,,Hà Nội,Thực phẩm,129000,3,Chuyển khoản,3
+DH02222,20/06/2025,KH0307,Hà Nội,Mỹ phẩm,355000,1,Chuyển khoản,
+DH02223,20/06/2025,KH0072,  Đà Nẵng,Mỹ phẩm,225000,2,Tiền mặt,3
+DH02224,20/06/2025,KH0327,hà nội,Văn phòng phẩm,26000,4,Chuyển khoản,
+DH02225,20/06/2025,KH0192,Đà Nẵng,Thực phẩm,144000,1,Tiền mặt,3
+DH02226,20/06/2025,KH0468,Huế,Đồ uống,33000,5,Chuyển khoản,3
+DH02227,20/06/2025,KH0147,Hồ Chí Minh,Đồ uống,22000,2,Tiền mặt,3
+DH02228,20/06/2025,KH0033,Cần Thơ,Mỹ phẩm,187000,5,Ví điện tử,3
+DH02229,20/06/2025,KH0483,Đà Nẵng,Gia dụng,513000,1,Tiền mặt,5
+DH02230,21/06/2025,KH0047,  Hà Nội,Văn phòng phẩm,52000,3,Chuyển khoản,2
+DH02231,21/06/2025,KH0285,Hồ Chí Minh,Thực phẩm,114000,4,Chuyển khoản,5
+DH02232,21/06/2025,KH0420,Hồ Chí Minh,Thực phẩm,42000,1,Chuyển khoản,5
+DH02233,21/06/2025,,Hồ Chí Minh,Thực phẩm,102000,1,Ví điện tử,4
+DH02234,21/06/2025,KH0378,Huế,Văn phòng phẩm,40000,8,Ví điện tử,3
+DH02235,21/06/2025,KH0388,HỒ CHÍ MINH,Văn phòng phẩm,55000,3,Ví điện tử,5
+DH02236,21/06/2025,,HỒ CHÍ MINH,Thực phẩm,62000,2,Chuyển khoản,
+DH02237,21/06/2025,KH0265, hà nội  ,Thực phẩm,97000,5,Chuyển khoản,3
+DH02238,21/06/2025,KH0176,Hà Nội,Văn phòng phẩm,27000,4,Ví điện tử,
+DH02239,21/06/2025,KH0258,Hồ Chí Minh ,Mỹ phẩm,359000,5,Ví điện tử,3
+DH02240,21/06/2025,KH0119,Hà Nội,Gia dụng,578000,3,Tiền mặt,5
+DH02241,21/06/2025,KH0408,Hồ Chí Minh,Thực phẩm,22000,1,Ví điện tử,4
+DH02242,21/06/2025,KH0537,Hồ Chí Minh,Đồ uống,27000,3,Ví điện tử,3
+DH02243,22/06/2025,KH0155,Hà Nội,Thực phẩm,33000,2,Chuyển khoản,5
+DH02244,22/06/2025,KH0122,Hà Nội,Mỹ phẩm,341000,4,Tiền mặt,5
+DH02245,22/06/2025,KH0364, hồ chí minh  ,Mỹ phẩm,229000,5,Chuyển khoản,3
+DH02246,22/06/2025,,HỒ CHÍ MINH,Mỹ phẩm,261000,3,Tiền mặt,4
+DH02247,22/06/2025,KH0187,Hồ Chí Minh,Thực phẩm,51000,4,Tiền mặt,4
+DH02248,22/06/2025,KH0268,Đà Nẵng,Đồ uống,16000,5,Ví điện tử,5
+DH02249,22/06/2025,KH0037,Hồ Chí Minh,Gia dụng,564000,1,Ví điện tử,4
+DH02250,22/06/2025,KH0299,Hà Nội,Thực phẩm,36000,3,Tiền mặt,4
+DH02251,22/06/2025,KH0257,Hà Nội,Đồ uống,42000,5,Chuyển khoản,3
+DH02252,22/06/2025,KH0023,Hà Nội,Thực phẩm,37000,6,Ví điện tử,5
+DH02253,22/06/2025,,Đà Nẵng,Đồ uống,18000,9,Chuyển khoản,2
+DH02254,22/06/2025,KH0021,Hà Nội,Mỹ phẩm,399000,5,Chuyển khoản,
+DH02255,22/06/2025,KH0324,Huế,Đồ uống,33000,5,Tiền mặt,
+DH02256,22/06/2025,KH0348,Đà Nẵng,Thực phẩm,102000,1,Tiền mặt,3
+DH02257,22/06/2025,KH0418,Hồ Chí Minh,Văn phòng phẩm,31000,1,Ví điện tử,4
+DH02258,22/06/2025,KH0299,đà nẵng,Gia dụng,592000,2,Tiền mặt,5
+DH02259,22/06/2025,KH0165,Hồ Chí Minh,Mỹ phẩm,423000,5,Ví điện tử,
+DH02260,22/06/2025,KH0382,Hồ Chí Minh,Văn phòng phẩm,35000,,Chuyển khoản,3
+DH02261,23/06/2025,KH0100,Hồ Chí Minh,Thực phẩm,135000,4,Ví điện tử,1
+DH02262,23/06/2025,KH0353,Hà Nội,Đồ uống,45000,3,Ví điện tử,5
+DH02263,23/06/2025,KH0366,Huế,Thực phẩm,125000,4,Chuyển khoản,
+DH02264,23/06/2025,KH0211,Cần Thơ,Đồ uống,26000,6,Tiền mặt,5
+DH02265,23/06/2025,KH0330,Hà Nội,Đồ uống,42000,3,Chuyển khoản,5
+DH02266,23/06/2025,KH0423,Hà Nội,Văn phòng phẩm,43000,1,Ví điện tử,3
+DH02267,23/06/2025,KH0408,Đà Nẵng ,Thực phẩm,141000,4,Tiền mặt,5
+DH02268,23/06/2025,KH0443,Đà Nẵng,Đồ uống,33000,3,Ví điện tử,2
+DH02269,23/06/2025,KH0420,Đà Nẵng,Thực phẩm,74000,4,Ví điện tử,3
+DH02270,23/06/2025,KH0227,  Hồ Chí Minh,Mỹ phẩm,208000,4,Tiền mặt,
+DH02271,23/06/2025,KH0298,Hồ Chí Minh,Văn phòng phẩm,60000,8,Ví điện tử,
+DH02272,23/06/2025,KH0180,  Đà Nẵng,Đồ uống,32000,8,Chuyển khoản,
+DH02273,23/06/2025,KH0323,Đà Nẵng,Thực phẩm,62000,5,Ví điện tử,4
+DH02274,23/06/2025,KH0155,Hồ Chí Minh,Mỹ phẩm,343000,1,Tiền mặt,2
+DH02275,23/06/2025,KH0166,Cần Thơ,Thực phẩm,34000,4,Tiền mặt,
+DH02276,24/06/2025,KH0143,Huế,Thực phẩm,128000,2,Tiền mặt,
+DH02277,24/06/2025,KH0274,Đà Nẵng,Thực phẩm,75000,3,Tiền mặt,4
+DH02278,24/06/2025,KH0060,HÀ NỘI,Mỹ phẩm,345000,3,Ví điện tử,1
+DH02279,24/06/2025,KH0069,Hồ Chí Minh ,Thực phẩm,104000,2,Ví điện tử,2
+DH02280,24/06/2025,KH0335,Cần Thơ,Mỹ phẩm,416000,2,Ví điện tử,
+DH02281,24/06/2025,KH0493,Hà Nội,Văn phòng phẩm,29000,5,Ví điện tử,
+DH02282,24/06/2025,KH0049,hồ chí minh,Văn phòng phẩm,19000,3,Chuyển khoản,4
+DH02283,24/06/2025,KH0076,Hồ Chí Minh,Mỹ phẩm,296000,3,Tiền mặt,
+DH02284,24/06/2025,KH0349,Hà Nội,Đồ uống,45000,5,Ví điện tử,4
+DH02285,24/06/2025,KH0427,Hà Nội,Văn phòng phẩm,38000,2,Tiền mặt,3
+DH02286,24/06/2025,KH0306,Hồ Chí Minh,Đồ uống,22000,6,Ví điện tử,3
+DH02287,24/06/2025,KH0298,Đà Nẵng,Thực phẩm,36000,2,Tiền mặt,1
+DH02288,24/06/2025,KH0085,Đà Nẵng,Gia dụng,444000,4,Ví điện tử,3
+DH02289,24/06/2025,KH0385, hà nội  ,Đồ uống,33000,3,Ví điện tử,4
+DH02290,24/06/2025,,HUẾ,Đồ uống,18000,4,Chuyển khoản,3
+DH02291,24/06/2025,KH0020,Hà Nội,Mỹ phẩm,159000,6,Ví điện tử,
+DH02292,24/06/2025,KH0379,Đà Nẵng,Mỹ phẩm,389000,3,Ví điện tử,3
+DH02293,25/06/2025,KH0149,Hà Nội,Thực phẩm,96000,4,Ví điện tử,5
+DH02294,25/06/2025,KH0280,HÀ NỘI,Thực phẩm,131000,6,Chuyển khoản,5
+DH02295,25/06/2025,,Cần Thơ,Đồ uống,26000,3,Tiền mặt,
+DH02296,25/06/2025,KH0151,Hà Nội,Thực phẩm,122000,4,Chuyển khoản,
+DH02297,25/06/2025,KH0068,ĐÀ NẴNG,Gia dụng,278000,2,Chuyển khoản,
+DH02298,25/06/2025,KH0394,Hà Nội,Thực phẩm,72000,3,Chuyển khoản,
+DH02299,25/06/2025,KH0454,HỒ CHÍ MINH,Gia dụng,273000,2,Ví điện tử,5
+DH02300,25/06/2025,KH0132,Đà Nẵng,Đồ uống,16000,4,Chuyển khoản,
+DH02301,25/06/2025,KH0282,Đà Nẵng ,Đồ uống,43000,2,Ví điện tử,3
+DH02302,25/06/2025,KH0131,Hà Nội,Đồ uống,14000,2,Ví điện tử,2
+DH02303,25/06/2025,KH0127,Hồ Chí Minh,Thực phẩm,31000,1,Chuyển khoản,3
+DH02304,25/06/2025,KH0362,Hà Nội,Văn phòng phẩm,57000,,Ví điện tử,4
+DH02305,25/06/2025,KH0491,Cần Thơ,Mỹ phẩm,107000,2,Ví điện tử,5
+DH02306,25/06/2025,KH0199,Hồ Chí Minh,Mỹ phẩm,372000,3,Ví điện tử,
+DH02307,26/06/2025,KH0146,Hồ Chí Minh,Mỹ phẩm,335000,3,Ví điện tử,4
+DH02308,26/06/2025,KH0299,Đà Nẵng,Đồ uống,34000,2,Ví điện tử,
+DH02309,26/06/2025,KH0306,Hà Nội,Đồ uống,39000,4,Ví điện tử,
+DH02310,26/06/2025,KH0240,Huế,Đồ uống,17000,6,Ví điện tử,4
+DH02311,26/06/2025,KH0400,Cần Thơ,Thực phẩm,58000,2,Tiền mặt,3
+DH02312,26/06/2025,KH0371,Hồ Chí Minh,Thực phẩm,120000,4,Chuyển khoản,4
+DH02313,26/06/2025,KH0375,Hồ Chí Minh,Đồ uống,17000,4,Ví điện tử,4
+DH02314,26/06/2025,KH0257,Hồ Chí Minh,Thực phẩm,109000,3,Tiền mặt,3
+DH02315,26/06/2025,KH0387,Cần Thơ,Đồ uống,24000,8,Tiền mặt,4
+DH02316,26/06/2025,KH0219, hà nội  ,Thực phẩm,26000,3,Ví điện tử,2
+DH02317,26/06/2025,KH0047,Hà Nội,Thực phẩm,51000,6,Tiền mặt,
+DH02318,26/06/2025,,CẦN THƠ,Văn phòng phẩm,18000,5,Ví điện tử,
+DH02319,26/06/2025,KH0487,  Hồ Chí Minh,Văn phòng phẩm,53000,11,Tiền mặt,5
+DH02320,26/06/2025,KH0328,Hà Nội,Mỹ phẩm,194000,2,Chuyển khoản,
+DH02321,26/06/2025,KH0414,Huế,Mỹ phẩm,255000,1,Tiền mặt,4
+DH02322,26/06/2025,KH0476,Huế,Thực phẩm,87000,2,Tiền mặt,3
+DH02323,26/06/2025,KH0002,Hồ Chí Minh,Đồ uống,14000,4,Ví điện tử,3
+DH02324,26/06/2025,KH0009,Cần Thơ,Thực phẩm,20000,4,Tiền mặt,3
+DH02325,26/06/2025,KH0297,Hà Nội,Mỹ phẩm,424000,5,Chuyển khoản,4
+DH02326,26/06/2025,KH0184,Hồ Chí Minh,Mỹ phẩm,439000,3,Tiền mặt,
+DH02327,26/06/2025,KH0110,Đà Nẵng,Thực phẩm,81000,2,Tiền mặt,2
+DH02328,27/06/2025,,Đà Nẵng,Văn phòng phẩm,20000,3,Chuyển khoản,4
+DH02329,27/06/2025,KH0219,Huế,Đồ uống,34000,4,Chuyển khoản,5
+DH02330,27/06/2025,KH0441,Hà Nội,Thực phẩm,67000,2,Chuyển khoản,3
+DH02331,27/06/2025,KH0404,Hà Nội,Văn phòng phẩm,60000,2,Ví điện tử,4
+DH02332,27/06/2025,KH0081,Huế,Thực phẩm,52000,2,Chuyển khoản,4
+DH02333,27/06/2025,KH0227,Cần Thơ,Gia dụng,462000,3,Chuyển khoản,4
+DH02334,27/06/2025,KH0310,Cần Thơ,Mỹ phẩm,141000,1,Ví điện tử,5
+DH02335,27/06/2025,KH0175,Đà Nẵng,Thực phẩm,135000,,Ví điện tử,5
+DH02336,27/06/2025,KH0011,Hồ Chí Minh,Văn phòng phẩm,33000,2,Ví điện tử,
+DH02337,27/06/2025,KH0343, đà nẵng  ,Văn phòng phẩm,31000,,Tiền mặt,4
+DH02338,27/06/2025,KH0055,Hà Nội,Mỹ phẩm,306000,2,Chuyển khoản,2
+DH02339,27/06/2025,KH0203,Đà Nẵng,Gia dụng,442000,1,Ví điện tử,3
+DH02339,27/06/2025,KH0203,Đà Nẵng,Gia dụng,442000,1,Ví điện tử,3
+DH02340,27/06/2025,KH0469,Hồ Chí Minh,Mỹ phẩm,234000,1,Tiền mặt,3
+DH02341,27/06/2025,KH0225,Đà Nẵng,Văn phòng phẩm,58000,,Chuyển khoản,3
+DH02342,27/06/2025,KH0212,Huế,Thực phẩm,69000,5,Ví điện tử,3
+DH02343,27/06/2025,KH0428,Hà Nội,Đồ uống,21000,2,Ví điện tử,
+DH02344,27/06/2025,KH0269,Hồ Chí Minh,Đồ uống,34000,3,Chuyển khoản,4
+DH02345,28/06/2025,KH0125,Hà Nội,Gia dụng,345000,3,Tiền mặt,
+DH02346,28/06/2025,KH0065,Hà Nội,Gia dụng,333000,2,Tiền mặt,3
+DH02347,28/06/2025,KH0448,Cần Thơ,Đồ uống,31000,5,Chuyển khoản,3
+DH02348,28/06/2025,KH0035,Hồ Chí Minh,Thực phẩm,35000,4,Ví điện tử,3
+DH02349,28/06/2025,KH0403,  Hồ Chí Minh,Mỹ phẩm,131000,2,Ví điện tử,3
+DH02350,28/06/2025,KH0497,Hồ Chí Minh,Mỹ phẩm,207000,5,Ví điện tử,4
+DH02351,28/06/2025,KH0113,Hà Nội,Thực phẩm,90000,3,Tiền mặt,4
+DH02352,28/06/2025,KH0111,Hồ Chí Minh,Đồ uống,16000,4,Chuyển khoản,3
+DH02353,28/06/2025,KH0332,Hồ Chí Minh,Văn phòng phẩm,21000,4,Ví điện tử,4
+DH02354,28/06/2025,KH0042,Hồ Chí Minh,Mỹ phẩm,310000,2,Chuyển khoản,4
+DH02355,28/06/2025,KH0466,Cần Thơ,Thực phẩm,98000,4,Ví điện tử,4
+DH02356,28/06/2025,KH0179,Hồ Chí Minh,Gia dụng,539000,1,Ví điện tử,5
+DH02357,28/06/2025,KH0328,Đà Nẵng,Đồ uống,33000,4,Tiền mặt,4
+DH02358,28/06/2025,KH0069,Đà Nẵng,Mỹ phẩm,419000,2,Chuyển khoản,5
+DH02359,28/06/2025,KH0438,Cần Thơ,Thực phẩm,113000,4,Chuyển khoản,4
+DH02360,28/06/2025,KH0098,Hà Nội,Đồ uống,45000,1,Chuyển khoản,4
+DH02361,28/06/2025,,Hồ Chí Minh,Mỹ phẩm,248000,2,Ví điện tử,1
+DH02362,28/06/2025,KH0003,Hà Nội,Văn phòng phẩm,31000,2,Ví điện tử,4
+DH02363,28/06/2025,KH0026,Hồ Chí Minh,Mỹ phẩm,154000,7,Ví điện tử,
+DH02364,29/06/2025,,Hồ Chí Minh,Gia dụng,319000,1,Ví điện tử,4
+DH02365,29/06/2025,KH0157,Đà Nẵng,Thực phẩm,34000,4,Tiền mặt,
+DH02366,29/06/2025,KH0239,Hồ Chí Minh,Thực phẩm,54000,,Tiền mặt,3
+DH02367,29/06/2025,KH0090,Hồ Chí Minh,Thực phẩm,80000,2,Chuyển khoản,4
+DH02368,29/06/2025,KH0307,Hà Nội,Thực phẩm,59000,1,Ví điện tử,
+DH02369,29/06/2025,KH0196,Huế,Thực phẩm,74000,2,Chuyển khoản,3
+DH02370,29/06/2025,KH0085,Hồ Chí Minh,Đồ uống,20000,6,Tiền mặt,4
+DH02371,29/06/2025,KH0399,Hồ Chí Minh ,Đồ uống,43000,3,Tiền mặt,
+DH02372,29/06/2025,KH0268,Cần Thơ,Văn phòng phẩm,24000,,Chuyển khoản,2
+DH02373,29/06/2025,KH0123,đà nẵng,Mỹ phẩm,372000,2,Tiền mặt,3
+DH02374,29/06/2025,KH0078,Cần Thơ,Đồ uống,35000,5,Tiền mặt,5
+DH02375,29/06/2025,KH0117,Hà Nội,Thực phẩm,49000,8,Chuyển khoản,1
+DH02376,29/06/2025,KH0311,Hà Nội,Văn phòng phẩm,32000,7,Ví điện tử,5
+DH02377,29/06/2025,KH0376,Hồ Chí Minh,Đồ uống,39000,5,Ví điện tử,2
+DH02378,29/06/2025,KH0027,Đà Nẵng,Gia dụng,106000,2,Tiền mặt,5
+DH02379,29/06/2025,KH0081,Đà Nẵng,Gia dụng,164000,5,Tiền mặt,5
+DH02380,29/06/2025,KH0417,đà nẵng,Thực phẩm,65000,7,Ví điện tử,1
+DH02381,29/06/2025,KH0250, cần thơ  ,Thực phẩm,123000,1,Tiền mặt,5
+DH02382,29/06/2025,KH0048,Hồ Chí Minh,Đồ uống,37000,4,Tiền mặt,4
+DH02383,29/06/2025,KH0403,Đà Nẵng,Mỹ phẩm,241000,2,Ví điện tử,4
+DH02384,30/06/2025,KH0392,Huế,Đồ uống,29000,2,Tiền mặt,1
+DH02385,30/06/2025,KH0423,Đà Nẵng,Thực phẩm,143000,1,Tiền mặt,5
+DH02386,30/06/2025,KH0007,Đà Nẵng ,Đồ uống,45000,5,Ví điện tử,1
+DH02387,30/06/2025,KH0085,Hà Nội,Văn phòng phẩm,53000,3,Chuyển khoản,3
+DH02388,30/06/2025,KH0068,Hà Nội,Đồ uống,37000,2,Chuyển khoản,4
+DH02389,30/06/2025,KH0204,Đà Nẵng,Đồ uống,25000,5,Ví điện tử,2
+DH02390,30/06/2025,KH0041,hồ chí minh,Đồ uống,41000,5,Chuyển khoản,4
+DH02391,30/06/2025,KH0155,Đà Nẵng,Gia dụng,430000,,Ví điện tử,5
+DH02392,30/06/2025,KH0194,Hồ Chí Minh ,Thực phẩm,78000,1,Chuyển khoản,
+DH02393,30/06/2025,KH0189,Hồ Chí Minh,Văn phòng phẩm,54000,3,Ví điện tử,
+DH02394,30/06/2025,KH0215,Hồ Chí Minh,Gia dụng,553000,3,Chuyển khoản,4
+DH02395,30/06/2025,KH0497,Hà Nội,Văn phòng phẩm,32000,7,Chuyển khoản,2
+DH02396,30/06/2025,KH0155,Hồ Chí Minh,Mỹ phẩm,183000,2,Tiền mặt,5
+DH02397,30/06/2025,KH0154,Đà Nẵng,Văn phòng phẩm,6000,11,Tiền mặt,
+DH02398,30/06/2025,KH0457,Hồ Chí Minh,Văn phòng phẩm,59000,2,Ví điện tử,4
+DH02399,30/06/2025,KH0450,Huế,Thực phẩm,26000,1,Chuyển khoản,3
+DH02400,30/06/2025,KH0554,Hà Nội,Đồ uống,17000,1,Ví điện tử,4
